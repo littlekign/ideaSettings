@@ -1,0 +1,28 @@
+<application>
+  <component name="libraryTable">
+    <library name="Spring-5.2.3.RELEASE" type="spring">
+      <properties version="5.2.3.RELEASE" />
+      <CLASSES>
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-aspects-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-expression-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-instrument-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-context-support-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-aop-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-messaging-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-jms-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-jdbc-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-orm-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-beans-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/commons-logging-1.2.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/aopalliance-1.0.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-oxm-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-tx-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-test-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-core-5.2.3.RELEASE.jar!/" />
+        <root url="jar:///Volumes/centos/spring-basic-libs/spring-context-5.2.3.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
