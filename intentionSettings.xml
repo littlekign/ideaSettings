@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Declaration/Split declaration" />
     <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
