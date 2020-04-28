@@ -1,6 +1,22 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>action FindNext</entry>
+        <entry>action Find</entry>
+        <entry>action AceJumpAction</entry>
+        <entry>action $Redo</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
@@ -42,7 +58,226 @@
         <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/application.yml" timestamp="1588013189755">
+        <mark key="'" line="62" column="26" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="/a.dummy" timestamp="1588006067019">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/templates/index.html" timestamp="1588010460902">
+        <mark key="'" line="13" column="25" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/springshiro/SpringShiroApplication.java" timestamp="1588005841620">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/templates/user/update.html" timestamp="1588003837192">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/controller/IndexController.java" timestamp="1588011492646">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="54" column="9" />
+        <mark key="]" line="55" column="19" />
+        <mark key="." line="55" column="19" />
+        <mark key="^" line="55" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/SpringShiroApplication.java" timestamp="1588005928966">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/templates/auth/login.html" timestamp="1588011561665">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/controller/LoginController.java" timestamp="1588005515826">
+        <mark key="'" line="17" column="12" />
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/templates/user/add.html" timestamp="1588003828832">
+        <mark key="[" line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/pojo/User.java" timestamp="1588012563308">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/config/ShiroConfig.java" timestamp="1588011599726">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="30" />
+        <mark key="^" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/hello-shiro/src/main/java/Quickstart.java" timestamp="1588001132732">
+        <mark key="[" line="75" column="78" />
+        <mark key="]" line="67" column="47" />
+        <mark key="." line="67" column="47" />
+        <mark key="^" line="67" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/config/UserRealm.java" timestamp="1588012660805">
+        <mark key="[" line="37" column="65" />
+        <mark key="]" line="37" column="81" />
+        <mark key="^" line="37" column="81" />
+        <mark key="." line="37" column="81" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/hello-shiro/pom.xml" timestamp="1588000145182">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+      </file>
+      <file name="/fragment.java" timestamp="1588005915513">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/pom.xml" timestamp="1588012950485">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="36" column="27" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/iostream.java" />
+      <jump line="45" column="11" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/characterstream.java" />
+      <jump line="24" column="25" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/characterstream.java" />
+      <jump line="82" column="12" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/characterstream.java" />
+      <jump line="27" column="29" filename="$USER_HOME$/Desktop/project/spring/src/com/example/controllers/HelloController.java" />
+      <jump line="240" column="50" filename="$USER_HOME$/Desktop/project/spring/.idea/workspace.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/project/spring/.idea/workspace.xml" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desktop/project/spring/src/com/example/controllers/HelloController.java" />
+      <jump line="15" column="2" filename="$USER_HOME$/Desktop/project/spring/web/views/index.jsp" />
+      <jump line="27" column="18" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/override.java" />
+      <jump line="25" column="38" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/override.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/override.java" />
+      <jump line="22" column="40" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/StringFun.java" />
+      <jump line="27" column="40" filename="$USER_HOME$/Desktop/project/spring/src/main/cn/webapp/config/AppConfig.java" />
+      <jump line="18" column="14" filename="$USER_HOME$/Desktop/project/spring/src/main/cn/webapp/config/SpringMvcDispatcherServletInitializer.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/Desktop/project/rawjava/src/datastructure/binarytree.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/project/rawjava/src/datastructure/binarytree.java" />
+      <jump line="260" column="0" filename="$USER_HOME$/Desktop/project/rawjava/src/datastructure/binarytree.java" />
+      <jump line="24" column="16" filename="$USER_HOME$/Desktop/project/springboot/chapter02/src/main/java/gzsc/webapp/controller/HelloController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/project/springboot/chapter02/src/main/java/gzsc/webapp/controller/HelloController.java" />
+      <jump line="8" column="3" filename="$USER_HOME$/Desktop/project/springboot/chapter02/src/main/java/gzsc/webapp/repositories/AuthorRespostory.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Desktop/project/springboot/chapter02/src/main/java/gzsc/webapp/repositories/AuthorRespostory.java" />
+      <jump line="16" column="45" filename="$USER_HOME$/Desktop/project/springbootInjection/src/main/java/com/example/demo/DemoApplication.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/project/springbootInjection/src/main/java/com/example/demo/DemoApplication.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/project/springbootInjection/src/main/java/com/example/demo/controller/PropertyInjectedController.java" />
+      <jump line="27" column="15" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/model/Todo.java" />
+      <jump line="28" column="26" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/model/Todo.java" />
+      <jump line="69" column="17" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/model/Todo.java" />
+      <jump line="28" column="20" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/controller/todolsController.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/controller/todolsController.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/Desktop/live/todoapp/src/main/resources/templates/index.html" />
+      <jump line="24" column="11" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ColonyReader.java" />
+      <jump line="54" column="61" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ProjectRunner.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/ColonyReader.java" />
+      <jump line="147" column="22" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ColonyReader.java" />
+      <jump line="151" column="13" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ColonyReader.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ColonyReader.java" />
+      <jump line="215" column="32" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
+      <jump line="147" column="6" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
+      <jump line="182" column="31" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
+      <jump line="137" column="44" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
+      <jump line="33" column="19" filename="$USER_HOME$/Desktop/project/webapp/pom.xml" />
+      <jump line="21" column="13" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/config/Appconfig.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DepartmentDao.java" />
+      <jump line="21" column="10" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DepartmentDao.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DaoInfo.java" />
+      <jump line="69" column="20" filename="$USER_HOME$/Desktop/project/halo/src/main/java/run/halo/app/model/entity/User.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/project/springmvc/src/main/com/gz/webapp/resources/spring-servlet.xml" />
+      <jump line="24" column="7" filename="$USER_HOME$/Desktop/project/springmvc/src/main/com/gz/webapp/resources/spring-servlet.xml" />
+      <jump line="24" column="1" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DaoInfo.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DaoInfo.java" />
+      <jump line="2" column="27" filename="$USER_HOME$/Desktop/project/todoapp/src/main/resources/application.properties" />
+      <jump line="32" column="0" filename="$USER_HOME$/Desktop/project/todoapp/src/test/java/com/todoapp/TodoappApplicationTests.java" />
+      <jump line="24" column="8" filename="$USER_HOME$/Desktop/project/todoapp/src/test/java/com/todoapp/TodoappApplicationTests.java" />
+      <jump line="4" column="16" filename="$USER_HOME$/Desktop/project/todoapp/src/main/resources/templates/demo/demo.html" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/project/todoapp/pom.xml" />
+      <jump line="23" column="24" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/pom.xml" />
+      <jump line="12" column="25" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/templates/index.html" />
+      <jump line="16" column="12" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/controller/LoginController.java" />
+      <jump line="54" column="8" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/config/ShiroConfig.java" />
+      <jump line="53" column="4" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/config/ShiroConfig.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/controller/IndexController.java" />
+      <jump line="9" column="15" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/pojo/User.java" />
+      <jump line="62" column="26" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/application.yml" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>com.</text>
+      </register>
+      <register name="-" type="4">
+        <text>com.</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSAibGl0dGxla2lnbiI7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QERhdGEK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QERhdGEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdWJqZWN0Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXNwb25zZUJvZHk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0UGFyYW07Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
