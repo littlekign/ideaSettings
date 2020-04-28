@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="DCEVM" shouldLog="false" />
+    <notification groupId="Lombok plugin" shouldReadAloud="true" />
   </component>
 </application>
