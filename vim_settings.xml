@@ -139,12 +139,12 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/applicationContext.xml" timestamp="1588161832517">
-        <mark key="'" line="72" column="38" />
-        <mark key="[" line="63" column="32" />
-        <mark key="]" line="63" column="32" />
-        <mark key="." line="63" column="32" />
-        <mark key="^" line="63" column="33" />
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/applicationContext.xml" timestamp="1588162625336">
+        <mark key="'" line="71" column="38" />
+        <mark key="[" line="70" column="48" />
+        <mark key="]" line="70" column="56" />
+        <mark key="^" line="70" column="56" />
+        <mark key="." line="70" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/project/shiro/hello-shiro/src/main/java/Quickstart.java" timestamp="1588001132732">
         <mark key="[" line="75" column="78" />
@@ -245,10 +245,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>Driver</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>Driver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSAibGl0dGxla2lnbiI7Cg==</text>
@@ -257,28 +257,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdWJqZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXNwb25zZUJvZHk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0UGFyYW07Cg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
