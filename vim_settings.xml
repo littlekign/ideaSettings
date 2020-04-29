@@ -115,6 +115,7 @@
         <mark key="." line="25" column="21" />
         <mark key="^" line="25" column="19" />
       </file>
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/generatorConfig.xml" timestamp="1588161561265" />
       <file name="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/templates/user/add.html" timestamp="1588003828832">
         <mark key="[" line="6" column="6" />
       </file>
@@ -131,6 +132,19 @@
         <mark key="]" line="39" column="30" />
         <mark key="^" line="39" column="30" />
         <mark key="." line="39" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/jdbc.properties" timestamp="1588161666737">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/applicationContext.xml" timestamp="1588161832517">
+        <mark key="'" line="72" column="38" />
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="32" />
+        <mark key="." line="63" column="32" />
+        <mark key="^" line="63" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/project/shiro/hello-shiro/src/main/java/Quickstart.java" timestamp="1588001132732">
         <mark key="[" line="75" column="78" />
@@ -225,15 +239,16 @@
       <jump line="37" column="0" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/controller/IndexController.java" />
       <jump line="9" column="15" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/pojo/User.java" />
       <jump line="62" column="26" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/application.yml" />
+      <jump line="72" column="38" filename="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/applicationContext.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>com.</text>
+        <text>*</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSAibGl0dGxla2lnbiI7Cg==</text>
