@@ -62,31 +62,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/WebRoot/shujiyuyue_list_yuyueduzhe.jsp" timestamp="1588170907891" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/WebRoot/duzhe_add.jsp" timestamp="1588171018995" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/out/artifacts/ssm_war_exploded/WEB-INF/lib/mybatis-3.4.6.jar!/org/apache/ibatis/annotations/Options.class" timestamp="1588174335375" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/out/artifacts/ssm_war_exploded/WEB-INF/lib/mapper-3.5.3.jar!/tk/mybatis/mapper/common/Mapper.class" timestamp="1588175613222" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/pom.xml" timestamp="1588174977487" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/dao/Query.java" timestamp="1588178417652" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/ShujijieyueController.java" timestamp="1588179064485" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/WebRoot/zhifu/index.jsp" timestamp="1588180547864" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/base/IServiceBase.java" timestamp="1588175369450" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/sqlmap/DuzheMapper.xml" timestamp="1588172929749">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="6" />
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/out/artifacts/ssm_war_exploded/WEB-INF/lib/mapper-3.5.3.jar!/tk/mybatis/mapper/provider/base/BaseInsertProvider.class" timestamp="1588176019303" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/out/artifacts/ssm_war_exploded/WEB-INF/lib/mybatis-3.4.6.jar!/org/apache/ibatis/annotations/InsertProvider.class" timestamp="1588174339818" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/dao/db/Builder.java" timestamp="1588172793499" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/out/artifacts/ssm_war_exploded/WEB-INF/lib/mapper-3.5.3.jar!/tk/mybatis/mapper/common/BaseMapper.class" timestamp="1588175615215" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/dao/DuzheMapper.java" timestamp="1588174084320" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/dao/db/Mysql.java" timestamp="1588172790801" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/out/artifacts/ssm_war_exploded/WEB-INF/lib/mapper-3.5.3.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.class" timestamp="1588176551050" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/base/MapperBase.java" timestamp="1588175147603" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/DuzheController.java" timestamp="1588171553180" />
-      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/ShujiyuyueController.java" timestamp="1588178889704" />
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/generatorConfig.xml" timestamp="1588259727736" />
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/util/Request.java" timestamp="1588259404958" />
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/WebRoot/comment.jsp" timestamp="1588258635604" />
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/dao/Query.java" timestamp="1588259247912">
+        <mark key="'" line="835" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/dao/CommDAO.java" timestamp="1588258878339" />
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/jdbc.properties" timestamp="1588259741503" />
     </filemarks>
     <jumps>
       <jump line="36" column="27" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/iostream.java" />
@@ -154,6 +143,7 @@
       <jump line="9" column="15" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/java/com/pojo/User.java" />
       <jump line="62" column="26" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/application.yml" />
       <jump line="72" column="38" filename="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/applicationContext.xml" />
+      <jump line="835" column="0" filename="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/dao/Query.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
