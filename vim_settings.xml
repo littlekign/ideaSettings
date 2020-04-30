@@ -78,6 +78,7 @@
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/WebRoot/js/jquery.validate.js" timestamp="1588267378185" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/WebRoot/comment.jsp" timestamp="1588258635604" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/UserController.java" timestamp="1588263553118" />
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/WebRoot/total_yueduliangtongji.jsp" timestamp="1588269524495" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/main/interceptor/AuthInterceptor.java" timestamp="1588262696361" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/service/impl/AdminServiceImpl.java" timestamp="1588266916790" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/dao/Query.java" timestamp="1588259247912">
@@ -85,6 +86,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/base/MapperBase.java" timestamp="1588266533382" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/dao/CommDAO.java" timestamp="1588258878339" />
+      <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/ShujijieyueController.java" timestamp="1588269506125" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/resources/jdbc.properties" timestamp="1588261703951" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/out/artifacts/ssm_war_exploded/WEB-INF/lib/mapper-3.5.3.jar!/tk/mybatis/mapper/common/base/insert/InsertMapper.class" timestamp="1588268211096" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/WebRoot/zhifu/index.jsp" timestamp="1588263092956" />
