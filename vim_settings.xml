@@ -97,6 +97,12 @@
         <mark key="." line="1" column="54" />
         <mark key="^" line="23" column="51" />
       </file>
+      <file name="$USER_HOME$/Desktop/project/todoapp/springboot-todoapp/src/main/java/com/springboottodoapp/entity/TodoList.java" timestamp="1588408831817">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="24" column="50" />
+        <mark key="^" line="24" column="50" />
+        <mark key="." line="24" column="49" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="36" column="27" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/iostream.java" />
