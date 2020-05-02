@@ -92,6 +92,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/UserController.java" timestamp="1588397526407" />
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/main/interceptor/AuthInterceptor.java" timestamp="1588397242252" />
+      <file name="$USER_HOME$/Desktop/project/todoapp/springboot-todoapp/pom.xml" timestamp="1588427103431">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="26" />
+      </file>
       <file name="$USER_HOME$/Desktop/4-29/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/DuzheController.java" timestamp="1588392595373">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -195,10 +201,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>$</text>
       </register>
       <register name="0" type="4">
         <text>lorem</text>
