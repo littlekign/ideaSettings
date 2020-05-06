@@ -86,6 +86,14 @@
         <mark key="." line="23" column="35" />
         <mark key="^" line="23" column="48" />
       </file>
+      <file name="/Volumes/centos/mavenRepository/org/springframework/spring-context/3.0.7.RELEASE/spring-context-3.0.7.RELEASE.jar!/org/springframework/stereotype/Component.class" timestamp="1588761951995" />
+      <file name="$USER_HOME$/Desktop/untitled folder/WeClass/src/main/java/com/zechuan/WeClass/Application.java" timestamp="1588762269705">
+        <mark key="'" line="6" column="27" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/Desktop/project/todoapp/springboot-todoapp/src/test/java/com/springboottodoapp/CapcheTest.java" timestamp="1588427931010">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -126,12 +134,6 @@
         <mark key="^" line="22" column="30" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/project/todoapp/springboot-todoapp/src/main/resources/application.properties" timestamp="1588416869647">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="27" />
-      </file>
       <file name="$USER_HOME$/Desktop/project/codes/springboot-sample/proxy/src/main/java/com/proxy/demo01/service/Impl/UserServiceImpl.java" timestamp="1588505536740">
         <mark key="[" line="37" column="28" />
         <mark key="]" line="37" column="30" />
@@ -144,6 +146,11 @@
       <file name="$USER_HOME$/Desktop/untitled folder/3170407079-杨琦_3170407095-王毅铭/dazuoye1/src/main/java/com/example/demo/DemoApplication.java" timestamp="1588601206816">
         <mark key="[" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/Desktop/untitled folder/WeClass/pom.xml" timestamp="1588762168949">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/Desktop/project/codes/springboot-sample/proxy/src/main/java/com/proxy/demo01/service/Client.java" timestamp="1588505995878">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="40" />
@@ -153,14 +160,7 @@
       <file name="$USER_HOME$/Desktop/untitled folder/3170407079-杨琦_3170407095-王毅铭/dazuoye1/src/main/java/com/example/demo/config/WebConfigurer.java" timestamp="1588601579152">
         <mark key="[" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/project/todoapp/springboot-todoapp/src/test/java/com/springboottodoapp/entity/TodoListTest.java" timestamp="1588416965781">
-        <mark key="'" line="26" column="99" />
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="23" />
-      </file>
-      <file name="/fragment.java" timestamp="1588602642194">
+      <file name="/fragment.java" timestamp="1588762069767">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -235,45 +235,46 @@
       <jump line="29" column="17" filename="$USER_HOME$/Desktop/project/todoapp/springboot-todoapp/src/main/java/com/springboottodoapp/entity/TodoList.java" />
       <jump line="9" column="15" filename="$USER_HOME$/Desktop/project/todoapp/springboot-todoapp/src/main/java/com/springboottodoapp/entity/TodoList.java" />
       <jump line="14" column="99" filename="$USER_HOME$/Desktop/project/todoapp/springboot-todoapp/src/test/java/com/springboottodoapp/entity/TodoListTest.java" />
+      <jump line="6" column="27" filename="$USER_HOME$/Desktop/untitled folder/WeClass/src/main/java/com/zechuan/WeClass/Application.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>loupan</text>
+        <text>basePackages = {“com.zechuan.WeClass”})</text>
       </register>
       <register name="-" type="4">
-        <text>loupan</text>
+        <text>basePackages = {“com.zechuan.WeClass”})</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuWinuWKoOS6huS4gOS4queUqOaItyIpOwo=</text>
+        <text encoding="base64">Ly9AQ29tcG9uZW50U2NhbihiYXNlUGFja2FnZXMgPSB74oCcY29tLnplY2h1YW4uV2VDbGFzc+KAnX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGh0bWw+PC9odG1sPg==</text>
+        <text encoding="base64">Ly9AQ29tcG9uZW50U2NhbihiYXNlUGFja2FnZXMgPSB74oCcY29tLnplY2h1YW4uV2VDbGFzc+KAnX0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGVzPgogICAgICAgIDxtb2R1bGU+dW50aXRsZWQ8L21vZHVsZT4KICAgIDwvbW9kdWxlcz4=</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oImNvbS56ZWNodWFuLldlQ2xhc3MiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm94eS5hZGQoKTsK</text>
+        <text encoding="base64">Ly9pbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5jb250ZXh0LmFkZG5ub3RhdGlvbi5Db21wb25lbnRTY2FuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm94eS5hZGQoKTsK</text>
+        <text encoding="base64">fSovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm94eS5zZXRVc2VyU2VydmljZSh1c2VyU2VydmljZSk7Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm94eS4K</text>
+        <text encoding="base64">PGh0bWw+PC9odG1sPg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtb2R1bGVzPgogICAgICAgIDxtb2R1bGU+dW50aXRsZWQ8L21vZHVsZT4KICAgIDwvbW9kdWxlcz4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
