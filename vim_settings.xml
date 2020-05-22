@@ -113,10 +113,12 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588763814427">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/个人博客系统的设计与实现【尚学堂·百战程序员】/源代码/基于SSM的个人博客系统源代码/src/main/java/com/blog/controller/BloggerController.java" timestamp="1590159423602" />
+      <file name="$USER_HOME$/Downloads/个人博客系统的设计与实现【尚学堂·百战程序员】/源代码/Blog/src/main/java/com/blog/controller/IndexController.java" timestamp="1590164187620">
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+      </file>
       <file name="$USER_HOME$/Desktop/Halma/src/xyz/chengzi/halma/Halma.java" timestamp="1589473924267">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="20" column="46" />
@@ -217,10 +219,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uMS5zZXRJY29uKGFubml1Mik7Cg==</text>
