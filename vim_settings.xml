@@ -77,6 +77,9 @@
         <mark key="." line="55" column="57" />
         <mark key="^" line="55" column="58" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590465170695">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/个人博客系统的设计与实现【尚学堂·百战程序员】/源代码/基于SSM的个人博客系统源代码/src/main/resources/log4j.properties" timestamp="1590160273156">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -137,13 +140,13 @@
         <mark key="]" line="55" column="55" />
         <mark key="." line="55" column="55" />
       </file>
-      <file name="/Volumes/centos/JAVA_PROJECT/书城/bookstore/src/main/resources/application.properties" timestamp="1590464415277">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="38" />
-        <mark key="^" line="14" column="39" />
+      <file name="/Volumes/centos/JAVA_PROJECT/书城/bookstore/src/main/resources/application.properties" timestamp="1590465316178">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="65" />
+        <mark key="." line="12" column="64" />
+        <mark key="^" line="12" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1588820653497">
+      <file name="/fragment.java" timestamp="1590465170626">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -225,10 +228,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>123456</text>
+        <text>categroy</text>
       </register>
       <register name="-" type="4">
-        <text>123456</text>
+        <text>categroy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uMS5zZXRJY29uKGFubml1Mik7Cg==</text>
