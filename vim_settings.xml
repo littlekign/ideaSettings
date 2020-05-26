@@ -91,6 +91,7 @@
       <file name="$USER_HOME$/Downloads/个人博客系统的设计与实现【尚学堂·百战程序员】/源代码/Blog/pom.xml" timestamp="1590206418464">
         <mark key="[" line="23" column="17" />
       </file>
+      <file name="/Volumes/centos/JAVA_PROJECT/书城/bookstore/src/main/java/org/zdd/bookstore/model/service/impl/BookInfoServiceImpl.java" timestamp="1590464405396" />
       <file name="$USER_HOME$/Desktop/untitled folder/WeClass/src/main/resources/spring/spring-common.xml" timestamp="1588764869582">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -136,10 +137,15 @@
         <mark key="]" line="55" column="55" />
         <mark key="." line="55" column="55" />
       </file>
+      <file name="/Volumes/centos/JAVA_PROJECT/书城/bookstore/src/main/resources/application.properties" timestamp="1590464415277">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="39" />
+      </file>
       <file name="/fragment.java" timestamp="1588820653497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/centos/JAVA_PROJECT/zhaopin/src/beans.xml" timestamp="1590416012994" />
     </filemarks>
     <jumps>
       <jump line="36" column="27" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/iostream.java" />
@@ -219,10 +225,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ͳ</text>
+        <text>123456</text>
       </register>
       <register name="-" type="4">
-        <text>ͳ</text>
+        <text>123456</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uMS5zZXRJY29uKGFubml1Mik7Cg==</text>
