@@ -65,12 +65,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/webend/shangmao-server/shangmao/src/main/resources/datasource.properties" timestamp="1590763665056">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="28" />
-      </file>
       <file name="$USER_HOME$/Downloads/webend/项目源码/shangmao-server-后端项目/shangmao/src/main/java/com/alipay/demo/trade/Main.java" timestamp="1590770751572" />
       <file name="$USER_HOME$/Downloads/webend/项目源码/shangmao-server-后端项目/shangmao/src/main/java/com/shangmao/util/MD5Util.java" timestamp="1590797538231" />
       <file name="$USER_HOME$/Desktop/work-space/MinaTest-master/.classpath" timestamp="1590819052340" />
@@ -85,6 +79,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/webend/项目源码/shangmao-server-后端项目/shangmao/src/main/java/com/alipay/demo/trade/DemoHbRunner.java" timestamp="1590770126027" />
+      <file name="$USER_HOME$/Downloads/个性化新闻推荐/Struts2.3.16.1Hibernate4.3.4Spring4.0.2/resources/db.properties" timestamp="1590820033507">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/webend/项目源码/shangmao-server-后端项目/shangmao/src/main/java/com/shangmao/pojo/Order.java" timestamp="1590771205403" />
       <file name="$USER_HOME$/Downloads/webend/项目源码/shangmao-server-后端项目/shangmao/src/main/java/com/shangmao/service/impl/OrderServiceImpl.java" timestamp="1590771450245" />
       <file name="$USER_HOME$/Downloads/webend/k13d6t/src/main/java/com/alipay/demo/trade/DemoHbRunner.java" timestamp="1590770676535">
@@ -174,13 +174,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>small</text>
+        <text>123456</text>
       </register>
       <register name="-" type="4">
-        <text>small</text>
+        <text>123456</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UucGFzc3dvcmQ9V2gxMjA2MTIzLgo=</text>
+        <text encoding="base64">amRiY1VybAkJPSBqZGJjXDpteXNxbFw6Ly8vMjAxOTA0MDFuZXdzP3VzZVVuaWNvZGVcPXRydWUmY2hhcmFjdGVyRW5jb2RpbmdcPXV0ZjgK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
