@@ -74,27 +74,27 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/Downloads/个性化新闻推荐/Struts2.3.16.1Hibernate4.3.4Spring4.0.2/src/resources/hibernate.cfg.xml" timestamp="1590822528999">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/个性化新闻推荐/Struts2.3.16.1Hibernate4.3.4Spring4.0.2/resources/db.properties" timestamp="1590820033507">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="24" />
-      </file>
       <file name="$USER_HOME$/Downloads/webend/项目源码/shangmao-server-后端项目/shangmao/src/main/resources/datasource.properties" timestamp="1590771615535">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/Downloads/个性化新闻推荐/Struts2.3.16.1Hibernate4.3.4Spring4.0.2/src/resources/hibernate.cfg.xml" timestamp="1590822528999">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/webend/k13d6t/src/main/java/com/alipay/demo/trade/DemoHbRunner.java" timestamp="1590770676535">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="20" column="26" />
         <mark key="." line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/Downloads/个性化新闻推荐/Struts2.3.16.1Hibernate4.3.4Spring4.0.2/resources/db.properties" timestamp="1590820033507">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Downloads/个性化新闻推荐/Struts2.3.16.1Hibernate4.3.4Spring4.0.2/src/resources/db.properties" timestamp="1590822224503">
         <mark key="[" line="0" column="37" />
@@ -107,7 +107,7 @@
         <mark key="]" line="13" column="58" />
         <mark key="." line="13" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1590818821311">
+      <file name="/fragment.java" timestamp="1590925784085">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
