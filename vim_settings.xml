@@ -80,7 +80,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/flowerstore/src/main/java/com/laver/bookstore/controller/BookController.java" timestamp="1590983635504" />
+      <file name="$USER_HOME$/Downloads/flowerstore/src/main/java/com/laver/bookstore/controller/BookController.java" timestamp="1590984417155" />
       <file name="$USER_HOME$/Downloads/个性化新闻推荐/Struts2.3.16.1Hibernate4.3.4Spring4.0.2/resources/db.properties" timestamp="1590820033507">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="24" />
@@ -94,6 +94,7 @@
         <mark key="^" line="76" column="5" />
         <mark key="." line="77" column="72" />
       </file>
+      <file name="$USER_HOME$/Downloads/flowerstore/src/main/java/com/laver/bookstore/mapper/NoticeMapper.java" timestamp="1590984849774" />
       <file name="$USER_HOME$/Downloads/webend/项目源码/shangmao-server-后端项目/shangmao/src/main/resources/datasource.properties" timestamp="1590771615535">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="16" />
