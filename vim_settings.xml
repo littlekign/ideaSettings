@@ -65,8 +65,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/flowerstore/src/main/java/com/laver/bookstore/domain/Notice.java" timestamp="1590987134951" />
-      <file name="/Dummy.txt" timestamp="1590818573873">
+      <file name="/Dummy.txt" timestamp="1591064482980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/arranging-courses-master/src/main/resources/application.properties" timestamp="1590905401851">
@@ -92,14 +91,12 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/flowerstore/src/main/java/com/laver/bookstore/domain/Book.java" timestamp="1590981015392" />
       <file name="$USER_HOME$/Downloads/flowerstore/src/main/resources/mapper/BookMapper.xml" timestamp="1590980650102">
         <mark key="[" line="77" column="72" />
         <mark key="]" line="77" column="72" />
         <mark key="^" line="76" column="5" />
         <mark key="." line="77" column="72" />
       </file>
-      <file name="$USER_HOME$/Downloads/flowerstore/src/main/java/com/laver/bookstore/mapper/NoticeMapper.java" timestamp="1590984849774" />
       <file name="$USER_HOME$/Downloads/webend/项目源码/shangmao-server-后端项目/shangmao/src/main/resources/datasource.properties" timestamp="1590771615535">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="16" />
@@ -128,7 +125,7 @@
         <mark key="]" line="13" column="58" />
         <mark key="." line="13" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1590926317605">
+      <file name="/fragment.java" timestamp="1591064482908">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
