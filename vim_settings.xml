@@ -103,6 +103,12 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/Downloads/petmanager/src/main/resources/jdbc.properties" timestamp="1591069064171">
+        <mark key="[" line="2" column="88" />
+        <mark key="]" line="2" column="92" />
+        <mark key="." line="2" column="91" />
+        <mark key="^" line="2" column="92" />
+      </file>
       <file name="$USER_HOME$/Downloads/webend/k13d6t/src/main/java/com/alipay/demo/trade/DemoHbRunner.java" timestamp="1590770676535">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="20" column="26" />
@@ -206,11 +212,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkgZGF0ZVN0cj0gTG9uZy52YWx1ZU9mKG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIikuZm9ybWF0KGJvb2suZ2V0RGF0ZSgpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>LonSg</text>
+        <text>false</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJpZCwgYm5hbWUsIGRldGFpbCwgcGlyY2UsIHdyaXRlciwgcHJpbnRlciwgZGF0ZSwgdHlwZSwgaW1hZ2UsIHN0b3JlLHdob2xlbnVtCg==</text>
