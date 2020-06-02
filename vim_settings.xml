@@ -99,6 +99,12 @@
       <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块/nbproject/build-impl.xml" timestamp="1591106103156">
         <mark key="'" line="36" column="25" />
       </file>
+      <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块 2/manifest.mf" timestamp="1591106554628">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="58" />
+        <mark key="^" line="1" column="59" />
+        <mark key="." line="1" column="58" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591064482980">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,12 +113,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/flowerstore/src/main/java/com/laver/bookstore/controller/BookController.java" timestamp="1590987491579">
-        <mark key="[" line="209" column="8" />
-        <mark key="]" line="209" column="14" />
-        <mark key="." line="209" column="13" />
-        <mark key="^" line="209" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块/manifest.mf" timestamp="1591105443935" />
       <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块/src/1/BlockT1.java" timestamp="1591104664840">
@@ -222,10 +222,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJpZCwgYm5hbWUsIGRldGFpbCwgcGlyY2UsIHdyaXRlciwgcHJpbnRlciwgZGF0ZSwgdHlwZSwgaW1hZ2UsIHN0b3JlLHdob2xlbnVtCg==</text>
