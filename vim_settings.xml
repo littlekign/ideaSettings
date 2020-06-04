@@ -82,6 +82,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/coachTicket/src/jdbc.properties" timestamp="1591287633958">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/work-space/material/material/src/cn/gdou/material/util/MyFont.java" timestamp="1591283589976" />
       <file name="$USER_HOME$/Downloads/work-space/StudentBookingSystem/src/studentbooking/db/DBHelper.java" timestamp="1591286829486">
         <mark key="[" line="44" column="31" />
@@ -219,10 +225,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SQLServerDriver</text>
+        <text>ticketing</text>
       </register>
       <register name="-" type="4">
-        <text>SQLServerDriver</text>
+        <text>ticketing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJSW1hZ2UgaW1nYWUgPSBJbWFnZUlPLnJlYWQobmV3IEZpbGUoIi9pbWFnZS9sb2dvLnBuZyIpKTsK</text>
