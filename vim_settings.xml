@@ -11,6 +11,7 @@
         <entry>w</entry>
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action QuickJavaDoc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -104,12 +105,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/6.3/untitled/demo/src/main/java/com/example/controller/IndexController.java" timestamp="1591258034551">
+      <file name="$USER_HOME$/Downloads/6.3/untitled/demo/src/main/java/com/example/controller/IndexController.java" timestamp="1591258643811">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="42" column="66" />
-        <mark key="]" line="42" column="116" />
-        <mark key="^" line="42" column="116" />
-        <mark key="." line="42" column="115" />
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="16" />
       </file>
       <file name="$USER_HOME$/Downloads/6.3/untitled/demo/src/main/java/com/example/pojo/Feeling.java" timestamp="1591249546321">
         <mark key="'" line="65" column="0" />
@@ -147,11 +148,11 @@
         <mark key="." line="19" column="102" />
         <mark key="^" line="19" column="103" />
       </file>
-      <file name="$USER_HOME$/Downloads/6.3/untitled/demo/src/main/resources/templates/addFeel.html" timestamp="1591256788350">
-        <mark key="[" line="43" column="72" />
-        <mark key="]" line="43" column="76" />
-        <mark key="^" line="43" column="76" />
-        <mark key="." line="43" column="75" />
+      <file name="$USER_HOME$/Downloads/6.3/untitled/demo/src/main/resources/templates/addFeel.html" timestamp="1591258427596">
+        <mark key="[" line="43" column="87" />
+        <mark key="]" line="43" column="106" />
+        <mark key="^" line="43" column="106" />
+        <mark key="." line="43" column="105" />
       </file>
       <file name="/fragment.java" timestamp="1591257767825">
         <mark key="[" line="0" column="0" />
@@ -243,44 +244,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>RequestBody</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>RequestBody</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIjEyMSI7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIEBDb25zdW1lcyh7ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCJ9KQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY2tzb24tZGF0YWJpbmQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuOC44LjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjEyMSI7Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjEyMSI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImxpc3QiLGxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGZWVsaW5nIGxpc3QgPSBmZWVsaW5nTWFwcGVyLmluc2VyRmVlbChTdHJpbmcgdGl0bGUsU3RyaW5nIGNvbnRlbnQgLGludCB0eXBlKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImxpc3QiLGxpc3QpOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBGZWVsaW5nIGxpc3QgPSBmZWVsaW5nTWFwcGVyLmluc2VyRmVlbChTdHJpbmcgdGl0bGUsU3RyaW5nIGNvbnRlbnQgLGludCB0eXBlKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGZWVsaW5nIGxpc3QgPSBmZWVsaW5nTWFwcGVyLmZpbmRCeUlkKGZpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImxpc3QiLGxpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindNext</text>
+        <text>action QuickJavaDoc</text>
       </register>
     </registers>
   </component>
