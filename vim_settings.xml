@@ -65,22 +65,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/6.3/心理健康网站/mental/src/main/resources/logback.xml" timestamp="1591169392353" />
-      <file name="$USER_HOME$/Downloads/6.2/2/GymMS/ssm-02/src/main/resources/database.properties" timestamp="1591159811048">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块/nbproject/build-impl.xml" timestamp="1591106103156">
-        <mark key="'" line="36" column="25" />
-      </file>
-      <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块 2/manifest.mf" timestamp="1591106554628">
-        <mark key="[" line="1" column="58" />
-        <mark key="]" line="1" column="58" />
-        <mark key="^" line="1" column="59" />
-        <mark key="." line="1" column="58" />
-      </file>
       <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块/nbproject/build-imp.xml" timestamp="1591105813205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -92,28 +76,46 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/6.3/demo/src/main/java/com/DemoApplication.java" timestamp="1591242282440">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/6.2/2/GymMS/ssm-02/src/main/resources/database.properties" timestamp="1591159811048">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/dirary/pom.xml" timestamp="1591237118539">
         <mark key="[" line="60" column="11" />
         <mark key="]" line="60" column="12" />
         <mark key="^" line="60" column="12" />
         <mark key="." line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/Downloads/6.2/2/GymMS/ssm-02/src/main/resources/mybatis-config.xml" timestamp="1591234468223" />
-      <file name="$USER_HOME$/Downloads/6.3/心理健康网站/mental/src/main/java/com/caseinfo/controller/ArticleController.java" timestamp="1591182369933" />
       <file name="$USER_HOME$/Downloads/mavneTest/demo/src/main/resources/application.properties" timestamp="1591233561966">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/6.3/心理健康网站/mental/src/main/java/com/caseinfo/controller/IndexController.java" timestamp="1591170522127" />
-      <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块/src/俄罗斯方块/BlockT4.java" timestamp="1591105289366">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
+      <file name="$USER_HOME$/Downloads/6.3/demo/src/main/resources/application.properties" timestamp="1591242316454">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="49" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块/build.xml" timestamp="1591106204582">
         <mark key="'" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块/nbproject/build-impl.xml" timestamp="1591106103156">
+        <mark key="'" line="36" column="25" />
+      </file>
+      <file name="$USER_HOME$/Downloads/6.3/demo/pom.xml" timestamp="1591242366045">
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+        <mark key="^" line="48" column="27" />
       </file>
       <file name="$USER_HOME$/Downloads/6.3/心理健康网站/mental/src/main/resources/spring-dao.xml" timestamp="1591170606460">
         <mark key="[" line="61" column="40" />
@@ -121,7 +123,13 @@
         <mark key="^" line="61" column="48" />
         <mark key="." line="61" column="47" />
       </file>
-      <file name="/fragment.java" timestamp="1591151541563">
+      <file name="$USER_HOME$/Downloads/projects/通3俄罗斯方块 2/manifest.mf" timestamp="1591106554628">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="58" />
+        <mark key="^" line="1" column="59" />
+        <mark key="." line="1" column="58" />
+      </file>
+      <file name="/fragment.java" timestamp="1591242409241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/6.3/心理健康网站/mental/src/main/resources/db.properties" timestamp="1591168981006">
@@ -130,7 +138,6 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Downloads/6.3/心理健康网站/mental/src/main/java/com/caseinfo/controller/LoginController.java" timestamp="1591170075641" />
     </filemarks>
     <jumps>
       <jump line="36" column="27" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/iostream.java" />
@@ -212,41 +219,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJpZCwgYm5hbWUsIGRldGFpbCwgcGlyY2UsIHdyaXRlciwgcHJpbnRlciwgZGF0ZSwgdHlwZSwgaW1hZ2UsIHN0b3JlLHdob2xlbnVtCg==</text>
+        <text>spring.datasource.driver-class-name=com.mysql.jdbc.Drive</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYmNwIOWNiuiHquWKqOWMluaTjeS9nCDkuI3og73oh6rliqjov57mjqUK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgZGF0ZVN0cj0gTG9uZy52YWx1ZU9mKG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIikuZm9ybWF0KGJvb2suZ2V0RGF0ZSgpKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLmpkYmMuRGF0YVNvdXJjZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS0tPgo=</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGU9e0RhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTwhLS0gCg==</text>
+        <text encoding="base64">c3ByaW5nLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2pkYmNVcmwJCT0gamRiY1w6bXlzcWxcOi8vLzIwMTkwNDAxbmV3cz91c2VVbmljb2RlXD10cnVlJmNoYXJhY3RlckVuY29kaW5nXD11dGY4Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYmNwIOWNiuiHquWKqOWMluaTjeS9nCDkuI3og73oh6rliqjov57mjqUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgZGF0ZVN0cj0gTG9uZy52YWx1ZU9mKG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIikuZm9ybWF0KGJvb2suZ2V0RGF0ZSgpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGFuZGxlcnMgPSBvcmcuYXBhY2hlLmp1bGkuRmlsZUhhbmRsZXIsIGphdmEudXRpbC5sb2dnaW5nLkNvbnNvbGVIYW5kbGVyICAKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIEhhbmRsZXIgc3BlY2lmaWMgcHJvcGVydGllcy4KIyBEZXNjcmliZXMgc3BlY2lmaWMgY29uZmlndXJhdGlvbiBpbmZvIGZvciBIYW5kbGVycy4KIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgpvcmcuYXBhY2hlLmp1bGkuRmlsZUhhbmRsZXIubGV2ZWwgPSBGSU5FICAKb3JnLmFwYWNoZS5qdWxpLkZpbGVIYW5kbGVyLmRpcmVjdG9yeSA9ICR7Y2F0YWxpbmEuYmFzZX0vbG9ncyAgCm9yZy5hcGFjaGUuanVsaS5GaWxlSGFuZGxlci5wcmVmaXggPSBlcnJvci1kZWJ1Zy4gIAoKamF2YS51dGlsLmxvZ2dpbmcuQ29uc29sZUhhbmRsZXIubGV2ZWwgPSBGSU5FICAKamF2YS51dGlsLmxvZ2dpbmcuQ29uc29sZUhhbmRsZXIuZm9ybWF0dGVyID0gamF2YS51dGlsLmxvZ2dpbmcuU2ltcGxlRm9ybWF0dGVyIAoK</text>
+        <text encoding="base64">CS0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjGJ55a2Q5Yeh44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+        <text encoding="base64">CTwhLS0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
