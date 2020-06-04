@@ -148,6 +148,12 @@
         <mark key="^" line="43" column="111" />
         <mark key="." line="43" column="110" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/resources/db.properties" timestamp="1591290857883">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="36" column="27" filename="$USER_HOME$/Desktop/project/rawjava/src/com/littlekign/iostream/iostream.java" />
@@ -237,10 +243,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>长途汽车售票后台管理系统</text>
+        <text>mental_system</text>
       </register>
       <register name="-" type="4">
-        <text>长途汽车售票后台管理系统</text>
+        <text>mental_system</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJSW1hZ2UgaW1nYWUgPSBJbWFnZUlPLnJlYWQobmV3IEZpbGUoIi9pbWFnZS9sb2dvLnBuZyIpKTsK</text>
