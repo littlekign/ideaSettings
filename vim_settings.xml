@@ -110,7 +110,19 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/coachTicket/WebContent/pages/admin/adminMain.jsp" timestamp="1591288852678">
+        <mark key="[" line="36" column="89" />
+        <mark key="]" line="36" column="95" />
+        <mark key="." line="36" column="94" />
+        <mark key="^" line="36" column="95" />
+      </file>
       <file name="$USER_HOME$/Downloads/work-space/material/material/src/cn/gdou/material/util/MD5Code.java" timestamp="1591283578144" />
+      <file name="$USER_HOME$/Downloads/work-space/coachTicket/WebContent/pages/user/home.jsp" timestamp="1591288848317">
+        <mark key="[" line="34" column="99" />
+        <mark key="]" line="34" column="105" />
+        <mark key="." line="34" column="104" />
+        <mark key="^" line="34" column="105" />
+      </file>
       <file name="$USER_HOME$/Downloads/work-space/StudentBookingSystem/src/studentbooking/bean/OrdersEntity.java" timestamp="1591286167707">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -225,10 +237,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ticketing</text>
+        <text>长途汽车售票后台管理系统</text>
       </register>
       <register name="-" type="4">
-        <text>ticketing</text>
+        <text>长途汽车售票后台管理系统</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJSW1hZ2UgaW1nYWUgPSBJbWFnZUlPLnJlYWQobmV3IEZpbGUoIi9pbWFnZS9sb2dvLnBuZyIpKTsK</text>
