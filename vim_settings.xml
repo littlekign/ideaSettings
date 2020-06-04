@@ -139,6 +139,12 @@
         <mark key="." line="48" column="27" />
         <mark key="^" line="48" column="27" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/TicketingSystem/src/db.properties" timestamp="1591271660714">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/6.3/心理健康网站/mental/src/main/resources/spring-dao.xml" timestamp="1591170606460">
         <mark key="[" line="61" column="40" />
         <mark key="]" line="61" column="48" />
@@ -249,10 +255,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>idnex</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>idnex</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIHJldHVybiAiMTIxIjsK</text>
