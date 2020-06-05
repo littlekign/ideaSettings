@@ -67,10 +67,24 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Downloads/2020/6.2/1/ssm图书管理系统/src/java/com/spring/controller/ShujijieyueController.java" timestamp="1591369464729" />
+      <file name="$USER_HOME$/Downloads/work-space/ssm/demo/pom.xml" timestamp="1591378324107" />
       <file name="$USER_HOME$/Desktop/CrowdFunding/crowdfunding/src/main/resources/1.txt" timestamp="1591373842952">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/ssm/demo/src/test/java/com/lk/demo/DemoApplicationTests.java" timestamp="1591378098540">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/CrowdFunding/crowdfunding/src/main/java/com/redhat/crowdfunding/service/CrowdFundingServiceImpl.java" timestamp="1591373024049" />
+      <file name="$USER_HOME$/Downloads/work-space/ssm/demo/src/main/java/com/lk/demo/service/Impl/UserServiceImpl.java" timestamp="1591378617813">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+        <mark key="." line="42" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/CrowdFunding/crowdfunding/src/main/resources/config.properties" timestamp="1591374032005">
         <mark key="[" line="17" column="8" />
@@ -78,9 +92,28 @@
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/CrowdFunding/crowdfunding/src/main/java/com/redhat/crowdfunding/service/CrowdFundingServiceImpl.java" timestamp="1591373024049" />
+      <file name="$USER_HOME$/Downloads/work-space/ssm/demo/src/main/resources/application.properties" timestamp="1591378300590">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="49" />
+        <mark key="^" line="4" column="49" />
+        <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/ssm/demo/src/main/java/com/lk/demo/service/UserService.java" timestamp="1591378895111">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/ssm/demo/src/main/java/com/lk/demo/pojo/User.java" timestamp="1591378508900">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/2020/6.2/2/GymMS/ssm-02/src/main/resources/mybatis-config.xml" timestamp="1591370439083" />
       <file name="$USER_HOME$/Downloads/2020/6.2/1/ssm图书管理系统/src/java/dao/Query.java" timestamp="1591368514409" />
+      <file name="/fragment.java" timestamp="1591377249742">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/CrowdFunding/crowdfunding/src/main/java/com/redhat/crowdfunding/service/CrowdFundingService.java" timestamp="1591372938984" />
     </filemarks>
     <jumps>
@@ -175,41 +208,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0xe404dc61843275eA6b03c584f70716aDC7a62d4b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="-" type="4">
-        <text>0xe404dc61843275eA6b03c584f70716aDC7a62d4b</text>
+        <text>void</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZW5zaXRpdmVGaWx0ZXIgc2Vuc2l0aXZlRmlsdGVyID0gbmV3IFNlbnNpdGl2ZUZpbHRlcigpOwo=</text>
+        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktbW0tZGQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vc3RhdGljCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2Vuc2l0aXZlRmlsdGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInNmc2EiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2Vuc2l0aXZlRmlsdGVyLmZpbHRlcigic2RhZnNhIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlclNlcnZpY2UucXVlcnkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdGF0aWMgU2Vuc2l0aXZlRmlsdGVyIHNlbnNpdGl2ZUZpbHRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0IHVzZXIgPSB1c2VyU2VydmljZS5xdWVyeSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSB7ImNsYXNzcGF0aDpzcHJpbmctc2VydmljZS54bWwifSkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlclNlcnZpY2UucXVlcnkoKTspOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlclNlcnZpY2UucXVlcnkoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBldCgpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzZW5zaXRpdmVGaWx0ZXIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNlbnNpdGl2ZUZpbHRlciBzZW5zaXRpdmVGaWx0ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
