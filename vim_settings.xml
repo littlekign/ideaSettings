@@ -71,14 +71,24 @@
         <mark key="]" line="65" column="15" />
         <mark key="." line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/test/java/com/caseinfo/util/SensitiveFilterTest.java" timestamp="1591319736790">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="11" />
+      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/test/java/com/caseinfo/util/SensitiveFilterTest.java" timestamp="1591324305285">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/SensitiveTests.java" timestamp="1591313445220" />
-      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/CommunityApplicationTests.java" timestamp="1591313361016" />
+      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/SensitiveTests.java" timestamp="1591323587578">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="4" />
+      </file>
+      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/CommunityApplicationTests.java" timestamp="1591320949147" />
+      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/util/Test.java" timestamp="1591323247541">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="17" />
+      </file>
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/webapp/WEB-INF/web.xml" timestamp="1591296547745">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -102,20 +112,20 @@
         <mark key="]" line="37" column="22" />
         <mark key="." line="37" column="22" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/resources/sensitive.txt" timestamp="1591300533203">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="4" column="2" />
+      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/resources/sensitive.txt" timestamp="1591322435416">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/resources/sensitive-words.txt" timestamp="1591311686065">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/util/SensitiveFilter.java" timestamp="1591311879141">
-        <mark key="[" line="44" column="87" />
-        <mark key="]" line="44" column="96" />
-        <mark key="^" line="44" column="96" />
-        <mark key="." line="44" column="95" />
+      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/util/SensitiveFilter.java" timestamp="1591323817436">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/resources/db.properties" timestamp="1591296994607">
         <mark key="[" line="1" column="38" />
@@ -124,7 +134,7 @@
         <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/pom.xml" timestamp="1591314871041" />
-      <file name="/fragment.java" timestamp="1591314545712">
+      <file name="/fragment.java" timestamp="1591323459568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/controller/IndexController.java" timestamp="1591296416416">
@@ -220,45 +230,47 @@
       <jump line="14" column="71" filename="$USER_HOME$/Downloads/work-space/mental/mental/src/main/resources/logback.xml" />
       <jump line="95" column="21" filename="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/controller/IndexController.java" />
       <jump line="20" column="22" filename="$USER_HOME$/Downloads/work-space/mental/mental/src/main/webapp/WEB-INF/view/public/menu.jsp" />
+      <jump line="182" column="0" filename="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/util/SensitiveFilter.java" />
+      <jump line="15" column="43" filename="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/util/Test.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSB7ImNsYXNzcGF0aDpzcHJpbmctc2VydmljZS54bWwifSkK</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>mvc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8JCQlyZXMuc2VuZFJlZGlyZWN0KCIvbWVudGFsL2xvZ2luL2xvZ2luUGFnZS5kbyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZW5zaXRpdmVGaWx0ZXIgc2Vuc2l0aXZlRmlsdGVyID0gbmV3IFNlbnNpdGl2ZUZpbHRlcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSB7ImNsYXNzcGF0aDpzcHJpbmctc2VydmljZS54bWwifSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBldCgpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzZW5zaXRpdmVGaWx0ZXIpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIFNlbnNpdGl2ZUZpbHRlciBzZW5zaXRpdmVGaWx0ZXI7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0PC9hcnRpZmFjdElkPgogICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNwcmluZ2Jvb3RUZXN0Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2Vuc2l0aXZlRmlsdGVyIHNlbnNpdGl2ZUZpbHRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5UZXN0Q2FzZTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">ICog44CI44CJCiAqCiAqIEBhdXRob3IgbGsKICogQGNyZWF0ZSA2LzUvMjAKICogQHNpbmNlIDEuMC4wCiAqLw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
