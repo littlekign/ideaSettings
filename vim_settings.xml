@@ -71,11 +71,11 @@
         <mark key="]" line="65" column="15" />
         <mark key="." line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/test/java/com/caseinfo/util/SensitiveFilterTest.java" timestamp="1591316606664">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="11" />
+      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/test/java/com/caseinfo/util/SensitiveFilterTest.java" timestamp="1591319736790">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/SensitiveTests.java" timestamp="1591313445220" />
       <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/CommunityApplicationTests.java" timestamp="1591313361016" />
@@ -224,8 +224,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>protected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="-" type="4">
         <text>protected</text>
@@ -234,31 +234,31 @@
         <text encoding="base64">Ly8JCQlyZXMuc2VuZFJlZGlyZWN0KCIvbWVudGFsL2xvZ2luL2xvZ2luUGFnZS5kbyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uCg==</text>
+      </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0PC9hcnRpZmFjdElkPgogICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QFNwcmluZ2Jvb3RUZXN0Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5UZXN0Q2FzZTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
