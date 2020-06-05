@@ -71,12 +71,14 @@
         <mark key="]" line="65" column="15" />
         <mark key="." line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/test/java/com/caseinfo/util/SensitiveFilterTest.java" timestamp="1591312140199">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/test/java/com/caseinfo/util/SensitiveFilterTest.java" timestamp="1591316606664">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="11" />
       </file>
-      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/SensitiveTests.java" timestamp="1591312068404" />
+      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/SensitiveTests.java" timestamp="1591313445220" />
+      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/CommunityApplicationTests.java" timestamp="1591313361016" />
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/webapp/WEB-INF/web.xml" timestamp="1591296547745">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -88,7 +90,7 @@
         <mark key="]" line="41" column="31" />
         <mark key="." line="41" column="31" />
       </file>
-      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/pom.xml" timestamp="1591312061420">
+      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/pom.xml" timestamp="1591314574190">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="23" />
         <mark key="^" line="17" column="23" />
@@ -121,12 +123,8 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/mental/mental/pom.xml" timestamp="1591300999373">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1591300769848">
+      <file name="$USER_HOME$/Downloads/work-space/mental/mental/pom.xml" timestamp="1591314871041" />
+      <file name="/fragment.java" timestamp="1591314545712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/controller/IndexController.java" timestamp="1591296416416">
@@ -226,41 +224,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>protected</text>
       </register>
       <register name="-" type="4">
-        <text>test.context.junit4.SpringRunner;</text>
+        <text>protected</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8JCQlyZXMuc2VuZFJlZGlyZWN0KCIvbWVudGFsL2xvZ2luL2xvZ2luUGFnZS5kbyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
+        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5ydW5uZXIuUnVuV2l0aDsK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0PC9hcnRpZmFjdElkPgogICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS4K</text>
+        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+        <text encoding="base64">QFNwcmluZ2Jvb3RUZXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5UZXN0Q2FzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhcnRpZmFjdElkPjwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
