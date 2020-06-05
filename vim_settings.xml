@@ -83,7 +83,6 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="4" />
       </file>
-      <file name="/Volumes/centos/java_community_springboot/第三章素材和源码/community/src/test/java/com/nowcoder/community/CommunityApplicationTests.java" timestamp="1591320949147" />
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/util/Test.java" timestamp="1591323247541">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="17" />
@@ -107,13 +106,13 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/controller/MessageController.java" timestamp="1591327178653" />
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/webapp/WEB-INF/view/public/menu.jsp" timestamp="1591296707474">
         <mark key="'" line="20" column="22" />
         <mark key="[" line="37" column="22" />
         <mark key="]" line="37" column="22" />
         <mark key="." line="37" column="22" />
       </file>
+      <file name="$USER_HOME$/Downloads/2020/6.2/1/ssm图书管理系统/src/java/util/threadlocal/LocalRequestContextHolder.java" timestamp="1591365706748" />
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/resources/sensitive.txt" timestamp="1591322435416">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="1" />
@@ -122,6 +121,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/resources/sensitive-words.txt" timestamp="1591311686065">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/2020/6.2/1/ssm图书管理系统/src/resources/jdbc.properties" timestamp="1591365787423">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/mental/mental/src/main/java/com/caseinfo/util/SensitiveFilter.java" timestamp="1591325476787">
         <mark key="[" line="41" column="0" />
@@ -134,7 +139,6 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/mental/mental/pom.xml" timestamp="1591314871041" />
       <file name="/fragment.java" timestamp="1591323459568">
         <mark key="[" line="0" column="0" />
       </file>
@@ -237,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>littlekign</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>littlekign</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTZW5zaXRpdmVGaWx0ZXIgc2Vuc2l0aXZlRmlsdGVyID0gbmV3IFNlbnNpdGl2ZUZpbHRlcigpOwo=</text>
