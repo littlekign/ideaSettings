@@ -7,8 +7,11 @@
     <resource url="http://www.springframework.org/schema/beans/spring-beans-2.5.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/6e8f9e13_spring-beans-2.5.xsd" />
     <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/e9152f13_spring-context-2.5.xsd" />
     <resource url="http://www.springframework.org/schema/context/spring-context-2.5.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/e9152f13_spring-context-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/a93b54e7_spring-context.xsd" />
     <resource url="http://www.springframework.org/schema/data/jpa" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/70573892_spring-jpa.xsd" />
+    <resource url="http://www.springframework.org/schema/tx" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/bc20ae51_spring-tx.xsd" />
     <resource url="http://www.springframework.org/schema/tx/spring-tx-2.5.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/ed7bc37d_spring-tx-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/bc20ae51_spring-tx.xsd" />
     <resource url="http://www.w3.org/2002/xmlspec/dtd/2.10/xmlspec.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/a0fb4e37_xmlspec.dtd" />
     <resource url="https://www.springframework.org/schema/beans/spring-beans-2.5.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/cf4baff6_spring-beans-2.5.xsd" />
     <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/38fbf776_spring-beans-4.3.xsd" />
