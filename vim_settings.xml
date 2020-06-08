@@ -69,11 +69,10 @@
       <file name="/Dummy.txt" timestamp="1591617223898">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/webapp/WEB-INF/jsp/footer.jsp" timestamp="1591625023825">
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="57" column="19" />
-        <mark key="." line="57" column="18" />
-        <mark key="^" line="57" column="19" />
+      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/webapp/WEB-INF/jsp/footer.jsp" timestamp="1591635626163">
+        <mark key="[" line="58" column="104" />
+        <mark key="]" line="58" column="104" />
+        <mark key="." line="58" column="104" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/out/artifacts/BBS_war_exploded/WEB-INF/jsp/cate.jsp" timestamp="1591605547864">
         <mark key="[" line="7" column="11" />
@@ -92,12 +91,10 @@
         <mark key="." line="7" column="75" />
         <mark key="^" line="7" column="76" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/java/controller/UserController.java" timestamp="1591627033993">
-        <mark key="'" line="108" column="57" />
-        <mark key="[" line="106" column="35" />
-        <mark key="]" line="106" column="36" />
-        <mark key="." line="106" column="35" />
-        <mark key="^" line="106" column="36" />
+      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/java/controller/UserController.java" timestamp="1591636159259">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/webapp/WEB-INF/web.xml" timestamp="1591625693303">
         <mark key="[" line="61" column="0" />
@@ -114,31 +111,24 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/web/index.jsp" timestamp="1591589981776">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="22" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/out/artifacts/BBS_war_exploded/WEB-INF/jsp/detail.jsp" timestamp="1591605569062">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="32" />
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/java/Listener/onLineListener.java" timestamp="1591632914985">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="34" />
+      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/java/Listener/onLineListener.java" timestamp="1591635784557">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/pom.xml" timestamp="1591615002913">
+      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/pom.xml" timestamp="1591633942801">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/java/aop/MessageAspect.java" timestamp="1591630432787" />
       <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/resources/jdbc.properties" timestamp="1591598140916">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="19" />
@@ -263,40 +253,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIExvbmcgQ1VSUkVOVF9PTkxJTkVfTlVNID0gMEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmxldENvbnRleHQgc2VydmxldENvbnRleHQgPSBzZXNzaW9uLmdldFNlcnZsZXRDb250ZXh0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>httpSessionEvent</text>
+        <text>-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIExvbmcgQ1VSUkVOVF9PTkxJTkVfTlVNID0gMEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICA8bGk+57O757uf5b2T5YmN5Zyo57q/5Lq65pWwOiAgIDwlIE9iamVjdCBvbmxpbmUgPSAgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0QXR0cmlidXRlKCJDVVJSRU5UX09OTElORV9OVU0iKSA9PSBudWxsID8gMCA6IHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZSgiQ1VSUkVOVF9PTkxJTkVfTlVNIik7ICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIExvbmcgQ1VSUkVOVF9PTkxJTkVfTlVNID0gMEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmxldENvbnRleHQgc2VydmxldENvbnRleHQgPSBzZXNzaW9uLmdldFNlcnZsZXRDb250ZXh0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcm5hbWUgKyAi6YCA5Ye657O757ufIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIzMy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKyBzZXJ2bGV0Q29udGV4dC5nZXRBdHRyaWJ1dGUoIkNVUlJFTlRfT05MSU5FX05VTSIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW9k+WJjeWcqOe6v+S6uuaVsO+8miIgKyBvbmxpbmVVc2VyTGlzdC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIyMi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKyBvbkxpbmVMaXN0ZW5lci5DVVJSRU5UX09OTElORV9OVU0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIxMS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iK3NlcnZsZXRDb250ZXh0LmdldEF0dHJpYnV0ZSgidXNlcm5hbWUiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuW9k+WJjeWcqOe6v+S6uuaVsO+8miIgKyBvbmxpbmVVc2VyTGlzdC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIwMC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iK3NlcnZsZXRDb250ZXh0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPuezu+e7n+W9k+WJjeWcqOe6v+S6uuaVsDogICA8JSBPYmplY3Qgb25saW5lID0gIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZSgiQ1VSUkVOVF9PTkxJTkVfTlVNIik7ICU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSAoU3RyaW5nKSBzZXNzaW9uLmdldEF0dHJpYnV0ZSgiQ1VSUkVOVF9PTkxJTkVfTlVNIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLnJlbW92ZUF0dHJpYnV0ZShTdHJpbmcudmFsdWVPZihDVVJSRU5UX09OTElORV9OVU0pKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4ukNTRE7ljZrkuLvjgIzmmKXpo47ljJbkvZznp4vpm6jjgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgQlktU0HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNlc3Npb24gY3JlYXRlZWQgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
