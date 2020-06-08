@@ -66,12 +66,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/Jsp论坛源码/BBS/src/com/yxq/dao/DB.java" timestamp="1591524323891">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="28" />
-      </file>
+      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/forum.sql" timestamp="1591598069955" />
       <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/src/com/jspbbs/web/controller/admin/SysUserController.java" timestamp="1591589638360">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -89,11 +84,11 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/jsp_bbs.sql" timestamp="1591589203305" />
-      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/resources/jdbc.properties" timestamp="1591593393747">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="38" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="37" />
+      <file name="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/resources/jdbc.properties" timestamp="1591598140916">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/src/com/jspbbs/web/controller/admin/SysTopicController.java" timestamp="1591589642937">
         <mark key="[" line="15" column="0" />
@@ -240,10 +235,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>区</text>
+        <text>admin</text>
       </register>
       <register name="-" type="4">
-        <text>区</text>
+        <text>admin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktbW0tZGQiKQo=</text>
