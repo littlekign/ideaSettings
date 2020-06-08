@@ -95,11 +95,6 @@
         <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/jsp_bbs.sql" timestamp="1591589203305" />
-      <file name="$USER_HOME$/Downloads/work-space/Genesis/forum.sql" timestamp="1591427842587">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/src/com/jspbbs/web/controller/admin/SysTopicController.java" timestamp="1591589642937">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -128,6 +123,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/forum/src/main/webapp/WEB-INF/jsp/cate.jsp" timestamp="1591593316753">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1591590303362">
         <mark key="[" line="0" column="1" />
@@ -239,10 +240,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>controller</text>
+        <text>区</text>
       </register>
       <register name="-" type="4">
-        <text>controller</text>
+        <text>区</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktbW0tZGQiKQo=</text>
