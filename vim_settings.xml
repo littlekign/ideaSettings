@@ -77,12 +77,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/Genesis/src/main/webapp/WEB-INF/jsp/side.jsp" timestamp="1591427262788">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="23" />
-      </file>
       <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/web/index.jsp" timestamp="1591589981776">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="22" />
@@ -135,13 +129,21 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1591590303362">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/resource/application.conf" timestamp="1591589798658">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/src/com/jspbbs/web/controller/SectionController.java" timestamp="1591589650325" />
+      <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/src/com/jspbbs/web/controller/SectionController.java" timestamp="1591590464395">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="53" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="53" />
+      </file>
       <file name="$USER_HOME$/Desktop/workspace/jsp_bbs/src/com/jspbbs/web/controller/UserController.java" timestamp="1591589662720" />
     </filemarks>
     <jumps>
@@ -236,11 +238,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      <register name="&quot;" type="4">
+        <text>controller</text>
       </register>
       <register name="-" type="4">
-        <text>Controller</text>
+        <text>controller</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktbW0tZGQiKQo=</text>
