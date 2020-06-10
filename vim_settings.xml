@@ -71,6 +71,9 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591790098316">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/centos/project/DormitoryManager/src/com/itheima/dao/AdminDao 2.java" timestamp="1591766144804" />
       <file name="/Volumes/centos/JAVA_PROJECT/ssm-ems/ssm.sql" timestamp="1591788786436">
         <mark key="[" line="0" column="0" />
@@ -85,6 +88,7 @@
       <file name="$USER_HOME$/Downloads/work-space/BBS/src/main/resources/log4j.properties" timestamp="1591782754103">
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="/Volumes/centos/JAVA_PROJECT/ssm-ems/src/main/resources/mapper/positionMapper.xml" timestamp="1591794213211" />
       <file name="/Volumes/centos/JAVA_PROJECT/ssm-ems/src/main/resources/jdbc.properties" timestamp="1591788722627">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="24" />
