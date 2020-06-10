@@ -66,23 +66,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/心理测试系统微信小程序代码/xinlitest/src/com/ideabobo/serviceImp/BaseServiceImp.java" timestamp="1591700791520" />
-      <file name="$USER_HOME$/Downloads/6.8/Jsp论坛源码/BBS/WebContent/view/menu.jsp" timestamp="1591676368418">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/6.8/Jsp论坛源码/BBS/WebContent/view/default.jsp" timestamp="1591675950132">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="/Volumes/centos/project/DormitoryManager/src/db.properties" timestamp="1591766033171">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/6.8/Jsp论坛源码/BBS/WebContent/view/menu.jsp" timestamp="1591676368418">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/6.8/Jsp论坛源码/BBS/WebContent/pages/show/bbs/listRootShow.jsp" timestamp="1591679308725">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/心理测试系统微信小程序代码/xinlitest/src/com/ideabobo/util/MyAuthenticator.java" timestamp="1591700920434" />
       <file name="/fragment.java" timestamp="1591700877279">
         <mark key="[" line="0" column="0" />
       </file>
