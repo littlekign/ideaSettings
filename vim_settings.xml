@@ -88,6 +88,7 @@
       <file name="$USER_HOME$/Downloads/work-space/BBS/src/main/resources/log4j.properties" timestamp="1591782754103">
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/dao/db/SqlServer.java" timestamp="1591795688924" />
       <file name="/Volumes/centos/JAVA_PROJECT/ssm-ems/src/main/resources/mapper/positionMapper.xml" timestamp="1591794213211" />
       <file name="/Volumes/centos/JAVA_PROJECT/ssm-ems/src/main/resources/jdbc.properties" timestamp="1591788722627">
         <mark key="[" line="3" column="14" />
@@ -97,11 +98,6 @@
       </file>
       <file name="$USER_HOME$/Downloads/work-space/BBS/src/main/java/mapper/TopicMapper.xml" timestamp="1591784473397" />
       <file name="$USER_HOME$/Downloads/work-space/BBS/src/main/resources/applicationContext.xml" timestamp="1591787115495" />
-      <file name="$USER_HOME$/Downloads/6.8/Jsp论坛源码/BBS/WebContent/view/default.jsp" timestamp="1591675950132">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="/Volumes/centos/project/DormitoryManager/src/db.properties" timestamp="1591766033171">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="24" />
