@@ -92,6 +92,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/directory/WebContent/WEB-INF/page/loginExt.jsp" timestamp="1591892052916">
+        <mark key="[" line="527" column="36" />
+        <mark key="]" line="528" column="24" />
+        <mark key="." line="528" column="23" />
+        <mark key="^" line="528" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/work-space/BBS/src/main/resources/log4j.properties" timestamp="1591782754103">
         <mark key="[" line="9" column="0" />
       </file>
@@ -233,20 +239,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>郑为中</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwOi8vbG9jYWxob3N0OjgwODAvWnd6VGVsU3lzdGVtL2NvZGUvY3JlYXRlY29kZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>郑为中</text>
+        <text />
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICA8bGk+57O757uf5b2T5YmN5Zyo57q/5Lq65pWwOiAgIDwlIE9iamVjdCBvbmxpbmUgPSAgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0QXR0cmlidXRlKCJDVVJSRU5UX09OTElORV9OVU0iKSA9PSBudWxsID8gMCA6IHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZSgiQ1VSUkVOVF9PTkxJTkVfTlVNIik7ICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEBhdXRob3Ig6YOR5Li65LitCg==</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vbG9jYWxob3N0OjgwODAvWnd6VGVsU3lzdGVtL2NvZGUvY3JlYXRlY29kZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqIEBhdXRob3Ig6YOR5Li65LitCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cDovL2xvY2FsaG9zdDo4MDgwL1p3elRlbFN5c3RlbS9jb2RlL2NyZWF0ZWNvZGUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CSAqIEBhdXRob3Ig6YOR5Li65LitCg==</text>
