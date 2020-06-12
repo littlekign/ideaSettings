@@ -69,25 +69,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/struts.xml" timestamp="1591988307416" />
-      <file name="/Dummy.txt" timestamp="1591790098316">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/struts.xml" timestamp="1591992086711">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/directory/src/ypc/zwz/controller/HouseTypeController.java" timestamp="1591886977046">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/CategoryService.java" timestamp="1591990982174">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat/myproject/WebRoot/WEB-INF/classes/struts.xml" timestamp="1591986740619" />
-      <file name="$USER_HOME$/Downloads/work-space/directory/src/ypc/zwz/controller/TelController.java" timestamp="1591886979368">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
-      </file>
-      <file name="/Volumes/centos/JAVA_PROJECT/ssm-ems/ssm.sql" timestamp="1591788786436">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1591990772170" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Index/index.jsp" timestamp="1591991861621">
+        <mark key="[" line="46" column="125" />
+        <mark key="]" line="46" column="133" />
+        <mark key="." line="46" column="132" />
+        <mark key="^" line="46" column="133" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/directory/WebContent/WEB-INF/page/loginExt.jsp" timestamp="1591937267870">
         <mark key="'" line="115" column="65" />
@@ -96,6 +95,21 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="44" />
       </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Bill.java" timestamp="1591990473968" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/BillServiceImp.java" timestamp="1591991123396" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/Category.xhtml" timestamp="1591991778361">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1591991799081" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category_hbm.xml" timestamp="1591990654509">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="30" />
+      </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat/myproject/WebRoot/WEB-INF/classes/struts.xml" timestamp="1591986740619" />
       <file name="$USER_HOME$/Downloads/work-space/directory/WebContent/loginExt.jsp" timestamp="1591935481227">
         <mark key="[" line="42" column="52" />
         <mark key="]" line="42" column="58" />
@@ -108,38 +122,23 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="30" column="50" />
       </file>
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/resources/jdbc.properties" timestamp="1591800544195">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="18" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category.java" timestamp="1591990491066">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/directory/sql/property.sql" timestamp="1591886988879">
-        <mark key="[" line="183" column="115" />
-        <mark key="]" line="183" column="120" />
-        <mark key="." line="183" column="119" />
-        <mark key="^" line="183" column="120" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/Category.jsp" timestamp="1591991835779">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/resources/applicationContext.xml" timestamp="1591804812598">
-        <mark key="[" line="90" column="23" />
-        <mark key="]" line="90" column="23" />
-        <mark key="." line="90" column="23" />
-      </file>
-      <file name="$USER_HOME$/Downloads/work-space/directory/src/ypc/zwz/controller/SysUserController.java" timestamp="1591931392039">
-        <mark key="[" line="188" column="32" />
-        <mark key="]" line="188" column="32" />
-        <mark key="." line="188" column="32" />
-      </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat/myproject/src/logging.properties" timestamp="1591897148745">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat/myproject/src/beans.xml" timestamp="1591928856486">
-        <mark key="[" line="30" column="41" />
-        <mark key="]" line="30" column="51" />
-        <mark key="^" line="30" column="51" />
-        <mark key="." line="30" column="50" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1591991496827">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="20" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="57" column="19" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/directory/WebContent/static/css/login.css" timestamp="1591936733361">
         <mark key="[" line="7" column="13" />
@@ -147,16 +146,15 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/directory/src/ypc/zwz/controller/CodeController.java" timestamp="1591891194120">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="28" column="7" />
-        <mark key="." line="28" column="7" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1591990773182">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/directory/WebContent/WEB-INF/page/loginFail.jsp" timestamp="1591934020018">
-        <mark key="[" line="42" column="35" />
-        <mark key="]" line="42" column="38" />
-        <mark key="." line="42" column="37" />
-        <mark key="^" line="42" column="38" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/BillService.java" timestamp="1591990943042" />
+      <file name="/fragment.java" timestamp="1591991015769">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -256,41 +254,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXRhICFpYGBtcG9ydGFudDsK</text>
+      <register name="&quot;" type="4">
+        <text>success</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>success</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICA8bGk+57O757uf5b2T5YmN5Zyo57q/5Lq65pWwOiAgIDwlIE9iamVjdCBvbmxpbmUgPSAgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0QXR0cmlidXRlKCJDVVJSRU5UX09OTElORV9OVU0iKSA9PSBudWxsID8gMCA6IHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZSgiQ1VSUkVOVF9PTkxJTkVfTlVNIik7ICU+Cg==</text>
+        <text encoding="base64">ICAgCQkgICAgICAgICAgICAgICAgICAgICB7Im1lbnVpZCI6ICIxMiIsICJtZW51bmFtZSI6ICLmtYvor5XpopjliJfooagiLCAiaWNvbiI6ICJpY29uLWRhdGFiYXNlIiwgInVybCI6ICI8JT0gX19BUFBfXyU+L0Nob29zZSFjaG9vc2UifQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXRhICFpYGBtcG9ydGFudDsK</text>
+        <text encoding="base64">CQkgICA8cmVzdWx0IG5hbWU9ImNob29zZTMiPi93ZWIvcGFnZXMvQ2hvb3NlL2Nob29zZTMuanNwPC9yZXN1bHQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7Cg==</text>
+        <text encoding="base64">CQkgICA8cmVzdWx0IG5hbWU9ImNob29zZTIiPi93ZWIvcGFnZXMvQ2hvb3NlL2Nob29zZTIuanNwPC9yZXN1bHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIKICAgICAgICAiaHR0cDovL3d3dy53My5vcmcvVFIveGh0bWwxL0RURC94aHRtbDEtdHJhbnNpdGlvbmFsLmR0ZCI+CjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIgogICAgICB4bWxuczpoPSJodHRwOi8veG1sbnMuamNwLm9yZy9qc2YvaHRtbCIKICAgICAgeG1sbnM6dWk9Imh0dHA6Ly94bWxucy5qY3Aub3JnL2pzZi9mYWNlbGV0cyIKICAgICAgeG1sbnM6Zj0iaHR0cDovL3htbG5zLmpjcC5vcmcvanNmL2NvcmUiPgo8Zjp2aWV3PgogICAgPGg6b3V0cHV0TGFiZWwgdmFsdWU9IkhlbGxvLCB3b3JsZCIvPgo8L2Y6dmlldz4KPC9odG1sPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogNTAwcHggIWltcG9ydGFudDsK</text>
+        <text>/**
+ * 〈〉
+ *
+ * @author lk
+ * @create 6/13/20
+ * @since 1.0.0
+ */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtcG9zaXRpb246IHRvcDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtcG9zaXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iamVjdC1maXQ6IDtEZGQK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtc2l6ZTogOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2Vzc2lvbkZhY3Rvcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtcG9zaXRpb246IDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXNzaW9uRmFjdG9yeSBnZXRTZXNzaW9uRmFjdG9yeSgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
