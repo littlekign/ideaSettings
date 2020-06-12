@@ -87,10 +87,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/directory/WebContent/WEB-INF/page/loginExt.jsp" timestamp="1591893794631">
-        <mark key="[" line="35" column="60" />
-        <mark key="]" line="35" column="60" />
-        <mark key="." line="35" column="60" />
+      <file name="$USER_HOME$/Downloads/work-space/directory/WebContent/WEB-INF/page/loginExt.jsp" timestamp="1591930165106">
+        <mark key="[" line="117" column="47" />
+        <mark key="]" line="117" column="47" />
+        <mark key="." line="117" column="47" />
         <mark key="^" line="528" column="24" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/directory/WebContent/loginExt.jsp" timestamp="1591893792662">
@@ -241,10 +241,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICA8bGk+57O757uf5b2T5YmN5Zyo57q/5Lq65pWwOiAgIDwlIE9iamVjdCBvbmxpbmUgPSAgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0QXR0cmlidXRlKCJDVVJSRU5UX09OTElORV9OVU0iKSA9PSBudWxsID8gMCA6IHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZSgiQ1VSUkVOVF9PTkxJTkVfTlVNIik7ICU+Cg==</text>
