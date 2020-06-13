@@ -81,7 +81,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1591990772170" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592023399939" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Index/index.jsp" timestamp="1591991861621">
         <mark key="[" line="46" column="125" />
         <mark key="]" line="46" column="133" />
@@ -101,7 +101,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1591991799081" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/UserAction.java" timestamp="1592022030631" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/UserAction.java" timestamp="1592023088211" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category_hbm.xml" timestamp="1591990654509">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="31" />
@@ -109,7 +109,12 @@
         <mark key="." line="19" column="30" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Bill.hbm.xml" timestamp="1592020056267" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat/myproject/WebRoot/WEB-INF/classes/struts.xml" timestamp="1591986740619" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592023644026">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
+        <mark key="^" line="19" column="43" />
+      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/beans.xml" timestamp="1592019664137">
         <mark key="[" line="63" column="42" />
         <mark key="]" line="63" column="50" />
@@ -134,10 +139,11 @@
         <mark key="^" line="57" column="20" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592022062885">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592023207616">
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="16" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/BillService.java" timestamp="1591990943042" />
       <file name="/fragment.java" timestamp="1591991015769">
@@ -241,41 +247,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIMucCg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>Bill</text>
+        <text>?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ2F0ZWdvcnkgY2F0ZWdvcnk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIMucCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIMucCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2F0ZWdvcnkgY2F0ZWdvcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2F0ZWdvcnkgY2F0ZWdvcnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICA8cmVzdWx0IG5hbWU9ImNob29zZTMiPi93ZWIvcGFnZXMvQ2hvb3NlL2Nob29zZTMuanNwPC9yZXN1bHQ+Cg==</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICA8cmVzdWx0IG5hbWU9ImNob29zZTIiPi93ZWIvcGFnZXMvQ2hvb3NlL2Nob29zZTIuanNwPC9yZXN1bHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
