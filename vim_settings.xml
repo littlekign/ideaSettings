@@ -88,7 +88,6 @@
         <mark key="." line="46" column="132" />
         <mark key="^" line="46" column="133" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Bill.java" timestamp="1591990473968" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/BillServiceImp.java" timestamp="1591991123396" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category.hbm.xml" timestamp="1592020067023">
         <mark key="[" line="15" column="0" />
@@ -100,13 +99,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Interface.txt.ft" timestamp="1592030446100">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1591991799081" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/UserAction.java" timestamp="1592023088211" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category_hbm.xml" timestamp="1591990654509">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="31" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="19" column="30" />
+      <file name="/HTML File.txt.ft" timestamp="1592030406160">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Bill.hbm.xml" timestamp="1592020056267" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592024173193">
@@ -121,17 +120,14 @@
         <mark key="^" line="63" column="50" />
         <mark key="." line="63" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category.java" timestamp="1591990491066">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="27" />
-      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/Category.jsp" timestamp="1591991835779">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="31" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1592030437545">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1591991496827">
         <mark key="[" line="57" column="0" />
