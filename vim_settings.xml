@@ -109,11 +109,11 @@
         <mark key="." line="19" column="30" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Bill.hbm.xml" timestamp="1592020056267" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592023644026">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="43" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592024116724">
+        <mark key="[" line="157" column="33" />
+        <mark key="]" line="157" column="41" />
+        <mark key="." line="157" column="40" />
+        <mark key="^" line="157" column="41" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/beans.xml" timestamp="1592019664137">
         <mark key="[" line="63" column="42" />
@@ -248,10 +248,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>Choose</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>Choose</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ2F0ZWdvcnkgY2F0ZWdvcnk7Cg==</text>
