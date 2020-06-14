@@ -69,9 +69,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592110868121">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="58" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592113617217">
+        <mark key="[" line="129" column="39" />
+        <mark key="]" line="129" column="41" />
       </file>
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/ShujifenleiController.java" timestamp="1592042857493" />
       <file name="/Interface.txt.ft" timestamp="1592030446100">
@@ -81,10 +81,10 @@
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/ShujiguihuanController.java" timestamp="1592033285375" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/WEB-INF/lib/spring.jar!/org/springframework/orm/hibernate3/HibernateTemplate.class" timestamp="1592070215075" />
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/CommentController.java" timestamp="1592044329752" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592109858924">
-        <mark key="[" line="276" column="53" />
-        <mark key="]" line="276" column="57" />
-        <mark key="." line="276" column="56" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592113056134">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
         <mark key="^" line="276" column="57" />
       </file>
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/resources/sqlmap/LiuyanbanMapper.xml" timestamp="1592041690436">
@@ -93,11 +93,10 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592110872472">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="62" />
-        <mark key="^" line="69" column="55" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592114047201">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/struts.xml" timestamp="1592068660185">
         <mark key="[" line="27" column="25" />
@@ -105,10 +104,10 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/CategoryService.java" timestamp="1592109635950">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/CategoryService.java" timestamp="1592114191208">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/resources/sqlmap/DuzheMapper.xml" timestamp="1592033800718" />
@@ -116,12 +115,7 @@
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/entity/Pinglun.java" timestamp="1592044107828" />
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/WebRoot/comment.jsp" timestamp="1592044235727" />
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/AdminController.java" timestamp="1592042747194" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1592110364672">
-        <mark key="[" line="86" column="21" />
-        <mark key="]" line="86" column="29" />
-        <mark key="^" line="86" column="29" />
-        <mark key="." line="86" column="28" />
-      </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1592114163645" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/ChooseService.java" timestamp="1592110289707" />
       <file name="/fragment.java" timestamp="1592109296895">
         <mark key="[" line="0" column="0" />
@@ -224,41 +218,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXNNYXAucHV0KCJzb3J0Iiwib3JkZXIgYnkgIiArIHNvcnQgKyAiIiArIG9yZGVyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>model</text>
       </register>
       <register name="-" type="4">
-        <text>employeeList</text>
+        <text>model</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlwYXJhbXNNYXAucHV0KCJzb3J0IiwgIm9yZGVyIGJ5ICIrc29ydCsiICIrb3JkZXIpOwo=</text>
+      <register name="0" type="4">
+        <text>e);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXNNYXAucHV0KCJzb3J0Iiwib3JkZXIgYnkgIiArIHNvcnQgKyAiIiArIG9yZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdHlwZSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJ0eXBlIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENhdGVnb3J5PiBjYXRlZ29yaWVzID0gY2F0ZWdvcnlTZXJ2aWNlLmZpbmRBbGwocGFnZSxwYXJhbXNNYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGVpeGluZyA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJsZWl4aW5nIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0IGNhdGVnb3JpZXMgPSBjcml0ZXJpYS5saXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2JqbmFtZSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJzdGl0bGUiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHNlc3Npb24uY3JlYXRlQ3JpdGVyaWEoQ2F0ZWdvcnkuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZGFmc2EK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uIHNlc3Npb24gPSBzZXNzaW9uRmFjdG9yeS5nZXRDdXJyZW50U2Vzc2lvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgIGEgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2F0ZWdvcmllczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBHc29uIGpzb24gPSBuZXcgR3NvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNoTWFwCg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiBpZD0iY2hhcnRkaWFsb2ciIGNsYXNzPSJlYXN5dWktZGlhbG9nIiB0aXRsZT0i5p+x54q25Zu+IiBzdHlsZT0id2lkdGg6NjUwcHg7aGVpZ2h0OjQ1MHB4OyIgdG9vbGJhcj0iI2RsZy10b29sYmFyIgogICAgIHJlc2l6YWJsZT0idHJ1ZSIgbW9kYWw9InRydWUiIGNsb3NlZD0ndHJ1ZSc+CgogICAgPGRpdiBpZD0ibXljaGF0IiBzdHlsZT0id2lkdGg6IDYwMHB4O2hlaWdodDo0MDBweDsiPjwvZGl2Pgo8L2Rpdj4=</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
