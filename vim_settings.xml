@@ -69,7 +69,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592113617217">
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592115191226">
         <mark key="[" line="129" column="39" />
         <mark key="]" line="129" column="41" />
       </file>
@@ -77,7 +77,12 @@
       <file name="/Interface.txt.ft" timestamp="1592030446100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1592072670652" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1592115252293">
+        <mark key="[" line="368" column="50" />
+        <mark key="]" line="368" column="53" />
+        <mark key="^" line="368" column="53" />
+        <mark key="." line="368" column="52" />
+      </file>
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/ShujiguihuanController.java" timestamp="1592033285375" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/WEB-INF/lib/spring.jar!/org/springframework/orm/hibernate3/HibernateTemplate.class" timestamp="1592070215075" />
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/CommentController.java" timestamp="1592044329752" />
@@ -219,10 +224,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>model</text>
+        <text>daan</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>daan</text>
       </register>
       <register name="0" type="4">
         <text>e);</text>
