@@ -69,25 +69,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/struts.xml" timestamp="1592068660185">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/CategoryService.java" timestamp="1592312685005">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592115191226">
         <mark key="[" line="129" column="39" />
         <mark key="]" line="129" column="41" />
       </file>
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/ShujifenleiController.java" timestamp="1592042857493" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592113056134">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
+        <mark key="^" line="276" column="57" />
+      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1592126434614">
         <mark key="[" line="373" column="0" />
         <mark key="]" line="373" column="0" />
         <mark key="^" line="368" column="53" />
         <mark key="." line="373" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/ShujiguihuanController.java" timestamp="1592033285375" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/WEB-INF/lib/spring.jar!/org/springframework/orm/hibernate3/HibernateTemplate.class" timestamp="1592070215075" />
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/CommentController.java" timestamp="1592044329752" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592113056134">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
-        <mark key="^" line="276" column="57" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/ChooseServiceImp.java" timestamp="1592127333045">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" timestamp="1592118790461">
         <mark key="[" line="23" column="24" />
@@ -95,41 +108,20 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="24" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1592312694097" />
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/resources/sqlmap/LiuyanbanMapper.xml" timestamp="1592041690436">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592114047201">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592312747181">
+        <mark key="[" line="52" column="7" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/struts.xml" timestamp="1592068660185">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-        <mark key="." line="27" column="31" />
-      </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/CategoryService.java" timestamp="1592114191208">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="14" />
-      </file>
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/resources/sqlmap/DuzheMapper.xml" timestamp="1592033800718" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/ChooseServiceImp.java" timestamp="1592127333045">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/entity/Pinglun.java" timestamp="1592044107828" />
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/WebRoot/comment.jsp" timestamp="1592044235727" />
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/java/com/spring/controller/AdminController.java" timestamp="1592042747194" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1592114163645" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/ChooseService.java" timestamp="1592110289707" />
-      <file name="/fragment.java" timestamp="1592109296895">
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/ChooseService.java" timestamp="1592312674541" />
+      <file name="/fragment.java" timestamp="1592312726863">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -230,41 +222,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFN0cmluZyBzb3J0ID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInNvcnQiKTsKICAgICAgICBTdHJpbmcgb3JkZXIgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigib3JkZXIiKTsKICAgICAgICBTdHJpbmcgcGFnZU5vID0gKFN0cmluZykgdGhpcy5yZXF1ZXN0LmdldFBhcmFtZXRlcigicGFnZSIpOwogICAgICAgIFN0cmluZyBwYWdlU2l6ZXMgPSAoU3RyaW5nKSB0aGlzLnJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJyb3dzIik7CiAgICAgICAgUGFnZSBwYWdlID0gbmV3IFBhZ2UoKTsKICAgICAgICBpZiAocGFnZU5vID09IG51bGwpIHsKICAgICAgICAgICAgcGFnZS5zZXRQYWdlU2l6ZSgxMCk7CiAgICAgICAgICAgIHBhZ2Uuc2V0UGFnZU5vKDEpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHBhZ2Uuc2V0UGFnZVNpemUoSW50ZWdlci5wYXJzZUludChwYWdlU2l6ZXMpKTsKICAgICAgICAgICAgcGFnZS5zZXRQYWdlTm8oSW50ZWdlci5wYXJzZUludChwYWdlTm8pKTsKICAgICAgICB9CgogICAgICAgIEdzb24ganNvbiA9IG5ldyBHc29uKCk7CgogICAgICAgIHJlbmRlcihqc29uLnRvSnNvbihjYXRlZ29yaWVzKSk7</text>
       </register>
       <register name="-" type="4">
-        <text>ctry</text>
+        <text>findByPage</text>
       </register>
       <register name="0" type="4">
         <text>e);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IFN0cmluZyBzb3J0ID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInNvcnQiKTsKICAgICAgICBTdHJpbmcgb3JkZXIgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigib3JkZXIiKTsKICAgICAgICBTdHJpbmcgcGFnZU5vID0gKFN0cmluZykgdGhpcy5yZXF1ZXN0LmdldFBhcmFtZXRlcigicGFnZSIpOwogICAgICAgIFN0cmluZyBwYWdlU2l6ZXMgPSAoU3RyaW5nKSB0aGlzLnJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJyb3dzIik7CiAgICAgICAgUGFnZSBwYWdlID0gbmV3IFBhZ2UoKTsKICAgICAgICBpZiAocGFnZU5vID09IG51bGwpIHsKICAgICAgICAgICAgcGFnZS5zZXRQYWdlU2l6ZSgxMCk7CiAgICAgICAgICAgIHBhZ2Uuc2V0UGFnZU5vKDEpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHBhZ2Uuc2V0UGFnZVNpemUoSW50ZWdlci5wYXJzZUludChwYWdlU2l6ZXMpKTsKICAgICAgICAgICAgcGFnZS5zZXRQYWdlTm8oSW50ZWdlci5wYXJzZUludChwYWdlTm8pKTsKICAgICAgICB9CgogICAgICAgIEdzb24ganNvbiA9IG5ldyBHc29uKCk7CgogICAgICAgIHJlbmRlcihqc29uLnRvSnNvbihjYXRlZ29yaWVzKSk7</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TGlzdDxPYmplY3RbXT4gYWZyaWNhbkNvbnRpbmVudHMgPSBzZXNzaW9uRmFjdG9yeS5nZXRDdXJyZW50U2Vzc2lvbigpLmNyZWF0ZVF1ZXJ5KAoJCQkJImZyb20gQ2hvb3NlIGNoIGpvaW4gQ2F0ZWdvcnkgY2F0ZSAiICsKCQkJCQkJIndoZXJlIGNvbnQubmFtZSA9ICdBZnJpY2EnIikKCQkJCS5saXN0KCk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PENhdGVnb3J5PiBjYXRlZ29yaWVzID0gY2F0ZWdvcnlTZXJ2aWNlLmZpbmRBbGwoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzYi5hcHBlbmQoImZyb20gQ2hvb3NlICIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwYWdlLnNldExpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PG9wdGlvbiB2YWx1ZT0iYyI+Qzwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJkIj5EPC9vcHRpb24+</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdHlwZSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJ0eXBlIik7Cg==</text>
+        <text encoding="base64">ICAgcHVibGljIENhdGVnb3J5IGZpbmRBbGwoQ2F0ZWdvcnkgbW9kZWwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbGVpeGluZyA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJsZWl4aW5nIik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQYWdlIGZpbmRBbGwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2JqbmFtZSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJzdGl0bGUiKTsK</text>
+        <text encoding="base64">ICAgIExpc3Q8Q2F0ZWdvcnk+IGZpbmRBbGwoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
