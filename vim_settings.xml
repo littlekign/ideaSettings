@@ -97,6 +97,13 @@
         <mark key="^" line="51" column="84" />
         <mark key="." line="51" column="83" />
       </file>
+      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/sql/SSM.sql" timestamp="1592329430341" />
+      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/resource/jdbc.properties" timestamp="1592329436164">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category.java" timestamp="1592313959636" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1592126434614">
         <mark key="[" line="373" column="0" />
@@ -117,12 +124,6 @@
         <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1592313417819" />
-      <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/resources/sqlmap/LiuyanbanMapper.xml" timestamp="1592041690436">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592312747181">
         <mark key="[" line="52" column="7" />
         <mark key="]" line="52" column="7" />
@@ -232,10 +233,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>123456</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>123456</text>
       </register>
       <register name="0" type="4">
         <text>e);</text>
