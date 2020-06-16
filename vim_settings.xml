@@ -91,6 +91,13 @@
         <mark key="." line="291" column="0" />
         <mark key="^" line="276" column="57" />
       </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.hbm.xml" timestamp="1592313967836">
+        <mark key="[" line="51" column="75" />
+        <mark key="]" line="51" column="84" />
+        <mark key="^" line="51" column="84" />
+        <mark key="." line="51" column="83" />
+      </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category.java" timestamp="1592313959636" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1592126434614">
         <mark key="[" line="373" column="0" />
         <mark key="]" line="373" column="0" />
@@ -102,13 +109,14 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" timestamp="1592118790461">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="24" column="4" />
-        <mark key="^" line="24" column="4" />
-        <mark key="." line="24" column="3" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" timestamp="1592313936177">
+        <mark key="'" line="26" column="34" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1592312694097" />
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1592313417819" />
       <file name="$USER_HOME$/Downloads/2020/6.2/ssm图书管理系统/ssm图书管理系统/src/resources/sqlmap/LiuyanbanMapper.xml" timestamp="1592041690436">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
@@ -218,15 +226,16 @@
       <jump line="234" column="0" filename="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/java/Listener/onLineListener.java" />
       <jump line="74" column="0" filename="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/java/Listener/onLineListener.java" />
       <jump line="115" column="65" filename="$USER_HOME$/Downloads/work-space/directory/WebContent/WEB-INF/page/loginExt.jsp" />
+      <jump line="26" column="34" filename="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFN0cmluZyBzb3J0ID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInNvcnQiKTsKICAgICAgICBTdHJpbmcgb3JkZXIgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigib3JkZXIiKTsKICAgICAgICBTdHJpbmcgcGFnZU5vID0gKFN0cmluZykgdGhpcy5yZXF1ZXN0LmdldFBhcmFtZXRlcigicGFnZSIpOwogICAgICAgIFN0cmluZyBwYWdlU2l6ZXMgPSAoU3RyaW5nKSB0aGlzLnJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJyb3dzIik7CiAgICAgICAgUGFnZSBwYWdlID0gbmV3IFBhZ2UoKTsKICAgICAgICBpZiAocGFnZU5vID09IG51bGwpIHsKICAgICAgICAgICAgcGFnZS5zZXRQYWdlU2l6ZSgxMCk7CiAgICAgICAgICAgIHBhZ2Uuc2V0UGFnZU5vKDEpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHBhZ2Uuc2V0UGFnZVNpemUoSW50ZWdlci5wYXJzZUludChwYWdlU2l6ZXMpKTsKICAgICAgICAgICAgcGFnZS5zZXRQYWdlTm8oSW50ZWdlci5wYXJzZUludChwYWdlTm8pKTsKICAgICAgICB9CgogICAgICAgIEdzb24ganNvbiA9IG5ldyBHc29uKCk7CgogICAgICAgIHJlbmRlcihqc29uLnRvSnNvbihjYXRlZ29yaWVzKSk7</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>findByPage</text>
+        <text>;</text>
       </register>
       <register name="0" type="4">
         <text>e);</text>
