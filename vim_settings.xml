@@ -97,14 +97,17 @@
         <mark key="^" line="51" column="84" />
         <mark key="." line="51" column="83" />
       </file>
-      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/sql/SSM.sql" timestamp="1592329430341" />
       <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/resource/jdbc.properties" timestamp="1592329436164">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Category.java" timestamp="1592313959636" />
+      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/spring/springmvc.xml" timestamp="1592367652411">
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="20" column="49" />
+      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1592126434614">
         <mark key="[" line="373" column="0" />
         <mark key="]" line="373" column="0" />
@@ -123,13 +126,11 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/CategoryServiceImpl.java" timestamp="1592313417819" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592312747181">
         <mark key="[" line="52" column="7" />
         <mark key="]" line="52" column="7" />
         <mark key="." line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/ChooseService.java" timestamp="1592312674541" />
       <file name="/fragment.java" timestamp="1592312726863">
         <mark key="[" line="0" column="0" />
       </file>
