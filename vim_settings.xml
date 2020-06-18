@@ -132,17 +132,17 @@
         <mark key="]" line="20" column="55" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592511115588">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="31" />
-        <mark key="^" line="18" column="32" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592515789108">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592507283374">
-        <mark key="[" line="76" column="17" />
-        <mark key="]" line="76" column="24" />
-        <mark key="^" line="76" column="24" />
-        <mark key="." line="76" column="23" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592515599548">
+        <mark key="[" line="77" column="23" />
+        <mark key="]" line="77" column="27" />
+        <mark key="^" line="77" column="27" />
+        <mark key="." line="77" column="26" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" timestamp="1592313936177">
         <mark key="'" line="26" column="34" />
@@ -251,42 +251,42 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getList</text>
+        <text>jsonp</text>
       </register>
       <register name="-" type="4">
-        <text>getList</text>
+        <text>jsonp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGFqYXhUaW11Q2FsbGJhY2soImdldExpc3QiLHt0YWJsZToiY2hvb3NlIn0sZnVuY3Rpb24oZGF0YSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhKSk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>public void findAllType(){
 		Gson json = new Gson();
 		 render(json.toJson(typeService.list()));</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICBzZXNzaW9uRmFjdG9yeS5nZXRDdXJyZW50U2Vzc2lvbigpLmNyZWF0ZVF1ZXJ5KCJmcm9tIENob29zZVR5cGUiKS5saXN0KCk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyBMaXN0PENob29zZVR5cGU+IGZpbmRBbGwoKSB7Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuICBzZXNzaW9uRmFjdG9yeS5nZXRDdXJyZW50U2Vzc2lvbigpLmNyZWF0ZVF1ZXJ5KCJmcm9tIENob29zZVR5cGUiKS5saXN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">CXB1YmxpYyBMaXN0PENob29zZVR5cGU+IGZpbmRBbGwoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
