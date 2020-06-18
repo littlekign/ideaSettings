@@ -10,8 +10,8 @@
         <entry>action QuickJavaDoc</entry>
         <entry>w</entry>
         <entry>action FindNext</entry>
-        <entry>action AceJumpAction</entry>
         <entry>action $Redo</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -69,29 +69,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/struts.xml" timestamp="1592068660185">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-        <mark key="." line="27" column="31" />
-      </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/service/CategoryService.java" timestamp="1592312685005">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592115191226">
-        <mark key="[" line="129" column="39" />
-        <mark key="]" line="129" column="41" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/jbtool.js" timestamp="1592493313714" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592113056134">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
-        <mark key="^" line="276" column="57" />
-      </file>
+      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/model/ChooseType.java" timestamp="1592510248596" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.hbm.xml" timestamp="1592313967836">
         <mark key="[" line="51" column="75" />
         <mark key="]" line="51" column="84" />
@@ -99,43 +77,28 @@
         <mark key="." line="51" column="83" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/classes/struts.xml" timestamp="1592492254775" />
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592493144536">
-        <mark key="[" line="44" column="14" />
-        <mark key="]" line="44" column="14" />
-        <mark key="^" line="44" column="18" />
-        <mark key="." line="44" column="14" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592510985231">
+        <mark key="[" line="49" column="20" />
+        <mark key="]" line="49" column="20" />
+        <mark key="." line="49" column="20" />
+        <mark key="^" line="51" column="74" />
       </file>
-      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/resource/jdbc.properties" timestamp="1592329436164">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="26" />
+      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseTypeServiceImpl.java" timestamp="1592510637945">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592492270337" />
-      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/spring/springmvc.xml" timestamp="1592367652411">
-        <mark key="[" line="20" column="55" />
-        <mark key="]" line="20" column="55" />
-        <mark key="." line="20" column="49" />
-      </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Choose/choose.jsp" timestamp="1592126434614">
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="^" line="368" column="53" />
-        <mark key="." line="373" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592499862703" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/serviceImp/ChooseServiceImp.java" timestamp="1592418419541">
         <mark key="[" line="57" column="74" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="57" column="75" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/lib/c3p0-0.9.1.2.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.class" timestamp="1592491372265" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" timestamp="1592313936177">
-        <mark key="'" line="26" column="34" />
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="34" />
+      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseTypeAction.java" timestamp="1592510941498">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/src/beans.xml" timestamp="1592490416799">
         <mark key="[" line="28" column="47" />
@@ -143,13 +106,50 @@
         <mark key="." line="28" column="55" />
         <mark key="^" line="28" column="56" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592312747181">
-        <mark key="[" line="52" column="7" />
-        <mark key="]" line="52" column="7" />
-        <mark key="." line="52" column="7" />
+      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/service/ChooseTypeService.java" timestamp="1592510631581">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1592312726863">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/lib/spring.jar!/org/springframework/orm/hibernate3/HibernateTemplate.class" timestamp="1592509756246" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/app.js" timestamp="1592507142198">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/jbtool.js" timestamp="1592493313714" />
+      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/resource/jdbc.properties" timestamp="1592329436164">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseServiceImp.java" timestamp="1592510431343" />
+      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592510794779" />
+      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/spring/springmvc.xml" timestamp="1592367652411">
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="20" column="49" />
+      </file>
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592511115588">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592507283374">
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="76" column="24" />
+        <mark key="^" line="76" column="24" />
+        <mark key="." line="76" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" timestamp="1592313936177">
+        <mark key="'" line="26" column="34" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -251,40 +251,42 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1231</text>
+        <text>getList</text>
       </register>
       <register name="-" type="4">
-        <text>1231</text>
+        <text>getList</text>
       </register>
-      <register name="0" type="4">
-        <text>e);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIGFqYXhUaW11Q2FsbGJhY2soImdldExpc3QiLHt0YWJsZToiY2hvb3NlIn0sZnVuY3Rpb24oZGF0YSl7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IFN0cmluZyBzb3J0ID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInNvcnQiKTsKICAgICAgICBTdHJpbmcgb3JkZXIgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigib3JkZXIiKTsKICAgICAgICBTdHJpbmcgcGFnZU5vID0gKFN0cmluZykgdGhpcy5yZXF1ZXN0LmdldFBhcmFtZXRlcigicGFnZSIpOwogICAgICAgIFN0cmluZyBwYWdlU2l6ZXMgPSAoU3RyaW5nKSB0aGlzLnJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJyb3dzIik7CiAgICAgICAgUGFnZSBwYWdlID0gbmV3IFBhZ2UoKTsKICAgICAgICBpZiAocGFnZU5vID09IG51bGwpIHsKICAgICAgICAgICAgcGFnZS5zZXRQYWdlU2l6ZSgxMCk7CiAgICAgICAgICAgIHBhZ2Uuc2V0UGFnZU5vKDEpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHBhZ2Uuc2V0UGFnZVNpemUoSW50ZWdlci5wYXJzZUludChwYWdlU2l6ZXMpKTsKICAgICAgICAgICAgcGFnZS5zZXRQYWdlTm8oSW50ZWdlci5wYXJzZUludChwYWdlTm8pKTsKICAgICAgICB9CgogICAgICAgIEdzb24ganNvbiA9IG5ldyBHc29uKCk7CgogICAgICAgIHJlbmRlcihqc29uLnRvSnNvbihjYXRlZ29yaWVzKSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENhdGVnb3J5PiBjYXRlZ29yaWVzID0gY2F0ZWdvcnlTZXJ2aWNlLmZpbmRBbGwoKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>public void findAllType(){
+		Gson json = new Gson();
+		 render(json.toJson(typeService.list()));</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuICBzZXNzaW9uRmFjdG9yeS5nZXRDdXJyZW50U2Vzc2lvbigpLmNyZWF0ZVF1ZXJ5KCJmcm9tIENob29zZVR5cGUiKS5saXN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgcHVibGljIENhdGVnb3J5IGZpbmRBbGwoQ2F0ZWdvcnkgbW9kZWwpOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBMaXN0PENob29zZVR5cGU+IGZpbmRBbGwoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQYWdlIGZpbmRBbGwoKTsK</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Q2F0ZWdvcnk+IGZpbmRBbGwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
