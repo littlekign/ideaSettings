@@ -85,8 +85,6 @@
         <mark key="[" line="129" column="39" />
         <mark key="]" line="129" column="41" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/client/index.html" timestamp="1592484541228" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/client/timutest.html" timestamp="1592484694700" />
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/web/pages/Category/category.jsp" timestamp="1592113056134">
         <mark key="[" line="291" column="0" />
         <mark key="]" line="291" column="0" />
@@ -105,8 +103,6 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/client/cordovatool/cordovatools.js" timestamp="1592484488619" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/WebRoot/client/js/yewu.js" timestamp="1592484698261" />
       <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/spring/springmvc.xml" timestamp="1592367652411">
         <mark key="[" line="20" column="55" />
         <mark key="]" line="20" column="55" />
@@ -130,11 +126,11 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/src/beans.xml" timestamp="1592488866023">
-        <mark key="[" line="30" column="41" />
-        <mark key="]" line="30" column="51" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="51" />
+      <file name="$USER_HOME$/Downloads/myproject/src/beans.xml" timestamp="1592490416799">
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="56" />
       </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592312747181">
         <mark key="[" line="52" column="7" />
@@ -244,10 +240,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
         <text>e);</text>
