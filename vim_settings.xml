@@ -130,6 +130,12 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/Downloads/myproject/src/beans.xml" timestamp="1592488866023">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="51" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="51" />
+      </file>
       <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/action/CategoryAction.java" timestamp="1592312747181">
         <mark key="[" line="52" column="7" />
         <mark key="]" line="52" column="7" />
@@ -238,10 +244,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>123456</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>123456</text>
+        <text>root</text>
       </register>
       <register name="0" type="4">
         <text>e);</text>
