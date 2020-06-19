@@ -76,18 +76,12 @@
         <mark key="^" line="580" column="19" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/model/ChooseType.java" timestamp="1592510248596" />
-      <file name="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.hbm.xml" timestamp="1592313967836">
-        <mark key="[" line="51" column="75" />
-        <mark key="]" line="51" column="84" />
-        <mark key="^" line="51" column="84" />
-        <mark key="." line="51" column="83" />
-      </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/classes/struts.xml" timestamp="1592492254775" />
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592551185222">
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="42" />
-        <mark key="^" line="53" column="51" />
-        <mark key="." line="53" column="42" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592554236089">
+        <mark key="[" line="108" column="27" />
+        <mark key="]" line="50" column="39" />
+        <mark key="^" line="50" column="39" />
+        <mark key="." line="50" column="38" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseTypeServiceImpl.java" timestamp="1592510637945">
         <mark key="[" line="56" column="0" />
@@ -138,17 +132,20 @@
         <mark key="]" line="20" column="55" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592551774832">
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="29" column="46" />
-        <mark key="." line="29" column="45" />
-        <mark key="^" line="29" column="46" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592554357061">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="20" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592515599548">
         <mark key="[" line="77" column="23" />
         <mark key="]" line="77" column="27" />
         <mark key="^" line="77" column="27" />
         <mark key="." line="77" column="26" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
+        <mark key="'" line="785" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -245,45 +242,46 @@
       <jump line="74" column="0" filename="$USER_HOME$/Downloads/work-space/Lhfly-BBS/src/main/java/Listener/onLineListener.java" />
       <jump line="115" column="65" filename="$USER_HOME$/Downloads/work-space/directory/WebContent/WEB-INF/page/loginExt.jsp" />
       <jump line="26" column="34" filename="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" />
+      <jump line="785" column="0" filename="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>nonoe</text>
+        <text>main</text>
       </register>
       <register name="-" type="4">
-        <text>nonoe</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCIjbWFpbiIpLnNob3coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWJhY2tncm91bmQ6IHJlZDsK</text>
+        <text encoding="base64">ICAgICAgICAkKCIjdGVzdHBhZ2UgLmhpZGVDYXRlZ29yeSIpLmNzcygiZGlzcGxheSIsIm5vbmUgIWltcG9ydGFudCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">CWJhY2tncm91bmQ6IHJlZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgxMTEpCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgxMTEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
+        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjY2F0ZWdvcnlUeXBlIikudmFsKGRhdGFbMF0uaWQpOwo=</text>
+        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCIjY2F0ZWdvcnlUeXBlIikudmFsKGRhdGFbMF0uaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
