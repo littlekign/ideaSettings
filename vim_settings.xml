@@ -95,8 +95,8 @@
         <mark key="." line="57" column="75" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/lib/c3p0-0.9.1.2.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.class" timestamp="1592491372265" />
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseTypeAction.java" timestamp="1592510941498">
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseTypeAction.java" timestamp="1592558572979">
+        <mark key="[" line="38" column="8" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="15" />
         <mark key="." line="34" column="0" />
@@ -290,7 +290,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
