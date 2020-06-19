@@ -83,6 +83,7 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="50" column="38" />
       </file>
+      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/WehallAction.java" timestamp="1592556637394" />
       <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseTypeServiceImpl.java" timestamp="1592510637945">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -119,12 +120,6 @@
         <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/jbtool.js" timestamp="1592493313714" />
-      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/resource/jdbc.properties" timestamp="1592329436164">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="26" />
-      </file>
       <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseServiceImp.java" timestamp="1592510431343" />
       <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592510794779" />
       <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/spring/springmvc.xml" timestamp="1592367652411">
@@ -132,11 +127,11 @@
         <mark key="]" line="20" column="55" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592554357061">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="19" />
-        <mark key="^" line="32" column="20" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592556716009">
+        <mark key="[" line="44" column="7" />
+        <mark key="]" line="45" column="57" />
+        <mark key="^" line="45" column="57" />
+        <mark key="." line="45" column="56" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592515599548">
         <mark key="[" line="77" column="23" />
@@ -247,41 +242,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>main</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFqYXhDYWxsYmFjaygibGlzdEoiLHt9LGZ1bmN0aW9uKGRhdGEpewo=</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkKCIjbWFpbiIpLnNob3coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjdGVzdHBhZ2UgLmhpZGVDYXRlZ29yeSIpLmNzcygiZGlzcGxheSIsIm5vbmUgIWltcG9ydGFudCIpOwo=</text>
+        <text encoding="base64">ICAgIGFqYXhDYWxsYmFjaygibGlzdEoiLHt9LGZ1bmN0aW9uKGRhdGEpewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWJhY2tncm91bmQ6IHJlZDsK</text>
+        <text encoding="base64">ICAgICAgICAkKCIjdGVzdHBhZ2UgLmhpZGVDYXRlZ29yeSIpLmNzcygiZGlzcGxheSIsIm5vbmUgIWltcG9ydGFudCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">CWJhY2tncm91bmQ6IHJlZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgxMTEpCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgxMTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
+        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjY2F0ZWdvcnlUeXBlIikudmFsKGRhdGFbMF0uaWQpOwo=</text>
+        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
