@@ -132,11 +132,10 @@
         <mark key="]" line="20" column="55" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592547752443">
-        <mark key="[" line="29" column="11" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="12" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592548907388">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592515599548">
         <mark key="[" line="77" column="23" />
@@ -250,41 +249,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydCgxMTEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VsZWN0IG5hbWU9IiIgaWQ9ImNhdGVnb3J5VHlwZSI+CiAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgPGJ1dHRvbiBpZD0ic3RhcnRUZXN0IiBzdHlsZT0ibWFyZ2luLXRvcDogMzBweCI+5byA5aeL5rWL6K+VPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgxMTEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjY2F0ZWdvcnlUeXBlIikudmFsKGRhdGFbMF0uaWQpOwo=</text>
+        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjY2F0ZWdvcnlUeXBlIG9wdGlvblt2YWx1ZT0iMSJdJykucHJvcCgnc2VsZWN0ZWQnLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAkKCIjY2F0ZWdvcnlUeXBlIikudmFsKGRhdGFbMF0uaWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGlkPSJzdGFydFRlc3QiIHN0eWxlPSJtYXJnaW4tdG9wOiAzMHB4Ij7lvIDlp4vmtYvor5U8L2J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L3NlbGVjdD4K</text>
+        <text encoding="base64">ICAgICAgICAkKCcjY2F0ZWdvcnlUeXBlIG9wdGlvblt2YWx1ZT0iMSJdJykucHJvcCgnc2VsZWN0ZWQnLCB0cnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VsZWN0IG5hbWU9IiIgaWQ9ImNhdGVnb3J5VHlwZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGlkPSJzdGFydFRlc3QiIHN0eWxlPSJtYXJnaW4tdG9wOiAzMHB4Ij7lvIDlp4vmtYvor5U8L2J1dHRvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8L3NlbGVjdD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhKQo=</text>
+        <text encoding="base64">ICAgICAgICA8c2VsZWN0IG5hbWU9IiIgaWQ9ImNhdGVnb3J5VHlwZSI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
