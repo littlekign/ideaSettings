@@ -77,11 +77,11 @@
         <mark key="." line="51" column="83" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/classes/struts.xml" timestamp="1592492254775" />
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592517591923">
-        <mark key="[" line="49" column="22" />
-        <mark key="]" line="53" column="60" />
-        <mark key="." line="53" column="59" />
-        <mark key="^" line="53" column="60" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592547744981">
+        <mark key="[" line="48" column="45" />
+        <mark key="]" line="48" column="45" />
+        <mark key="^" line="48" column="44" />
+        <mark key="." line="48" column="45" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseTypeServiceImpl.java" timestamp="1592510637945">
         <mark key="[" line="56" column="0" />
@@ -132,11 +132,11 @@
         <mark key="]" line="20" column="55" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592519879287">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="33" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592547752443">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="11" />
+        <mark key="^" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592515599548">
         <mark key="[" line="77" column="23" />
@@ -251,40 +251,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgiI2NhdGVnb3J5VHlwZSIpLmFwcGVuZCgiPG9wdGlvbiB2YWx1ZT0nIiArIGRhdGFbaV0uaWQgKyAiJz4iICsgZGF0YVtpXS5uYW1lICsgIjwvb3B0aW9uPiIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8c2VsZWN0IG5hbWU9IiIgaWQ9ImNhdGVnb3J5VHlwZSI+CiAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgPGJ1dHRvbiBpZD0ic3RhcnRUZXN0IiBzdHlsZT0ibWFyZ2luLXRvcDogMzBweCI+5byA5aeL5rWL6K+VPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhKQo=</text>
+        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjY2F0ZWdvcnlUeXBlIikuZmluZCgib3B0aW9uW3ZhbHVlID0nMCcgXSIpLmF0dHIoInNlbGVjdGVkIiwic2VsZWN0ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAkKCIjY2F0ZWdvcnlUeXBlIikudmFsKGRhdGFbMF0uaWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJCgiI2NhdGVnb3J5VHlwZSIpLmFwcGVuZCgiPG9wdGlvbiB2YWx1ZT0nIiArIGRhdGFbaV0uaWQgKyAiJz4iICsgZGF0YVtpXS5uYW1lICsgIjwvb3B0aW9uPiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjY2F0ZWdvcnlUeXBlIG9wdGlvblt2YWx1ZT0iMSJdJykucHJvcCgnc2VsZWN0ZWQnLCB0cnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGlkPSJzdGFydFRlc3QiIHN0eWxlPSJtYXJnaW4tdG9wOiAzMHB4Ij7lvIDlp4vmtYvor5U8L2J1dHRvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3NlbGVjdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8c2VsZWN0IG5hbWU9IiIgaWQ9ImNhdGVnb3J5VHlwZSI+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiLS0tLS0tLS0tLS0tIik7CiAgICAgICAgY29uc29sZS5sb2coZGF0YSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yeVR5cGUK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
