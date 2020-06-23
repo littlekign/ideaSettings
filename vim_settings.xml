@@ -69,6 +69,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/qimo/src/login/newFrame.java" timestamp="1592934826322">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/jb/jquery.mobile.flatui.css" timestamp="1592551252265">
         <mark key="[" line="579" column="14" />
         <mark key="]" line="580" column="19" />
@@ -80,6 +85,9 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/Downloads/qimo/src/login/tmp.java" timestamp="1592934879142">
+        <mark key="[" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592565480643">
         <mark key="[" line="53" column="32" />
@@ -126,18 +134,18 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592932235490">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="36" />
-        <mark key="." line="16" column="35" />
-        <mark key="^" line="16" column="36" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592937474815">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592932273017">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="24" />
-        <mark key="^" line="37" column="25" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592937523677">
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="55" column="22" />
+        <mark key="." line="55" column="21" />
+        <mark key="^" line="55" column="22" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
         <mark key="'" line="785" column="0" />
@@ -147,6 +155,15 @@
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFramecopy.java" timestamp="1592934734738">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="46" />
+        <mark key="^" line="35" column="47" />
+      </file>
+      <file name="/fragment.java" timestamp="1592934306373">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -245,42 +262,45 @@
       <jump line="26" column="34" filename="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" />
       <jump line="785" column="0" filename="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" />
       <jump line="39" column="0" filename="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" />
+      <jump line="128" column="25" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
+      <jump line="160" column="0" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzZXRMYXlvdXQobnVsbCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>myContentPance</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBycC5hZGQobXApOwo=</text>
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzZXRMYXlvdXQobnVsbCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBycC5hZGQobXApOwo=</text>
+        <text encoding="base64">CQlmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+        <text encoding="base64">ICAgICAgICBmLmdldFJvb3RQYW5lKCk7ZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6KiA5puM44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+        <text encoding="base64">ICAgICAgICBmLk15SlBhbmVsKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvTElVX1lBTlpIQU8vamF2YS9hcnRpY2xlL2RldGFpbHMvNzI3NDIyMzUK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvTElVX1lBTlpIQU8vamF2YS9hcnRpY2xlL2RldGFpbHMvNzI3NDIyMzUK</text>
+        <text encoding="base64">ICAgICAgICBmLmhvc3QoIjE5Mi4xNjguMC4xIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBteUNvbnRlbnRQYW5jZQo=</text>
+        <text encoding="base64">CQlTdHJpbmcgaG9zdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
