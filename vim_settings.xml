@@ -75,15 +75,24 @@
         <mark key="." line="580" column="18" />
         <mark key="^" line="580" column="19" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/model/ChooseType.java" timestamp="1592510248596" />
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/classes/struts.xml" timestamp="1592492254775" />
+      <file name="$USER_HOME$/Downloads/qimo/src/DB/DBConfig.java" timestamp="1592920417569">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592565480643">
         <mark key="[" line="53" column="32" />
         <mark key="]" line="53" column="32" />
         <mark key="^" line="50" column="66" />
         <mark key="." line="53" column="32" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/WehallAction.java" timestamp="1592556637394" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592565513225">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="34" />
+      </file>
       <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseTypeServiceImpl.java" timestamp="1592510637945">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -94,7 +103,12 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="57" column="75" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/lib/c3p0-0.9.1.2.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.class" timestamp="1592491372265" />
+      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592515599548">
+        <mark key="[" line="77" column="23" />
+        <mark key="]" line="77" column="27" />
+        <mark key="^" line="77" column="27" />
+        <mark key="." line="77" column="26" />
+      </file>
       <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseTypeAction.java" timestamp="1592558572979">
         <mark key="[" line="38" column="8" />
         <mark key="]" line="34" column="0" />
@@ -112,35 +126,14 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/WEB-INF/lib/spring.jar!/org/springframework/orm/hibernate3/HibernateTemplate.class" timestamp="1592509756246" />
+      <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
+        <mark key="'" line="785" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/app.js" timestamp="1592507142198">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="11" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/jbtool.js" timestamp="1592493313714" />
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseServiceImp.java" timestamp="1592510431343" />
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseAction.java" timestamp="1592510794779" />
-      <file name="$USER_HOME$/Downloads/Compressed/SSM-Example/src/main/resources/spring/springmvc.xml" timestamp="1592367652411">
-        <mark key="[" line="20" column="55" />
-        <mark key="]" line="20" column="55" />
-        <mark key="." line="20" column="49" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592565513225">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="34" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592515599548">
-        <mark key="[" line="77" column="23" />
-        <mark key="]" line="77" column="27" />
-        <mark key="^" line="77" column="27" />
-        <mark key="." line="77" column="26" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
-        <mark key="'" line="785" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -242,11 +235,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjY2F0ZWdvcnlUeXBlIikuZmluZCgib3B0aW9uW3ZhbHVlPScxJ10iKS5wcm9wKCJzZWxlY3RlZCIsIHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>tujunqi313</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>tujunqi313</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxlY3RJZCkK</text>
