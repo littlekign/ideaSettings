@@ -6,6 +6,9 @@
       <entry key="newform.superclass.history1" value="javax.swing.JFrame" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
+      <node name="forms">
+        <entry key="selection-708187980" value="this" />
+      </node>
     </node>
   </component>
 </application>
