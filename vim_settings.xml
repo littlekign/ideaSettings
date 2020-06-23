@@ -126,16 +126,17 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592929307544">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592930992869">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592929872219">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592931088903">
+        <mark key="[" line="20" column="68" />
+        <mark key="]" line="21" column="60" />
+        <mark key="." line="21" column="59" />
+        <mark key="^" line="21" column="60" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
         <mark key="'" line="785" column="0" />
@@ -246,11 +247,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFNpemUoMTIwMCwxMDAwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnNldFNpemUocnAuaW1nLmdldEljb25XaWR0aCgpLCBycC5pbWcuZ2V0SWNvbkhlaWdodCgpKTsK</text>
