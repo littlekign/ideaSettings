@@ -126,17 +126,18 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592930992869">
+      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592932213399">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="36" />
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592931088903">
-        <mark key="[" line="20" column="68" />
-        <mark key="]" line="21" column="60" />
-        <mark key="." line="21" column="59" />
-        <mark key="^" line="21" column="60" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592932224332">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="36" column="53" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="24" />
+        <mark key="^" line="37" column="25" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
         <mark key="'" line="785" column="0" />
@@ -243,45 +244,46 @@
       <jump line="115" column="65" filename="$USER_HOME$/Downloads/work-space/directory/WebContent/WEB-INF/page/loginExt.jsp" />
       <jump line="26" column="34" filename="$USER_HOME$/Downloads/struct2_wechat 2/myproject/src/com/ideabobo/model/Choose.java" />
       <jump line="785" column="0" filename="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" />
+      <jump line="39" column="0" filename="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>myContentPance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFNpemUocnAuaW1nLmdldEljb25XaWR0aCgpLCBycC5pbWcuZ2V0SWNvbkhlaWdodCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBycC5hZGQobXApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFNpemUoMTIwMCwxMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBycC5hZGQobXApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltYWdlSWNvbigic3JjL2xvZ2luLzAucG5nIiksCg==</text>
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltYWdlSWNvbigic3JjL2ltYWdlcy84LmpwZyIpLAo=</text>
+        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6KiA5puM44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltYWdlSWNvbigic3JjL2ltYWdlcy83LmpwZyIpLAo=</text>
+        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvTElVX1lBTlpIQU8vamF2YS9hcnRpY2xlL2RldGFpbHMvNzI3NDIyMzUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltYWdlSWNvbigic3JjL2ltYWdlcy82LmpwZyIpLAo=</text>
+        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvTElVX1lBTlpIQU8vamF2YS9hcnRpY2xlL2RldGFpbHMvNzI3NDIyMzUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltYWdlSWNvbigic3JjL2ltYWdlcy81LmpwZyIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBteUNvbnRlbnRQYW5jZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltYWdlSWNvbigic3JjL2ltYWdlcy80LmpwZyIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltYWdlSWNvbigic3JjL2ltYWdlcy8zLmpwZyIpLAo=</text>
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
