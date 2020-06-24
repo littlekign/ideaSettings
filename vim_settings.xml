@@ -74,68 +74,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/jb/jquery.mobile.flatui.css" timestamp="1592551252265">
-        <mark key="[" line="579" column="14" />
-        <mark key="]" line="580" column="19" />
-        <mark key="." line="580" column="18" />
-        <mark key="^" line="580" column="19" />
-      </file>
       <file name="$USER_HOME$/Downloads/qimo/src/DB/DBConfig.java" timestamp="1592920417569">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="33" />
-      </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/tmp.java" timestamp="1592934879142">
-        <mark key="[" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/timutest.html" timestamp="1592565480643">
-        <mark key="[" line="53" column="32" />
-        <mark key="]" line="53" column="32" />
-        <mark key="^" line="50" column="66" />
-        <mark key="." line="53" column="32" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Misc/login.java" timestamp="1592942029184" />
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/timutest.js" timestamp="1592565513225">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="34" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/serviceImp/ChooseTypeServiceImpl.java" timestamp="1592510637945">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/commontools.js" timestamp="1592515599548">
-        <mark key="[" line="77" column="23" />
-        <mark key="]" line="77" column="27" />
-        <mark key="^" line="77" column="27" />
-        <mark key="." line="77" column="26" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/action/ChooseTypeAction.java" timestamp="1592558572979">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/src/beans.xml" timestamp="1592490416799">
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="56" />
-        <mark key="." line="28" column="55" />
-        <mark key="^" line="28" column="56" />
-      </file>
-      <file name="$USER_HOME$/Downloads/myproject/src/com/ideabobo/service/ChooseTypeService.java" timestamp="1592510631581">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592986947877">
-        <mark key="'" line="149" column="7" />
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592991798617">
         <mark key="[" line="80" column="33" />
@@ -143,25 +86,57 @@
         <mark key="^" line="59" column="34" />
         <mark key="." line="80" column="34" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
-        <mark key="'" line="785" column="0" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593006361051">
+        <mark key="[" line="82" column="44" />
+        <mark key="]" line="88" column="31" />
+        <mark key="^" line="88" column="31" />
+        <mark key="." line="88" column="30" />
       </file>
-      <file name="$USER_HOME$/Downloads/myproject/WebRoot/client/js/app.js" timestamp="1592507142198">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="11" />
-      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/LoginServlet.java" timestamp="1593005363096" />
       <file name="$USER_HOME$/Downloads/qimo/src/login/MyFramecopy.java" timestamp="1592934734738">
         <mark key="[" line="35" column="46" />
         <mark key="]" line="35" column="47" />
         <mark key="." line="35" column="46" />
         <mark key="^" line="35" column="47" />
       </file>
+      <file name="$USER_HOME$/Downloads/qimo/src/DB/DBHelper.java" timestamp="1592941936917" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/pojo/ResetPassword.java" timestamp="1593004954634">
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/util/Md5Util.java" timestamp="1593004533649">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/qimo/src/login/tmp.java" timestamp="1592934879142">
+        <mark key="[" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/WEB-INF/web.xml" timestamp="1593004449893" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/util/Md5.java" timestamp="1593004506348">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Misc/login.java" timestamp="1592942029184" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592986947877">
+        <mark key="'" line="149" column="7" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/login.jsp" timestamp="1593005529058">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1592940468881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/DB/DBHelper.java" timestamp="1592941936917" />
     </filemarks>
     <jumps>
       <jump line="27" column="18" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/override.java" />
@@ -269,40 +244,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>p</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBDcmVhdGVUaW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjaXJwdD48L3NjaXJwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0VmlzaWJsZSh0cnVlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZS5zZXRWaXNpYmxlKHRydWUpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqY2IxLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgQm9yZGVyTGF5b3V0KCApKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text>//        public static void main(String[] args) {
+//            String md5 = MD5(&quot;password&quot;);
+//            String md52 = getMD5(&quot;password22&quot;);
+//        }</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text>}</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgQm9yZGVyTGF5b3V0KCApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
