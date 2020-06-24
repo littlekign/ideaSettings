@@ -130,18 +130,18 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592985658731">
-        <mark key="'" line="150" column="7" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="19" column="8" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592986947877">
+        <mark key="'" line="149" column="7" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592984605821">
-        <mark key="[" line="80" column="28" />
-        <mark key="]" line="80" column="29" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592987752438">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="42" />
         <mark key="^" line="80" column="35" />
-        <mark key="." line="80" column="29" />
+        <mark key="." line="26" column="42" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
         <mark key="'" line="785" column="0" />
@@ -268,11 +268,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
@@ -281,28 +281,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0VmlzaWJsZSh0cnVlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZS5zZXRWaXNpYmxlKHRydWUpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqY2IxLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgQm9yZGVyTGF5b3V0KCApKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0VmlzaWJsZSh0cnVlKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZS5zZXRWaXNpYmxlKHRydWUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBqY2IxLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgQm9yZGVyTGF5b3V0KCApKTsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgQm9yZGVyTGF5b3V0KCApKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
