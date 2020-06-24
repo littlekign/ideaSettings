@@ -137,11 +137,11 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592987752438">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="42" />
-        <mark key="^" line="80" column="35" />
-        <mark key="." line="26" column="42" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592990865396">
+        <mark key="[" line="80" column="33" />
+        <mark key="]" line="80" column="34" />
+        <mark key="^" line="59" column="34" />
+        <mark key="." line="80" column="34" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
         <mark key="'" line="785" column="0" />
@@ -269,10 +269,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>9</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
