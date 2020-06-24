@@ -119,11 +119,11 @@
       </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/layer/layer.js" timestamp="1593019280660" />
       <file name="$USER_HOME$/Downloads/Misc/login.java" timestamp="1592942029184" />
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/LoginDao.java" timestamp="1593021252570">
-        <mark key="[" line="58" column="36" />
-        <mark key="]" line="58" column="45" />
-        <mark key="." line="58" column="44" />
-        <mark key="^" line="58" column="45" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/LoginDao.java" timestamp="1593022271059">
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="58" column="29" />
+        <mark key="." line="58" column="28" />
+        <mark key="^" line="58" column="29" />
       </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/pojo/GgUser.java" timestamp="1593016345070" />
       <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592986947877">
@@ -247,8 +247,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>用户名不存在bbbb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigibm90IGV4aXN0Iik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>用户名不存在bbbb</text>
@@ -257,31 +257,31 @@
         <text encoding="base64">CQl1c2VybmFtZSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJ1c2VybmFtZSIpOwoJCXVzZXJwYXNzd29yZCA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJ1c2VycGFzc3dvcmQiKTsKCQllbWFpbD1yZXF1ZXN0LmdldFBhcmFtZXRlcigiZW1haWwiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCIxMTExMSIpOwo=</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigibm90IGV4aXN0Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRmKCJ1c2VyIG5hbWUgaXMgZXhpc3QiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXllci5tc2coJ+W9k+WJjeeUqOaIt+WQjeW3suiiq+WNoOeUqCEgJykK</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCIxMTExMSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjcmknKS5hdHRyKCdoaWRkZW4nLCdoaWRkZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjd3InKS5yZW1vdmVBdHRyKCdoaWRkZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXllci5tc2coJ+W9k+WJjeeUqOaIt+WQjeW3suiiq+WNoOeUqCEgJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjd3InKS5hdHRyKCdoaWRkZW4nLCdoaWRkZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjcmknKS5hdHRyKCdoaWRkZW4nLCdoaWRkZW4nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjcmknKS5yZW1vdmVBdHRyKCdoaWRkZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjd3InKS5yZW1vdmVBdHRyKCdoaWRkZW4nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCIyMjIyMiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjd3InKS5hdHRyKCdoaWRkZW4nLCdoaWRkZW4nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjcmknKS5yZW1vdmVBdHRyKCdoaWRkZW4nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
