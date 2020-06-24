@@ -130,18 +130,18 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592981310459">
-        <mark key="'" line="44" column="43" />
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="46" column="25" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="25" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592985658731">
+        <mark key="'" line="150" column="7" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="19" column="8" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592981681503">
-        <mark key="[" line="94" column="4" />
-        <mark key="]" line="94" column="4" />
-        <mark key="^" line="37" column="30" />
-        <mark key="." line="94" column="4" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592984605821">
+        <mark key="[" line="80" column="28" />
+        <mark key="]" line="80" column="29" />
+        <mark key="^" line="80" column="35" />
+        <mark key="." line="80" column="29" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
         <mark key="'" line="785" column="0" />
@@ -164,9 +164,6 @@
       <file name="$USER_HOME$/Downloads/qimo/src/DB/DBHelper.java" timestamp="1592941936917" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/project/spring/.idea/workspace.xml" />
-      <jump line="19" column="0" filename="$USER_HOME$/Desktop/project/spring/src/com/example/controllers/HelloController.java" />
-      <jump line="15" column="2" filename="$USER_HOME$/Desktop/project/spring/web/views/index.jsp" />
       <jump line="27" column="18" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/override.java" />
       <jump line="25" column="38" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/override.java" />
       <jump line="43" column="0" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/override.java" />
@@ -264,78 +261,48 @@
       <jump line="32" column="51" filename="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" />
       <jump line="36" column="35" filename="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" />
       <jump line="44" column="43" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
+      <jump line="164" column="0" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
+      <jump line="149" column="7" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>private void initComponent()
-	{
-		this.addWindowListener(new WindowAdapter() {
-
-			@Override
-			public void windowIconified(WindowEvent e) {
-				setExtendedState(JFrame.NORMAL);
-			}
-		});
-
-	}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text />
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlwYW5lbC5hZGQobWluQnRuKTsK</text>
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>private void initComponent()
-	{
-		this.addWindowListener(new WindowAdapter() {
-
-			@Override
-			public void windowIconified(WindowEvent e) {
-				setExtendedState(JFrame.NORMAL);
-			}
-		});
-
-	}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0VmlzaWJsZSh0cnVlKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>/
-//		maxBtn = new JButton(&quot;最大化&quot;);
-//		maxBtn.setBounds(850, 0, 130, 40);
-//		maxBtn.setHorizontalAlignment(JButton.CENTER);
-//		maxBtn.addActionListener(new ActionListener() {
-//
-//			@Override
-//			public void actionPerformed(ActionEvent e) {
-//
-//				setExtendedState(JFrame.MAXIMIZED_BOTH);//最大化窗体
-//
-//			}
-//		});
-//		this.add(maxBtn);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZS5zZXRWaXNpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vZGlzcG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBqY2IxLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8v5L2/55SoZGlzcG9zZSgpO+S5n+WPr+S7peWFs+mXreWPquaYr+S4jeaYr+ecn+ato+eahOWFs+mXrQo=</text>
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgQm9yZGVyTGF5b3V0KCApKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqY2IxLnNldExheW91dChuZXcgR3JpZExheW91dCgxLDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgWFlMYXlvdXQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib3JsYW5kLmpiY2wubGF5b3V0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgQm9yZGVyTGF5b3V0KCApKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmLnNldExheW91dE1hbmFnZXIobmV3IFhZTGF5b3V0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChudWxsKTsvL+ayoeacieaOkuWIl+agvOW8jwo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
