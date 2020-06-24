@@ -130,17 +130,18 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592948112652">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="20" column="9" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/login.java" timestamp="1592981310459">
+        <mark key="'" line="44" column="43" />
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="46" column="24" />
+        <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592979707868">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592981681503">
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="94" column="4" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="94" column="4" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
         <mark key="'" line="785" column="0" />
@@ -163,7 +164,6 @@
       <file name="$USER_HOME$/Downloads/qimo/src/DB/DBHelper.java" timestamp="1592941936917" />
     </filemarks>
     <jumps>
-      <jump line="240" column="50" filename="$USER_HOME$/Desktop/project/spring/.idea/workspace.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/project/spring/.idea/workspace.xml" />
       <jump line="19" column="0" filename="$USER_HOME$/Desktop/project/spring/src/com/example/controllers/HelloController.java" />
       <jump line="15" column="2" filename="$USER_HOME$/Desktop/project/spring/web/views/index.jsp" />
@@ -263,47 +263,79 @@
       <jump line="17" column="0" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
       <jump line="32" column="51" filename="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" />
       <jump line="36" column="35" filename="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" />
+      <jump line="44" column="43" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>private void initComponent()
+	{
+		this.addWindowListener(new WindowAdapter() {
+
+			@Override
+			public void windowIconified(WindowEvent e) {
+				setExtendedState(JFrame.NORMAL);
+			}
+		});
+
+	}</text>
       </register>
       <register name="-" type="4">
-        <text>minBtn</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlwYW5lbC5hZGQobWluQnRuKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text>private void initComponent()
+	{
+		this.addWindowListener(new WindowAdapter() {
+
+			@Override
+			public void windowIconified(WindowEvent e) {
+				setExtendedState(JFrame.NORMAL);
+			}
+		});
+
+	}</text>
       </register>
-      <register name="2" type="4">
-        <text>panel.add(closeBtn);
-		panel.add(minBtn);
-		panel.add(maxBtn);</text>
+      <register name="2" type="2">
+        <text encoding="base64">Lwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlKUGFuZWwgcGFuZWwgPSBuZXcgSlBhbmVsKGxheW91dCk7Cg==</text>
+      <register name="3" type="4">
+        <text>/
+//		maxBtn = new JButton(&quot;最大化&quot;);
+//		maxBtn.setBounds(850, 0, 130, 40);
+//		maxBtn.setHorizontalAlignment(JButton.CENTER);
+//		maxBtn.addActionListener(new ActionListener() {
+//
+//			@Override
+//			public void actionPerformed(ActionEvent e) {
+//
+//				setExtendedState(JFrame.MAXIMIZED_BOTH);//最大化窗体
+//
+//			}
+//		});
+//		this.add(maxBtn);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8vZGlzcG9zZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+        <text encoding="base64">CQkJCS8v5L2/55SoZGlzcG9zZSgpO+S5n+WPr+S7peWFs+mXreWPquaYr+S4jeaYr+ecn+ato+eahOWFs+mXrQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQnniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMbGl1d2V544CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+        <text encoding="base64">ICAgICAgICBqY2IxLnNldExheW91dChuZXcgR3JpZExheW91dCgxLDMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQnljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvbGl1d2V5L2phdmEvYXJ0aWNsZS9kZXRhaWxzLzUwNDYyMDk4Cg==</text>
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dChuZXcgWFlMYXlvdXQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQltaW5CdG4uc2V0Qm91bmRzKDEwMDAsIDAsIDMwLDMwKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib3JsYW5kLmpiY2wubGF5b3V0Lio7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQltaW5CdG4uc2V0Qm91bmRzKDMwMCwgMzAwLCAxMzAsIDQwKTsK</text>
+        <text encoding="base64">ICAgICAgICBmLnNldExheW91dE1hbmFnZXIobmV3IFhZTGF5b3V0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
