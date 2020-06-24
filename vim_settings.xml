@@ -137,10 +137,10 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592948855234">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592979707868">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/resources/html5-schema/html5/aria.rnc" timestamp="1592553885154">
         <mark key="'" line="785" column="0" />
@@ -268,40 +268,42 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>closeBtn</text>
+        <text>minBtn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQltaW5CdG4uc2V0Qm91bmRzKDEwMDAsIDAsIDMwLDMwKTsK</text>
+        <text encoding="base64">CQlwYW5lbC5hZGQobWluQnRuKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+      <register name="2" type="4">
+        <text>panel.add(closeBtn);
+		panel.add(minBtn);
+		panel.add(maxBtn);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQnniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMbGl1d2V544CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+        <text encoding="base64">CQlKUGFuZWwgcGFuZWwgPSBuZXcgSlBhbmVsKGxheW91dCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQnljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvbGl1d2V5L2phdmEvYXJ0aWNsZS9kZXRhaWxzLzUwNDYyMDk4Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQltaW5CdG4uc2V0Qm91bmRzKDEwMDAsIDAsIDMwLDMwKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQltaW5CdG4uc2V0Qm91bmRzKDMwMCwgMzAwLCAxMzAsIDQwKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQnniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMbGl1d2V544CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQnljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvbGl1d2V5L2phdmEvYXJ0aWNsZS9kZXRhaWxzLzUwNDYyMDk4Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aGlzLmFkZChtaW5CdG4pOwoK</text>
+        <text encoding="base64">CQltaW5CdG4uc2V0Qm91bmRzKDEwMDAsIDAsIDMwLDMwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+        <text encoding="base64">CQltaW5CdG4uc2V0Qm91bmRzKDMwMCwgMzAwLCAxMzAsIDQwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
