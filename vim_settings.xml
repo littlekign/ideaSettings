@@ -69,87 +69,78 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/util/DbUtil.java" timestamp="1593018628065">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="39" />
-      </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/WisComShowDao.java" timestamp="1593067467026" />
-      <file name="/a.dummy" timestamp="1593066616583">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java" timestamp="1593017930145">
-        <mark key="'" line="838" column="28" />
-      </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/RegServlet.java" timestamp="1593068401210">
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/ActiveDao.java" timestamp="1593076883549" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/RegServlet.java" timestamp="1593073186027">
         <mark key="'" line="42" column="4" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="58" column="29" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/login/MyFrame.java" timestamp="1592991798617">
-        <mark key="[" line="80" column="33" />
-        <mark key="]" line="80" column="34" />
-        <mark key="^" line="59" column="34" />
-        <mark key="." line="80" column="34" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593074643004">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593066830056">
-        <mark key="[" line="45" column="80" />
-        <mark key="]" line="45" column="97" />
-        <mark key="." line="45" column="96" />
-        <mark key="^" line="45" column="97" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/WisUploadDao.java" timestamp="1593070751386" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/LoginServlet.java" timestamp="1593075433648" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/WEB-INF/web.xml" timestamp="1593076514736">
+        <mark key="'" line="178" column="23" />
+        <mark key="[" line="231" column="18" />
+        <mark key="]" line="231" column="28" />
+        <mark key="." line="231" column="27" />
+        <mark key="^" line="231" column="28" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/LoginServlet.java" timestamp="1593005363096" />
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/pojo/ResetPassword.java" timestamp="1593004954634">
-        <mark key="[" line="28" column="52" />
-        <mark key="]" line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="23" />
-      </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/util/Md5Util.java" timestamp="1593004533649">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/WEB-INF/web.xml" timestamp="1593066824280">
-        <mark key="[" line="211" column="18" />
-        <mark key="]" line="211" column="31" />
-        <mark key="^" line="211" column="31" />
-        <mark key="." line="211" column="30" />
-      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/util/SendMail.java" timestamp="1593075981516" />
       <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/CheckUsername.java" timestamp="1593066773358">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/util/Md5.java" timestamp="1593004506348">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/LoginFilter.java" timestamp="1593074042030" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/LoginDao.java" timestamp="1593079035303">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="119" column="113" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/layer/layer.js" timestamp="1593019280660" />
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/LoginDao.java" timestamp="1593068407036">
-        <mark key="[" line="73" column="95" />
-        <mark key="]" line="77" column="22" />
-        <mark key="^" line="77" column="22" />
-        <mark key="." line="77" column="21" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/resetPassword.jsp" timestamp="1593076371490">
+        <mark key="'" line="63" column="18" />
+        <mark key="[" line="85" column="29" />
+        <mark key="]" line="85" column="37" />
+        <mark key="^" line="85" column="37" />
+        <mark key="." line="85" column="36" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/pojo/GgUser.java" timestamp="1593016345070" />
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/login.jsp" timestamp="1593005529058">
-        <mark key="[" line="82" column="12" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/about.jsp" timestamp="1593072389091">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="28" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1593067997429">
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/AboutDao.java" timestamp="1593074708510" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/login.jsp" timestamp="1593072979077">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="48" />
+        <mark key="^" line="57" column="48" />
+        <mark key="." line="57" column="47" />
+      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/CheckEmail.java" timestamp="1593077642671">
+        <mark key="[" line="40" column="110" />
+        <mark key="]" line="40" column="110" />
+        <mark key="." line="40" column="110" />
+        <mark key="^" line="34" column="44" />
+      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/ResetPasswrod.java" timestamp="1593073602224">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1593076535304">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/override.java" />
-      <jump line="22" column="40" filename="$USER_HOME$/Desktop/project/javaconsoleapp/src/com/example/basic/StringFun.java" />
       <jump line="27" column="40" filename="$USER_HOME$/Desktop/project/spring/src/main/cn/webapp/config/AppConfig.java" />
       <jump line="18" column="14" filename="$USER_HOME$/Desktop/project/spring/src/main/cn/webapp/config/SpringMvcDispatcherServletInitializer.java" />
       <jump line="17" column="13" filename="$USER_HOME$/Desktop/project/rawjava/src/datastructure/binarytree.java" />
@@ -248,6 +239,8 @@
       <jump line="149" column="7" filename="$USER_HOME$/Downloads/qimo/src/login/login.java" />
       <jump line="32" column="4" filename="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/RegServlet.java" />
       <jump line="838" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java" />
+      <jump line="172" column="23" filename="$USER_HOME$/Downloads/新建文件夹/WebContent/WEB-INF/web.xml" />
+      <jump line="63" column="18" filename="$USER_HOME$/Downloads/新建文件夹/WebContent/resetPassword.jsp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -256,41 +249,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">dHh0QVVuaXF1ZVN0dWRlbnQuZ2V0VGV4dCgpICsgIicsIEZpcnN0TmFtZT0nIiArIHRleHRGaWVsZF8xLmdldFRleHQoKSArICInLCBTdXJuYW1lPSciICsgdGV4dEZpZWxkXzIuZ2V0VGV4dCgpICsgIicsIERPQj0nIiArIHRleHRGaWVsZF8zLmdldFRleHQoKSArICInLCBHZW5kZXI9JyIgKyB0ZXh0RmllbGQuZ2V0VGV4dCgpICsgIicsIEFkZHJlc3NMaW5lMT0nIiArIHRleHRGaWVsZF80LmdldFRleHQoKSArICInLCBBZGRyZXNzTGluZTI9JyIgKyB0ZXh0RmllbGRfNS5nZXRUZXh0KCkgKyAiJywgUG9zdENvZGU9JyIgKyB0ZXh0RmllbGRfNi5nZXRUZXh0KCkgKyAiJywgRmF0aGVyRnVsbE5hbWU9JyIgKyB0ZXh0RmllbGRfNy5nZXRUZXh0KCkgKyAiJywgUGhvbmU9JyIgKyB0ZXh0RmllbGRfOC5nZXRUZXh0KCkgKyAiJywgTW9iaWxlPSciICsgdGV4dEZpZWxkXzkuZ2V0VGV4dCgpICsgIicsIEZheD0nIiArIHRleHRGaWVsZF8xMC5nZXRUZXh0KCkgKyAiJywgRW1haWw9JyIgKyB0ZXh0RmllbGRfMTEuZ2V0VGV4dCgpICsgIicsIEVtZXJnZW5jeUNvbnRhY3ROYW1lPSciICsgdGV4dEZpZWxkXzEyLmdldFRleHQoKSArICInLCBFbWVyZ2VuY3lUZWw9JyIgKyB0ZXh0RmllbGRfMTMuZ2V0VGV4dCgpICsgIicsIEFjYWRlbWljWWVhcj0nIiArIHRleHRGaWVsZF8xNC5nZXRUZXh0KCkgKyAiJywgU3ViamVjdHM9JyIgKyA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlnZ1VzZXIuc2V0VXNlckxldmVsKCIiKTsK</text>
+        <text encoding="base64">Ly8JCQlTdHJpbmcgc3FsPSJVUERBVEUgZ2dfdXNlciBTRVQgYHVzZXJfcGFzc3dvcmRgPSAiICsgTWQ1VXRpbC5NRDUocGFzc3dvcmQpICsgICIgV0hFUkUgYHVzZXJfZW1haWxgPSIrZW1haWw7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkrICIgRlJPTSBnZ191c2VyIHdoZXJlIHVzZXJfbmFtZT0iICsgIiciICsgdXNlck5hbWUgKyAiJyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIHNxbCA9ICJTRUxFQ1QgdXNlcl9uYW1lLHVzZXJfcGFzc3dvcmQsdXNlcl9yaWdodHMiCg==</text>
+        <text encoding="base64">CQkJIlVQREFURSBzdHVkZW50IHNldCBTdHVkZW50SUQ9JyIgKyB0eHRBVW5pcXVlU3R1ZGVudC5nZXRUZXh0KCkgKyAiJywgRmlyc3ROYW1lPSciICsgdGV4dEZpZWxkXzEuZ2V0VGV4dCgpICsgIicsIFN1cm5hbWU9JyIgKyB0ZXh0RmllbGRfMi5nZXRUZXh0KCkgKyAiJywgRE9CPSciICsgdGV4dEZpZWxkXzMuZ2V0VGV4dCgpICsgIicsIEdlbmRlcj0nIiArIHRleHRGaWVsZC5nZXRUZXh0KCkgKyAiJywgQWRkcmVzc0xpbmUxPSciICsgdGV4dEZpZWxkXzQuZ2V0VGV4dCgpICsgIicsIEFkZHJlc3NMaW5lMj0nIiArIHRleHRGaWVsZF81LmdldFRleHQoKSArICInLCBQb3N0Q29kZT0nIiArIHRleHRGaWVsZF82LmdldFRleHQoKSArICInLCBGYXRoZXJGdWxsTmFtZT0nIiArIHRleHRGaWVsZF83LmdldFRleHQoKSArICInLCBQaG9uZT0nIiArIHRleHRGaWVsZF84LmdldFRleHQoKSArICInLCBNb2JpbGU9JyIgKyB0ZXh0RmllbGRfOS5nZXRUZXh0KCkgKyAiJywgRmF4PSciICsgdGV4dEZpZWxkXzEwLmdldFRleHQoKSArICInLCBFbWFpbD0nIiArIHRleHRGaWVsZF8xMS5nZXRUZXh0KCkgKyAiJywgRW1lcmdlbmN5Q29udGFjdE5hbWU9JyIgKyB0ZXh0RmllbGRfMTIuZ2V0VGV4dCgpICsgIicsIEVtZXJnZW5jeVRlbD0nIiArIHRleHRGaWVsZF8xMy5nZXRUZXh0KCkgKyAiJywgQWNhZGVtaWNZZWFyPSciICsgdGV4dEZpZWxkXzE0LmdldFRleHQoKSArICInLCBTdWJqZWN0cz0nIiArIHRleHRGaWVsZF8xNS5nZXRUZXh0KCkgKyAiJyBXSEVSRSBzdHVkZW50SUQgPSciICsgdGV4dEZpZWxkXzE2LmdldFRleHQoKSkgKyAiJyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgUGFzc3dvcmQgPSBTdHJpbmcudmFsdWVPZigoKE1hdGgucmFuZG9tKCkqOSsxKSoxMDAwMDApKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>if (loginDao.checkUsername(username)){
-			toResponse(response,&quot;1&quot;);
-		}else{
-		    toResponse(response,&quot;2&quot;);
-		}</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJRGJVdGlsLmdldENsb3NlKGNvbm4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBSZXNldFBhc3N3cm9kcAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCVN5c3RlbS5vdXQucHJpbnRsbih1c2VybmFtZStlbWFpbCt1c2VycGFzc3dvcmQpOwovLwkJU3lzdGVtLm91dC5wcmludGxuKFNlcnZsZXRjb25mLmdldEluaXRQYXJhbWV0ZXIoInNtdHBob3N0IikpOwovLwkJaWYoc2VuZG1haWwoZW1haWwsdXNlcm5hbWUsdXNlcnBhc3N3b3JkLGVtYWlsKSkKLy8JCXsKLy8JCQltc2c9IjxzY3JpcHQ+YWxlcnQoJ+WPkemAgeaIkOWKnyEnKTwvc2NyaXB0PiIrIjxzY3JpcHQ+IHdpbmRvdy5sb2NhdGlvbi5ocmVmPSdsb2dpbi5qc3AnIDwvc2NyaXB0PiI7Ci8vCQl9Ci8vCQllbHNlCi8vCQl7Ci8vCQkJbXNnPSI8c2NyaXB0PmFsZXJ0KCflj5HpgIHlpLHotKUnKTwvc2NyaXB0PiI7Ci8vCi8vCQl9Ci8vCQl0b1Jlc3BvbnNlKHJlc3BvbnNlLG1zZyk7</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>action $Redo</text>
