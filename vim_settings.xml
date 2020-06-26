@@ -124,13 +124,18 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/Downloads/Travel system/src/main/java/cn/edu/mju/BZW/Persist/impl/MySqlDbUtil.java" timestamp="1593171435277">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="45" />
+        <mark key="^" line="14" column="46" />
+      </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/CheckEmail.java" timestamp="1593077642671">
         <mark key="[" line="40" column="110" />
         <mark key="]" line="40" column="110" />
         <mark key="." line="40" column="110" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/src/RussiaBlock/Win.java" timestamp="1593163788720" />
       <file name="/fragment.java" timestamp="1593162994701">
         <mark key="[" line="0" column="0" />
       </file>
@@ -241,10 +246,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8JCQlTdHJpbmcgc3FsPSJVUERBVEUgZ2dfdXNlciBTRVQgYHVzZXJfcGFzc3dvcmRgPSAiICsgTWQ1VXRpbC5NRDUocGFzc3dvcmQpICsgICIgV0hFUkUgYHVzZXJfZW1haWxgPSIrZW1haWw7Cg==</text>
