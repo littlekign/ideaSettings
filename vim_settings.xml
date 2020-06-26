@@ -69,20 +69,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/Win.java" timestamp="1593160365944">
-        <mark key="[" line="496" column="0" />
-        <mark key="]" line="496" column="0" />
-        <mark key="^" line="519" column="0" />
-        <mark key="." line="496" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593074643004">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/RussionBlockGame.java" timestamp="1593159318979" />
-      <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/src/RussiaBlock/Win.java" timestamp="1593161186908" />
       <file name="/Dummy.txt" timestamp="1593161373479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,7 +89,6 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/qimo/src/mainpro/RussiaBlocksGame.java" timestamp="1593161181865" />
       <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/src/RussiaBlocksGame/RussionBlockGame.java" timestamp="1593161062584">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -127,13 +112,25 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/Win.java" timestamp="1593160365944">
+        <mark key="[" line="496" column="0" />
+        <mark key="]" line="496" column="0" />
+        <mark key="^" line="519" column="0" />
+        <mark key="." line="496" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593074643004">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/CheckEmail.java" timestamp="1593077642671">
         <mark key="[" line="40" column="110" />
         <mark key="]" line="40" column="110" />
         <mark key="." line="40" column="110" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1593161489748">
+      <file name="/fragment.java" timestamp="1593162994701">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
