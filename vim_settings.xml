@@ -69,8 +69,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593161373479">
+      <file name="/Dummy.txt" timestamp="1593190229422">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Travel system/src/main/webapp/WEB-INF/web.xml" timestamp="1593190770619">
+        <mark key="[" line="4" column="93" />
+        <mark key="]" line="4" column="94" />
+        <mark key="^" line="4" column="94" />
+        <mark key="." line="4" column="94" />
       </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/WEB-INF/web.xml" timestamp="1593076514736">
         <mark key="'" line="178" column="23" />
@@ -246,40 +252,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8JCQlTdHJpbmcgc3FsPSJVUERBVEUgZ2dfdXNlciBTRVQgYHVzZXJfcGFzc3dvcmRgPSAiICsgTWQ1VXRpbC5NRDUocGFzc3dvcmQpICsgICIgV0hFUkUgYHVzZXJfZW1haWxgPSIrZW1haWw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIHdlYi1hcHAgUFVCTElDCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICItLy9TdW4gTWljcm9zeXN0ZW1zLCBJbmMuLy9EVEQgV2ViIEFwcGxpY2F0aW9uIDIuMy8vRU4iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICJodHRwOi8vamF2YS5zdW4uY29tL2R0ZC93ZWItYXBwXzJfMy5kdGQiID4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMSIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD8gPz54bWw+PC94bWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJIlVQREFURSBzdHVkZW50IHNldCBTdHVkZW50SUQ9JyIgKyB0eHRBVW5pcXVlU3R1ZGVudC5nZXRUZXh0KCkgKyAiJywgRmlyc3ROYW1lPSciICsgdGV4dEZpZWxkXzEuZ2V0VGV4dCgpICsgIicsIFN1cm5hbWU9JyIgKyB0ZXh0RmllbGRfMi5nZXRUZXh0KCkgKyAiJywgRE9CPSciICsgdGV4dEZpZWxkXzMuZ2V0VGV4dCgpICsgIicsIEdlbmRlcj0nIiArIHRleHRGaWVsZC5nZXRUZXh0KCkgKyAiJywgQWRkcmVzc0xpbmUxPSciICsgdGV4dEZpZWxkXzQuZ2V0VGV4dCgpICsgIicsIEFkZHJlc3NMaW5lMj0nIiArIHRleHRGaWVsZF81LmdldFRleHQoKSArICInLCBQb3N0Q29kZT0nIiArIHRleHRGaWVsZF82LmdldFRleHQoKSArICInLCBGYXRoZXJGdWxsTmFtZT0nIiArIHRleHRGaWVsZF83LmdldFRleHQoKSArICInLCBQaG9uZT0nIiArIHRleHRGaWVsZF84LmdldFRleHQoKSArICInLCBNb2JpbGU9JyIgKyB0ZXh0RmllbGRfOS5nZXRUZXh0KCkgKyAiJywgRmF4PSciICsgdGV4dEZpZWxkXzEwLmdldFRleHQoKSArICInLCBFbWFpbD0nIiArIHRleHRGaWVsZF8xMS5nZXRUZXh0KCkgKyAiJywgRW1lcmdlbmN5Q29udGFjdE5hbWU9JyIgKyB0ZXh0RmllbGRfMTIuZ2V0VGV4dCgpICsgIicsIEVtZXJnZW5jeVRlbD0nIiArIHRleHRGaWVsZF8xMy5nZXRUZXh0KCkgKyAiJywgQWNhZGVtaWNZZWFyPSciICsgdGV4dEZpZWxkXzE0LmdldFRleHQoKSArICInLCBTdWJqZWN0cz0nIiArIHRleHRGaWVsZF8xNS5nZXRUZXh0KCkgKyAiJyBXSEVSRSBzdHVkZW50SUQgPSciICsgdGV4dEZpZWxkXzE2LmdldFRleHQoKSkgKyAiJyIK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTdHJpbmcgUGFzc3dvcmQgPSBTdHJpbmcudmFsdWVPZigoKE1hdGgucmFuZG9tKCkqOSsxKSoxMDAwMDApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
