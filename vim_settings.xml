@@ -9,9 +9,9 @@
         <entry>action Find</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>w</entry>
-        <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
         <entry>action $Redo</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -69,22 +69,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/WisComShowDao.java" timestamp="1593067467026" />
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/ActiveDao.java" timestamp="1593076883549" />
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/RegServlet.java" timestamp="1593073186027">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593074643004">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/WisUploadDao.java" timestamp="1593070751386" />
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/LoginServlet.java" timestamp="1593075433648" />
       <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/WEB-INF/web.xml" timestamp="1593076514736">
         <mark key="'" line="178" column="23" />
         <mark key="[" line="231" column="18" />
@@ -92,13 +76,11 @@
         <mark key="." line="231" column="27" />
         <mark key="^" line="231" column="28" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/util/SendMail.java" timestamp="1593075981516" />
       <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/CheckUsername.java" timestamp="1593066773358">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/LoginFilter.java" timestamp="1593074042030" />
       <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/LoginDao.java" timestamp="1593079035303">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -112,13 +94,30 @@
         <mark key="^" line="85" column="37" />
         <mark key="." line="85" column="36" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/Win.java" timestamp="1593158560601">
+        <mark key="[" line="160" column="8" />
+        <mark key="]" line="160" column="30" />
+        <mark key="^" line="160" column="30" />
+        <mark key="." line="160" column="29" />
+      </file>
+      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/servlet/RegServlet.java" timestamp="1593073186027">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/about.jsp" timestamp="1593072389091">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="51" column="28" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/AboutDao.java" timestamp="1593074708510" />
+      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593074643004">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/login.jsp" timestamp="1593072979077">
         <mark key="[" line="57" column="31" />
         <mark key="]" line="57" column="48" />
@@ -282,7 +281,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>action $Redo</text>
+        <text>action FindNext</text>
       </register>
     </registers>
   </component>
