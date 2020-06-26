@@ -69,7 +69,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593190229422">
+      <file name="/Dummy.txt" timestamp="1593193861767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Travel system/src/main/webapp/WEB-INF/web.xml" timestamp="1593190981245">
@@ -90,10 +90,21 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/Travel system/src/main/java/cn/edu/mju/BZW/Controller/MyselfController.java" timestamp="1593198005001">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/src/RussiaBlocksGame/WIn.java" timestamp="1593161084463">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Travel system/src/main/webapp/WEB-INF/myself.jsp" timestamp="1593197498397">
+        <mark key="[" line="40" column="141" />
+        <mark key="]" line="40" column="147" />
+        <mark key="^" line="40" column="147" />
+        <mark key="." line="40" column="146" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/src/RussiaBlocksGame/RussionBlockGame.java" timestamp="1593161062584">
         <mark key="[" line="0" column="8" />
@@ -124,6 +135,7 @@
         <mark key="^" line="519" column="0" />
         <mark key="." line="496" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/Travel system/src/main/java/cn/edu/mju/BZW/Controller/LoginController.java" timestamp="1593196714473" />
       <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593074643004">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="40" />
@@ -258,40 +270,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PC9wcm9qZWN0Pgo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>project</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8JCQlTdHJpbmcgc3FsPSJVUERBVEUgZ2dfdXNlciBTRVQgYHVzZXJfcGFzc3dvcmRgPSAiICsgTWQ1VXRpbC5NRDUocGFzc3dvcmQpICsgICIgV0hFUkUgYHVzZXJfZW1haWxgPSIrZW1haWw7Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">PC9wcm9qZWN0Pgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA8dXJsPmh0dHA6Ly93d3cuZXhhbXBsZS5jb208L3VybD4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>println</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgidGV4dC9qc29uOyBjaGFyc2V0PXV0Zi04Iik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRXcml0ZXIoKS53cml0ZSgidXNlciIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">PCFET0NUWVBFIHdlYi1hcHAgUFVCTElDCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgidGV4dC9qc29uOyBjaGFyc2V0PXV0Zi04Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICItLy9TdW4gTWljcm9zeXN0ZW1zLCBJbmMuLy9EVEQgV2ViIEFwcGxpY2F0aW9uIDIuMy8vRU4iCg==</text>
+        <text encoding="base64">ICAgICAgICBQcmludFdyaXRlciBvdXQgPSByZXNwb25zZS5nZXRXcml0ZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICJodHRwOi8vamF2YS5zdW4uY29tL2R0ZC93ZWItYXBwXzJfMy5kdGQiID4K</text>
+        <text encoding="base64">ICAgICAgICBvdXQud3JpdGUoSlNPTk9iamVjdC50b0pTT04odXNlcikudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMSIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSlNPTk9iamVjdC50b0pTT04odXNlcikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
