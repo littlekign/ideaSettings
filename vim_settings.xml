@@ -140,7 +140,8 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/Hotel/pom.xml" timestamp="1593325166729">
+      <file name="$USER_HOME$/Downloads/work-space/Hotel/pom.xml" timestamp="1593325169607">
+        <mark key="'" line="20" column="19" />
         <mark key="[" line="17" column="18" />
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="19" />
@@ -175,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="40" filename="$USER_HOME$/Desktop/project/spring/src/main/cn/webapp/config/AppConfig.java" />
       <jump line="18" column="14" filename="$USER_HOME$/Desktop/project/spring/src/main/cn/webapp/config/SpringMvcDispatcherServletInitializer.java" />
       <jump line="17" column="13" filename="$USER_HOME$/Desktop/project/rawjava/src/datastructure/binarytree.java" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/project/rawjava/src/datastructure/binarytree.java" />
@@ -275,6 +275,7 @@
       <jump line="838" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java" />
       <jump line="172" column="23" filename="$USER_HOME$/Downloads/新建文件夹/WebContent/WEB-INF/web.xml" />
       <jump line="63" column="18" filename="$USER_HOME$/Downloads/新建文件夹/WebContent/resetPassword.jsp" />
+      <jump line="20" column="19" filename="$USER_HOME$/Downloads/work-space/Hotel/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
