@@ -69,7 +69,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593193861767">
+      <file name="/Dummy.txt" timestamp="1593318551010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Travel system/src/main/webapp/WEB-INF/web.xml" timestamp="1593190981245">
@@ -135,7 +135,6 @@
         <mark key="^" line="519" column="0" />
         <mark key="." line="496" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Travel system/src/main/java/cn/edu/mju/BZW/Controller/LoginController.java" timestamp="1593196714473" />
       <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593074643004">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="40" />
@@ -160,7 +159,7 @@
         <mark key="." line="40" column="110" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1593162994701">
+      <file name="/fragment.java" timestamp="1593318550951">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
