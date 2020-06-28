@@ -146,7 +146,12 @@
         <mark key="^" line="519" column="0" />
         <mark key="." line="496" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/hotel-1/src/main/resources/schema.sql" timestamp="1593325862291" />
+      <file name="$USER_HOME$/Downloads/work-space/hotel-1/src/main/resources/schema.sql" timestamp="1593326724178">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/Downloads/Travel system/src/main/java/cn/edu/mju/BZW/Persist/impl/MySqlDbUtil.java" timestamp="1593171435277">
         <mark key="[" line="14" column="36" />
         <mark key="]" line="14" column="46" />
@@ -275,10 +280,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>曌</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>曌</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgidGV4dC9qc29uOyBjaGFyc2V0PXV0Zi04Iik7Cg==</text>
