@@ -91,6 +91,12 @@
         <mark key="." line="231" column="27" />
         <mark key="^" line="231" column="28" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/Hotel/src/main/resources/application.yaml" timestamp="1593325009334">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/src/RussiaBlock/WIn.java" timestamp="1593161102872">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
@@ -117,35 +123,34 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/Hotel/src/main/java/com/example/hotel/controller/home/IndexController.java" timestamp="1593325020185">
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="17" />
+        <mark key="^" line="87" column="17" />
+        <mark key="." line="87" column="16" />
+      </file>
       <file name="$USER_HOME$/Downloads/新建文件夹/src/com/gugu/dao/LoginDao.java" timestamp="1593079035303">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
         <mark key="^" line="119" column="113" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/resetPassword.jsp" timestamp="1593076371490">
-        <mark key="'" line="63" column="18" />
-        <mark key="[" line="85" column="29" />
-        <mark key="]" line="85" column="37" />
-        <mark key="^" line="85" column="37" />
-        <mark key="." line="85" column="36" />
-      </file>
       <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/src/RussiaBlocksGame/Win.java" timestamp="1593160769623">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/Hotel/pom.xml" timestamp="1593325166729">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Downloads/work-space/java/RussionBlockGame/Win.java" timestamp="1593160365944">
         <mark key="[" line="496" column="0" />
         <mark key="]" line="496" column="0" />
         <mark key="^" line="519" column="0" />
         <mark key="." line="496" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/reg.jsp" timestamp="1593074643004">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Downloads/Travel system/src/main/java/cn/edu/mju/BZW/Persist/impl/MySqlDbUtil.java" timestamp="1593171435277">
         <mark key="[" line="14" column="36" />
@@ -274,11 +279,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>曌</text>
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text>曌</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgidGV4dC9qc29uOyBjaGFyc2V0PXV0Zi04Iik7Cg==</text>
