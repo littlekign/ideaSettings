@@ -84,13 +84,6 @@
         <mark key="^" line="87" column="1" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/新建文件夹/WebContent/WEB-INF/web.xml" timestamp="1593076514736">
-        <mark key="'" line="178" column="23" />
-        <mark key="[" line="231" column="18" />
-        <mark key="]" line="231" column="28" />
-        <mark key="." line="231" column="27" />
-        <mark key="^" line="231" column="28" />
-      </file>
       <file name="$USER_HOME$/Downloads/work-space/Hotel/src/main/resources/application.yaml" timestamp="1593325009334">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="24" />
@@ -153,6 +146,7 @@
         <mark key="^" line="519" column="0" />
         <mark key="." line="496" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/hotel-1/src/main/resources/schema.sql" timestamp="1593325862291" />
       <file name="$USER_HOME$/Downloads/Travel system/src/main/java/cn/edu/mju/BZW/Persist/impl/MySqlDbUtil.java" timestamp="1593171435277">
         <mark key="[" line="14" column="36" />
         <mark key="]" line="14" column="46" />
