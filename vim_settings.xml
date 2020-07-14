@@ -173,6 +173,12 @@
       <file name="/fragment.java" timestamp="1594527522681">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/work-space/xcx_booksystem/xcx_booksystem/server/config/jdbc.properties" timestamp="1594691316305">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="14" filename="$USER_HOME$/Desktop/project/spring/src/main/cn/webapp/config/SpringMvcDispatcherServletInitializer.java" />
@@ -279,11 +285,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>123456</text>
       </register>
       <register name="-" type="4">
-        <text>integer</text>
+        <text>123456</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQk8aW5jbHVkZT4qKi8qLnhtbDwvaW5jbHVkZT4K</text>
