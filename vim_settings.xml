@@ -69,6 +69,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/jd/cliam-java/src/main/java/com/huang/claim/entity/User.java" timestamp="1594647838633">
+        <mark key="^" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/Hotel/pom.xml" timestamp="1593325169607">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/Downloads/jd/cliam-java/src/main/resources/application.yml" timestamp="1594316114082">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/hotel-1/src/main/resources/schema.sql" timestamp="1593326724178">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/xcx_booksystem/xcx_booksystem/server/config/jdbc.properties" timestamp="1594691316305">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/Downloads/mes/mes/src/main/resources/application.yml" timestamp="1594527314671">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="33" />
@@ -103,16 +131,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/jd/cliam-java/src/main/java/com/huang/claim/entity/User.java" timestamp="1594647838633">
-        <mark key="^" line="6" column="19" />
-      </file>
       <file name="$USER_HOME$/Downloads/work-space/diancan/sqmax.sql" timestamp="1594817280248" />
-      <file name="$USER_HOME$/Downloads/Travel system/src/main/webapp/WEB-INF/myself.jsp" timestamp="1593197498397">
-        <mark key="[" line="40" column="141" />
-        <mark key="]" line="40" column="147" />
-        <mark key="^" line="40" column="147" />
-        <mark key="." line="40" column="146" />
-      </file>
       <file name="$USER_HOME$/Downloads/work-space/diancan/src/main/resources/application.yml" timestamp="1594817515686">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="24" />
@@ -124,13 +143,6 @@
         <mark key="]" line="87" column="17" />
         <mark key="^" line="87" column="17" />
         <mark key="." line="87" column="16" />
-      </file>
-      <file name="$USER_HOME$/Downloads/work-space/Hotel/pom.xml" timestamp="1593325169607">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Downloads/springboot_vue_mybatis-plus前后端分离在线考试系统/springboot/src/main/resources/application.properties" timestamp="1594305214215">
         <mark key="[" line="4" column="45" />
@@ -144,26 +156,14 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Downloads/jd/cliam-java/src/main/resources/application.yml" timestamp="1594316114082">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="31" />
-      </file>
-      <file name="$USER_HOME$/Downloads/work-space/hotel-1/src/main/resources/schema.sql" timestamp="1593326724178">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="18" />
-      </file>
       <file name="/fragment.java" timestamp="1594813915727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/work-space/xcx_booksystem/xcx_booksystem/server/config/jdbc.properties" timestamp="1594691316305">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="24" />
+      <file name="$USER_HOME$/Downloads/work-space/diancan/wechatcode/wechat/app.js" timestamp="1594821268134">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="23" />
       </file>
     </filemarks>
     <jumps>
