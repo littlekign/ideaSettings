@@ -69,36 +69,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Downloads/jd/cliam-java/src/main/java/com/huang/claim/entity/User.java" timestamp="1594828797293">
-        <mark key="^" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/Downloads/learn/ruoyi/sql/ry_20200708.sql" timestamp="1594903208193" />
-      <file name="$USER_HOME$/Downloads/learn/ruoyi/logs/ruoyi/sys-error.log" timestamp="1594903778706" />
-      <file name="$USER_HOME$/Downloads/learn/ruoyi/ruoyi-admin/src/main/resources/logback.xml" timestamp="1594903626257">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-        <mark key="^" line="3" column="48" />
-      </file>
-      <file name="$USER_HOME$/Downloads/jd/cliam-java/src/main/resources/application.yml" timestamp="1594316114082">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="31" />
-      </file>
-      <file name="$USER_HOME$/Downloads/work-space/hotel-1/src/main/resources/schema.sql" timestamp="1593326724178">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="18" />
-      </file>
-      <file name="/Volumes/centos/mavenRepository/org/springframework/boot/spring-boot/2.1.1.RELEASE/spring-boot-2.1.1.RELEASE.jar!/org/springframework/boot/logging/logback/LogbackLoggingSystem.class" timestamp="1594903595920" />
-      <file name="$USER_HOME$/Downloads/work-space/xcx_booksystem/xcx_booksystem/server/config/jdbc.properties" timestamp="1594691316305">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="24" />
-      </file>
       <file name="$USER_HOME$/Downloads/mes/mes/src/main/resources/application.yml" timestamp="1594527314671">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="33" />
@@ -114,11 +84,20 @@
       <file name="/Dummy.txt" timestamp="1594527522714">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/jd/cliam-java/src/main/java/com/huang/claim/entity/User.java" timestamp="1594828797293">
+        <mark key="^" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/Downloads/work-space/diancan/src/main/resources/application.yml" timestamp="1594817515686">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Downloads/learn/ruoyi/ruoyi-admin/src/main/resources/logback.xml" timestamp="1594903626257">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="48" />
       </file>
       <file name="$USER_HOME$/Downloads/springboot_vue_mybatis-plus前后端分离在线考试系统/springboot/src/main/resources/application.properties" timestamp="1594305214215">
         <mark key="[" line="4" column="45" />
@@ -126,11 +105,29 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="49" />
       </file>
+      <file name="$USER_HOME$/Downloads/jd/cliam-java/src/main/resources/application.yml" timestamp="1594316114082">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/Downloads/jd/claim-admin/src/main/resources/application.yml" timestamp="1594315790135">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="31" />
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/hotel-1/src/main/resources/schema.sql" timestamp="1593326724178">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/mall/src/main/resources/application.properties" timestamp="1595077360148">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="48" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="/fragment.java" timestamp="1594813915727">
         <mark key="[" line="0" column="0" />
@@ -140,6 +137,12 @@
         <mark key="]" line="12" column="24" />
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/Downloads/work-space/xcx_booksystem/xcx_booksystem/server/config/jdbc.properties" timestamp="1594691316305">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Downloads/learn/ruoyi/ruoyi-admin/src/main/resources/application-druid.yml" timestamp="1594903256663">
         <mark key="[" line="10" column="26" />
@@ -254,10 +257,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>xyz</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>xyz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQk8aW5jbHVkZT4qKi8qLnhtbDwvaW5jbHVkZT4K</text>
