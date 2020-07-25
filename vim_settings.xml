@@ -123,6 +123,12 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/learn/ssmTodolist/src/main/resources/jdbc.properties" timestamp="1595659341955">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/Downloads/mall/src/main/resources/application.properties" timestamp="1595077360148">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="18" column="49" />
@@ -257,10 +263,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>xyz</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>xyz</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQk8aW5jbHVkZT4qKi8qLnhtbDwvaW5jbHVkZT4K</text>
