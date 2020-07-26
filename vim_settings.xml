@@ -74,11 +74,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/java/com/licyun/controller/UserController.java" timestamp="1595740628582">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="163" column="40" />
+      <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/java/com/licyun/controller/UserController.java" timestamp="1595741647060">
+        <mark key="[" line="312" column="84" />
+        <mark key="]" line="312" column="85" />
+        <mark key="." line="312" column="84" />
+        <mark key="^" line="312" column="85" />
       </file>
       <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/java/com/licyun/dao/imp/MessageDaoImp.java" timestamp="1595738843210">
         <mark key="[" line="12" column="0" />
@@ -160,7 +160,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1595739693374">
+      <file name="/fragment.java" timestamp="1595741149264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/java/com/licyun/model/Message.java" timestamp="1595738833154">
@@ -274,14 +274,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1pZCB2YWx1ZSBpcyAiICsgbWlkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>；</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;/&quot;;</text>
+        <text>；</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQk8aW5jbHVkZT4qKi8qLnhtbDwvaW5jbHVkZT4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocm9vdFBhdGgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1pZCB2YWx1ZSBpcyAiICsgbWlkKTsK</text>
