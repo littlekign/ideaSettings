@@ -254,11 +254,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhhLnZhbHVlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>icyun</text>
       </register>
       <register name="-" type="4">
-        <text>.value = &quot;&quot;</text>
+        <text>icyun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgidGV4dGFyZWEiKVswXS52YWx1ZSA9ICIiCg==</text>
