@@ -81,11 +81,11 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/java/src/com/example02/clazz/Bicyle.java" timestamp="1609172749104">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="23" />
+      <file name="$USER_HOME$/Desktop/java/src/com/example02/clazz/Bicyle.java" timestamp="1609173166527">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="25" />
       </file>
       <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/webapp/WEB-INF/pages/index.jsp" timestamp="1595758805942">
         <mark key="e" line="27" column="21" />
@@ -99,11 +99,6 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/java/com/licyun/interceptor/AdminInterceptor.java" timestamp="1595738904579">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/java/src/com/learning/java/Main.java" timestamp="1609165770758">
         <mark key="[" line="5" column="27" />
@@ -142,6 +137,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/java/src/com/example02/clazz/ClassTest.java" timestamp="1609173363241">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="42" />
+      </file>
       <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/webapp/WEB-INF/static/tinymce.min.js" timestamp="1595752662852">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -155,7 +156,7 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1609172160328">
+      <file name="/fragment.java" timestamp="1609173335862">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -264,53 +265,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>newValue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmxvYXQgd2lkdGg7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgY2hhbmdlR2VhcihpbnQgbmV3VmFsdWUpIHsKICAgICAgICBnZWFyID0gbmV3VmFsdWU7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>/**
- * 〈〉
- *
- * @author lk
- * @create 12/29/20
- * @since 1.0.0
- */</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>/**
- * FileName: User
- * Author:   anonymous
- * Date:     12/29/20 12:19 AM
- * Description:
- * History:
- */</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5CYXNlNjQ7Cg==</text>
+      <register name="3" type="4">
+        <text>oid createTable()
+    {
+
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5SYW5kb207Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByLmludHMoKTsK</text>
+        <text encoding="base64">ICogSGlzdG9yeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSYW5kb20gciA9IG5ldyBSYW5kb20oKTsK</text>
+        <text encoding="base64">ICogRGVzY3JpcHRpb246Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSYQo=</text>
+        <text encoding="base64">ICogRGF0ZTogICAgIDEyLzI5LzIwIDEyOjMzIEFNCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4K</text>
+        <text encoding="base64">ICogQXV0aG9yOiAgIGFub255bW91cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAgCg==</text>
+        <text encoding="base64">ICogRmlsZU5hbWU6IENsYXNzVGVzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
