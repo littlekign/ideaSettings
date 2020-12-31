@@ -118,6 +118,19 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/java/src/com/misc/Person.java" timestamp="1609423962242">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/java/src/com/misc/demoClass.java" timestamp="1609424083121">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="41" />
+      </file>
       <file name="/Class.txt.ft" timestamp="1609330914584">
         <mark key="[" line="6" column="23" />
       </file>
@@ -161,13 +174,11 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1609334056033">
+      <file name="/fragment.java" timestamp="1609423866857">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/project/springboot/chapter02/src/main/java/gzsc/webapp/controller/HelloController.java" />
-      <jump line="8" column="3" filename="$USER_HOME$/Desktop/project/springboot/chapter02/src/main/java/gzsc/webapp/repositories/AuthorRespostory.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Desktop/project/springboot/chapter02/src/main/java/gzsc/webapp/repositories/AuthorRespostory.java" />
       <jump line="16" column="45" filename="$USER_HOME$/Desktop/project/springbootInjection/src/main/java/com/example/demo/DemoApplication.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/project/springbootInjection/src/main/java/com/example/demo/DemoApplication.java" />
@@ -266,45 +277,47 @@
       <jump line="22" column="72" filename="$USER_HOME$/Desktop/java/src/com/example02/clazz/Table.java" />
       <jump line="38" column="14" filename="$USER_HOME$/Desktop/java/src/com/example03/arraydemo.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/java/src/com/example03/arraydemo.java" />
+      <jump line="21" column="28" filename="$USER_HOME$/Desktop/java/src/com/misc/Person.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Desktop/java/src/com/misc/Person.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>abc</text>
+        <text>.getCanonicalName());</text>
       </register>
       <register name="-" type="4">
-        <text>abc</text>
+        <text>.getCanonicalName());</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzMj0geyJhYmMifTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5nZXRDbGFzcygpLmdldENhbm9uaWNhbE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1ZiAK</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0KICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
+        <text encoding="base64">ICAgIHB1ZiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgIH0KICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCB2YWwgPSAweDIyMjI7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG1wLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgIHN0YXRpYyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCB2YWwgPSAweDIyMjI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
