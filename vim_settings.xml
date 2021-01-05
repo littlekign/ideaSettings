@@ -69,17 +69,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/test/src/main/java/com/example/services/EmailService.java" timestamp="1609860638814">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="11" column="69" />
+        <mark key="." line="11" column="68" />
+        <mark key="^" line="11" column="69" />
+      </file>
       <file name="$USER_HOME$/Desktop/java/src/com/example02/clazz/Student.java" timestamp="1609172659479">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="15" />
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="14" />
-      </file>
-      <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/java/com/licyun/controller/UserController.java" timestamp="1595745472309">
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
-        <mark key="^" line="323" column="75" />
       </file>
       <file name="$USER_HOME$/Desktop/java/src/com/example02/clazz/Staff.java" timestamp="1609172699304">
         <mark key="[" line="17" column="0" />
@@ -173,6 +173,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/src/test/java/com/example/demo/DemoApplicationTests.java" timestamp="1609860802870">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1609423866857">
         <mark key="[" line="0" column="0" />
@@ -283,41 +289,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.getCanonicalName());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZW5kRW1haWwK</text>
       </register>
       <register name="-" type="4">
-        <text>.getCanonicalName());</text>
+        <text>sendEmail sendEmail;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5nZXRDbGFzcygpLmdldENhbm9uaWNhbE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kRW1haWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">CiAgICBACg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgIG1ldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1ZiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgIHB1ZiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCB2YWwgPSAweDIyMjI7Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
