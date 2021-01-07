@@ -12,6 +12,7 @@
         <entry>action FindNext</entry>
         <entry>action Find</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,10 +114,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/webapp/WEB-INF/pages/user/edit.jsp" timestamp="1595749455269">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/RecusionTest.java" timestamp="1610023002915">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/java/src/com/misc/Person.java" timestamp="1609423962242">
         <mark key="'" line="47" column="0" />
@@ -152,11 +154,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/Downloads/learn/springMVCgbook/src/main/webapp/WEB-INF/static/tinymce.min.js" timestamp="1595752662852">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/test.java" timestamp="1610023264874">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/java/src/com/example02/clazz/Table.java" timestamp="1609172598298">
         <mark key="'" line="22" column="72" />
@@ -289,44 +291,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVjdXNpb24oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text encoding="base64">IHJldHVybiBmYWxzZTs=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5nZXRDbGFzcygpLmdldENhbm9uaWNhbE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kRW1haWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjdXNpb24oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBACg==</text>
+        <text encoding="base64">ICAgICAgICBuICsgPSBSZWN1c2lvbihuLTEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1ldAo=</text>
+        <text encoding="base64">ICAgIG1haW4gICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kRW1haWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">CiAgICBACg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgIG1ldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1ZiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICAgIFhNTEVycm9yUmVzb3VyY2VzX3RyCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
   </component>
