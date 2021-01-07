@@ -154,11 +154,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/test.java" timestamp="1610023264874">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="18" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/test.java" timestamp="1610024377466">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/java/src/com/example02/clazz/Table.java" timestamp="1609172598298">
         <mark key="'" line="22" column="72" />
@@ -182,7 +182,7 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1609423866857">
+      <file name="/fragment.java" timestamp="1610023421642">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -292,40 +292,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjdXNpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJldHVybiBmYWxzZTs=</text>
+        <text>else{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5nZXRDbGFzcygpLmdldENhbm9uaWNhbE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjdXNpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuICsgPSBSZWN1c2lvbihuLTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJ0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1haW4gICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJ0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kRW1haWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG4rcihuLTEpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBACg==</text>
+        <text encoding="base64">ICAgICAgICB2cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1ldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjdXNpb24oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuICsgPSBSZWN1c2lvbihuLTEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">ICAgIG1haW4gICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kRW1haWwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
