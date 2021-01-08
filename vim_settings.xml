@@ -141,11 +141,11 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/Main.java" timestamp="1610113321651">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="36" />
+      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/Main.java" timestamp="1610113331206">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/java/src/com/example03/arraydemo.java" timestamp="1609334312526">
         <mark key="'" line="0" column="0" />
@@ -291,10 +291,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmkucmVhZFRocmVhZCgpKTsK</text>
