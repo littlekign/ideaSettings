@@ -76,11 +76,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/NullPointerException.java" timestamp="1610813316852">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="15" column="29" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/NullPointerException.java" timestamp="1610814011417">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="40" />
+        <mark key="^" line="17" column="40" />
+        <mark key="." line="17" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/Scanner.java" timestamp="1610632865460">
         <mark key="[" line="4" column="20" />
@@ -290,25 +290,25 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oci50c3QuYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odC5iKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oci50c3QuYik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oci50c3QuYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odC5iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0gKGludCkxMjMxMjIzMTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oci50c3QuYik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB0ID0gKGludCkxMjMxMjIzMTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -317,13 +317,13 @@
         <text encoding="base64">ICAgICAgICB0ID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oci50c3QuYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0IHQgPSBuZXcgVGVzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ID0gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByLnRzdCA9IHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oci50c3QuYik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoClass</text>
