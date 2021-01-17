@@ -8,11 +8,11 @@
       <history-cmd>
         <entry>action QuickJavaDoc</entry>
         <entry>w</entry>
-        <entry>action $Redo</entry>
         <entry>action FindNext</entry>
         <entry>action Find</entry>
         <entry>action GotoClass</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action $Redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -76,10 +76,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/NullPointerException.java" timestamp="1610875644188">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/NullPointerException.java" timestamp="1610894798063">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/Scanner.java" timestamp="1610632865460">
         <mark key="[" line="4" column="20" />
@@ -288,44 +289,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5lcXVhbHMoeCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>void</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYiA9PSB4KTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZChUZXN0IHQpIHsKICAgICAgICB0LmIgPSAyMDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5lcXVhbHMoeCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBCYWRDZXJ0aWZpY2F0ZURpYWxvZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odDMuYik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odDIuYik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odDEuZXF1YWxzKHQyKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odDEgPT0gdDIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odC5iKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKCiAgICA=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBhZGQoaW50IGkpIHsKICAgICAgICBpKys7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhZGQtLS0tIisgaSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUZXN0IHQgPSBuZXcgVGVzdCgpOwogICAgICAgIHQuYiA9IDEwOwogICAgICAgIFJlZiByID0gbmV3IFJlZigpOwogICAgICAgIHIudHN0ID0gdDsKICAgICAgICB0ID0gbnVsbDsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyLnRzdC5iKTsKICAgICAgICBpbnQgaSA9IDEwOwovLyAgICAgICAgYWRkKGkpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJtYWluLS0tLSIrIGkpOwogICAgICAgIFRlc3QgdDEgPSBuZXcgVGVzdCgpOwogICAgICAgIFRlc3QgdDMgPSBuZXcgVGVzdCgpOwogICAgICAgIFRlc3QgdDIgPSB0MTsKICAgICAgICB0MS5iID0gMTsKCiAgICAgICAgaW50IHggPSAxOwogICAgICAgIGludCBiID0geDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYiA9PSB4KTs=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5lcXVhbHMoeCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odDMuYik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oci50c3QuYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odDIuYik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0gKGludCkxMjMxMjIzMTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odDEuZXF1YWxzKHQyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action $Redo</text>
       </register>
     </registers>
   </component>
