@@ -13,6 +13,7 @@
         <entry>action GotoClass</entry>
         <entry>action AceJumpAction</entry>
         <entry>action $Redo</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -65,6 +66,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -76,7 +80,61 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/NullPointerException.java" timestamp="1610895865280">
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Master.java" timestamp="1610976232657">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Pet.java" timestamp="1610976517291">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/RecusionTest.java" timestamp="1610023002915">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Cat.java" timestamp="1610975979787">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/java/src/com/misc/demoClass.java" timestamp="1609426354610">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Dog.java" timestamp="1610975996704">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" timestamp="1610976445921">
+        <mark key="[" line="17" column="77" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/test.java" timestamp="1610024829405">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/user.java" timestamp="1610110354486">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/NullPointerException.java" timestamp="1610974986794">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="63" />
         <mark key="." line="18" column="63" />
@@ -106,67 +164,17 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/java/src/com/example03/arraydemo.java" timestamp="1609334312526">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="34" />
-        <mark key="]" line="67" column="35" />
-        <mark key="." line="67" column="35" />
-        <mark key="^" line="64" column="16" />
-      </file>
       <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/ClassTest.java" timestamp="1610110533579">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="16" column="45" />
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/RecusionTest.java" timestamp="1610023002915">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/Desktop/java/src/com/misc/Person.java" timestamp="1609423962242">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="16" column="4" />
-        <mark key="^" line="16" column="5" />
-      </file>
-      <file name="$USER_HOME$/Desktop/java/src/com/misc/demoClass.java" timestamp="1609426354610">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="40" />
-        <mark key="^" line="21" column="41" />
-      </file>
-      <file name="/Class.txt.ft" timestamp="1609330914584">
-        <mark key="[" line="6" column="23" />
-      </file>
       <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/visiblable.java" timestamp="1610112677329">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="12" />
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/test.java" timestamp="1610024829405">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="35" />
-      </file>
-      <file name="$USER_HOME$/Desktop/java/src/com/example02/clazz/ClassTest.java" timestamp="1609173418082">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/user.java" timestamp="1610110354486">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="20" column="24" />
-        <mark key="." line="15" column="35" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1609333878740">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/ScannerTest.java" timestamp="1610723332279">
         <mark key="[" line="13" column="34" />
@@ -180,7 +188,7 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1610634002820">
+      <file name="/fragment.java" timestamp="1610975441489">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -289,44 +297,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>----------------------&quot;);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDYXQgYzEgPSAoQ2F0KSBuZXcgUGV0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>----------------------&quot;);</text>
+        <text>-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGVhdCgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRvZyBlYXQgbWVhdCIpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gImFiYyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYXQgYzEgPSAoQ2F0KSBuZXcgUGV0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIucmVwCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5lYXQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oID09IG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdG91ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCYWRDZXJ0aWZpY2F0ZURpYWxvZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcC5lYXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">Ly8gICAgICAgIG0uZmVlZChkKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKCiAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDYXQgYzEgPSAoQ2F0KShuZXcgUGV0KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBhZGQoaW50IGkpIHsKICAgICAgICBpKys7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhZGQtLS0tIisgaSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5lYXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0IHQgPSBuZXcgVGVzdCgpOwogICAgICAgIHQuYiA9IDEwOwogICAgICAgIFJlZiByID0gbmV3IFJlZigpOwogICAgICAgIHIudHN0ID0gdDsKICAgICAgICB0ID0gbnVsbDsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyLnRzdC5iKTsKICAgICAgICBpbnQgaSA9IDEwOwovLyAgICAgICAgYWRkKGkpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJtYWluLS0tLSIrIGkpOwogICAgICAgIFRlc3QgdDEgPSBuZXcgVGVzdCgpOwogICAgICAgIFRlc3QgdDMgPSBuZXcgVGVzdCgpOwogICAgICAgIFRlc3QgdDIgPSB0MTsKICAgICAgICB0MS5iID0gMTsKCiAgICAgICAgaW50IHggPSAxOwogICAgICAgIGludCBiID0geDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYiA9PSB4KTs=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5lYXQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5lcXVhbHMoeCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0LmVhdCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $Redo</text>
+        <text>vsplit</text>
       </register>
     </registers>
   </component>
