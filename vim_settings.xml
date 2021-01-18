@@ -13,7 +13,9 @@
         <entry>action GotoClass</entry>
         <entry>action AceJumpAction</entry>
         <entry>action $Redo</entry>
+        <entry>v</entry>
         <entry>vsplit</entry>
+        <entry>action FindPrevious</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -80,13 +82,13 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Master.java" timestamp="1610976232657">
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Master.java" timestamp="1610978861135">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Pet.java" timestamp="1610976517291">
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Pet.java" timestamp="1610978430505">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="40" />
@@ -110,17 +112,17 @@
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Dog.java" timestamp="1610975996704">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="16" column="39" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Dog.java" timestamp="1610977526845">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" timestamp="1610976445921">
-        <mark key="[" line="17" column="77" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" timestamp="1610978954847">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/test.java" timestamp="1610024829405">
         <mark key="[" line="22" column="18" />
@@ -193,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/project/springbootInjection/src/main/java/com/example/demo/controller/PropertyInjectedController.java" />
       <jump line="27" column="15" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/model/Todo.java" />
       <jump line="28" column="26" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/model/Todo.java" />
       <jump line="69" column="17" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/model/Todo.java" />
@@ -293,48 +294,51 @@
       <jump line="13" column="22" filename="$USER_HOME$/Desktop/rawjava_complier/variable.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/rawjava_complier/variable.java" />
       <jump line="29" column="17" filename="$USER_HOME$/Desktop/rawjava_complier/variable.java" />
+      <jump line="22" column="7" filename="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDYXQgYzEgPSAoQ2F0KSBuZXcgUGV0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGVhdCgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRvZyBlYXQgbWVhdCIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2F0IGMgPSAoQ2F0KXA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDYXQgYzEgPSAoQ2F0KSBuZXcgUGV0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5lYXQoKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdG91ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcC5lYXQoKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcC5lYXQoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG0uZmVlZChkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDYXQgYzEgPSAoQ2F0KShuZXcgUGV0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5lYXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBQZXQgcCA9IG5ldyBQZXQoKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5lYXQoKTsK</text>
+      <register name="8" type="4">
+        <text>Dog d1 = new Dog();
+        if (d1 instanceof Pet ){
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0LmVhdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRG9nIGQyID0gKERvZylwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>action FindPrevious</text>
       </register>
     </registers>
   </component>
