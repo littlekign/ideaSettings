@@ -76,53 +76,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/test/src/main/java/com/example/services/EmailService.java" timestamp="1609861047228">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/NullPointerException.java" timestamp="1610974986794">
-        <mark key="[" line="18" column="62" />
-        <mark key="]" line="18" column="63" />
-        <mark key="." line="18" column="63" />
-        <mark key="^" line="17" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/Scanner.java" timestamp="1610632865460">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/variable.java" timestamp="1610724640938">
-        <mark key="'" line="31" column="17" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Master.java" timestamp="1610978861135">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/Address.java" timestamp="1610110276265">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="21" column="28" />
-      </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/Main.java" timestamp="1610113331206">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="34" />
-      </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/ClassTest.java" timestamp="1610110533579">
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Pet.java" timestamp="1610978430505">
         <mark key="[" line="14" column="40" />
@@ -130,23 +88,17 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/RecusionTest.java" timestamp="1610023002915">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="35" />
-      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Cat.java" timestamp="1610975979787">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="19" column="40" />
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/java/src/com/misc/demoClass.java" timestamp="1609426354610">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="40" />
-        <mark key="^" line="21" column="41" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/Room.java" timestamp="1611236415138">
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="48" column="18" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="48" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Dog.java" timestamp="1610977526845">
         <mark key="[" line="24" column="24" />
@@ -161,23 +113,71 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="68" />
       </file>
+      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/user.java" timestamp="1610110354486">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/arraydemo/Stacksimulate.java" timestamp="1611239915504">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/NullPointerException.java" timestamp="1610974986794">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+        <mark key="^" line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/Scanner.java" timestamp="1610632865460">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1611237233495">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/variable.java" timestamp="1610724640938">
+        <mark key="'" line="31" column="17" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/Main.java" timestamp="1610113331206">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/ClassTest.java" timestamp="1610110533579">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="44" />
+        <mark key="^" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/arraydemo/ArrayDemo.java" timestamp="1611236113092">
+        <mark key="'" line="13" column="38" />
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="51" />
+      </file>
       <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/visiblable.java" timestamp="1610112677329">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="12" />
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/test.java" timestamp="1610024829405">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="35" />
-      </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/user.java" timestamp="1610110354486">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="20" column="24" />
-        <mark key="." line="15" column="35" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" timestamp="1611239082922">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="61" column="47" />
+        <mark key="." line="61" column="46" />
+        <mark key="^" line="61" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/ScannerTest.java" timestamp="1610723332279">
         <mark key="[" line="13" column="34" />
@@ -185,25 +185,11 @@
         <mark key="." line="13" column="51" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/test/src/test/java/com/example/demo/DemoApplicationTests.java" timestamp="1609861010554">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="13" />
-      </file>
-      <file name="/fragment.java" timestamp="1611142581417">
+      <file name="/fragment.java" timestamp="1611238937708">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="20" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/controller/todolsController.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/live/todoapp/src/main/java/com/todoapp/controller/todolsController.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/Desktop/live/todoapp/src/main/resources/templates/index.html" />
-      <jump line="24" column="11" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ColonyReader.java" />
-      <jump line="54" column="61" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ProjectRunner.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/ColonyReader.java" />
-      <jump line="147" column="22" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ColonyReader.java" />
-      <jump line="151" column="13" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ColonyReader.java" />
       <jump line="167" column="0" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/ColonyReader.java" />
       <jump line="215" column="32" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
       <jump line="147" column="6" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
@@ -296,45 +282,53 @@
       <jump line="53" column="4" filename="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" />
       <jump line="43" column="43" filename="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" />
       <jump line="92" column="9" filename="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" />
+      <jump line="13" column="38" filename="$USER_HOME$/Desktop/rawjava_complier/arraydemo/ArrayDemo.java" />
+      <jump line="12" column="30" filename="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" />
+      <jump line="14" column="28" filename="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" />
+      <jump line="38" column="18" filename="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" />
+      <jump line="29" column="7" filename="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" />
+      <jump line="51" column="17" filename="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" />
+      <jump line="47" column="4" filename="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Desktop/rawjava_complier/arraydemo/Stacksimulate.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAxLnJld3JpdGUgZXF1YWxzIGFuZCBzaG91bGQgbXVzdCByZXdyaXRlIGFsbCB0aGUgY2xhc3Mgc3RydWN0cnVlZGQK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>equals</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyIHUxID0gbmV3IHVzZXIoImxpc2kiLG5ldyBBZGRyZXNzKCJodWJlaSIsImhhbmppYW5nIiwiNDQxMDAwIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAxLnJld3JpdGUgZXF1YWxzIGFuZCBzaG91bGQgbXVzdCByZXdyaXRlIGFsbCB0aGUgY2xhc3Mgc3RydWN0cnVlZGQK</text>
+        <text encoding="base64">ICAgICAgICBuZXcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyIHUyID0gbmV3IHVzZXIoImxpc2kiLGEpOwo=</text>
+        <text encoding="base64">ICAgICAgIFN0YWNrICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5uYW1lID09IG8ubmFtZSB8fCApCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PD4oKSAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgU3RhY2t7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhID0ge307Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGFkZHIsIHVzZXIuYWRkcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMobmFtZSwgdXNlci5uYW1lKSAmJgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyIHVzZXIgPSAodXNlcikgbzsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4K</text>
       </register>
       <register name=":" type="4">
         <text>action FindPrevious</text>
