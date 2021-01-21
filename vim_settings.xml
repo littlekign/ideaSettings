@@ -158,12 +158,11 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/arraydemo/ArrayDemo.java" timestamp="1611236113092">
-        <mark key="'" line="13" column="38" />
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="51" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="51" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/arraydemo/ArrayDemo.java" timestamp="1611246331956">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/visiblable.java" timestamp="1610112677329">
         <mark key="[" line="11" column="4" />
@@ -294,40 +293,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaTwgMztpKyspewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBzID0gWzEsMiwzXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhWzBdW2pdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFbaV0pOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBpbnRbXSBzdGF0Y2sgPSB7MX07CiAgICAgICAgaW50IGEgPSBTdGFja3NpbXVsYXRlLmxlbmd0aChzdGF0Y2spOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsKCiAgICB9CiAgICBwdWJsaWMgc3RhdGljIGludCBsZW5ndGgoaW50W10gc3RhdGNrKSB7CiAgICAgICAgcmV0dXJuIHN0YXRjay5sZW5ndGg7CiAgICB9Cn0KCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCAxMDsgaisrKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIFN0YWNrICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PD4oKSAgICAgICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgU3RhY2t7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindPrevious</text>
