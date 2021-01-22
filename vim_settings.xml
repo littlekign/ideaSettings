@@ -148,6 +148,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="19" column="7" />
       </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/algorithm/BubbleSort.java" timestamp="1611321538511">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="28" />
+      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Dog.java" timestamp="1610977526845">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="25" column="45" />
@@ -173,12 +179,6 @@
         <mark key="]" line="61" column="47" />
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/user.java" timestamp="1610110354486">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="20" column="24" />
-        <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/arraydemo/Stacksimulate.java" timestamp="1611244348106">
         <mark key="[" line="22" column="38" />
@@ -302,10 +302,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaTwgMztpKyspewo=</text>
