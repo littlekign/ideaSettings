@@ -148,11 +148,11 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/algorithm/BubbleSort.java" timestamp="1611321538511">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="28" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/algorithm/BubbleSort.java" timestamp="1611407281200">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Dog.java" timestamp="1610977526845">
         <mark key="[" line="24" column="24" />
@@ -301,45 +301,45 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lc1sxXSA9ICJjYXQiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>absdafasc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaTwgMztpKyspewo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lc1sxXSA9ICJjYXQiOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lc1sxXSA9ICJjYXQiOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZXNbMV0pOyAvLyBz5pivIlhZWiLov5jmmK8iY2F0Ij8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzPSJzYWRmc2EiOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lc1sxXSA9ICJzYWRmYSI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzPSIxMjMxMjMiOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG5hbWVzWzFdID0gImNhdCI7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gICJyb29tTm86IiArIHRoaXMucm9vbU5vICsgIiByb29tVHlwZToiCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>&quot;Room{&quot; +
                 &quot;roomNo='&quot; + roomNo + '\'' +
                 &quot;, roomType='&quot; + roomType + '\'' +
                 &quot;, roomStatus=&quot; + roomStatus +
                 '}';</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJvb21zWzBdLmxlbmd0aCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocm9vbXMubGVuZ3RoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyb29tc1swXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
