@@ -10,12 +10,12 @@
         <entry>w</entry>
         <entry>action Find</entry>
         <entry>action GotoClass</entry>
-        <entry>action AceJumpAction</entry>
         <entry>action $Redo</entry>
         <entry>v</entry>
         <entry>vsplit</entry>
         <entry>action FindPrevious</entry>
         <entry>action FindNext</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -98,6 +98,13 @@
         <mark key="." line="19" column="47" />
         <mark key="^" line="19" column="48" />
       </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" timestamp="1611932036974">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="35" />
+        <mark key="^" line="31" column="36" />
+      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/variable.java" timestamp="1610724640938">
         <mark key="'" line="31" column="17" />
         <mark key="[" line="27" column="0" />
@@ -115,12 +122,6 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="34" />
-      </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/ClassTest.java" timestamp="1610110533579">
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Pet.java" timestamp="1610978430505">
         <mark key="[" line="14" column="40" />
@@ -160,18 +161,13 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1611930700294" />
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" timestamp="1611143664767">
         <mark key="'" line="92" column="9" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="68" />
-      </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/visiblable.java" timestamp="1610112677329">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="12" />
-        <mark key="^" line="11" column="12" />
-        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" timestamp="1611239082922">
         <mark key="'" line="47" column="4" />
@@ -197,9 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="32" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
-      <jump line="147" column="6" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
-      <jump line="182" column="31" filename="$USER_HOME$/Desktop/project/JAVA_Projects/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
       <jump line="137" column="44" filename="$USER_HOME$/Desktop/SpaceColonies/src/spacecolonies/SpaceWindow.java" />
       <jump line="33" column="19" filename="$USER_HOME$/Desktop/project/webapp/pom.xml" />
       <jump line="21" column="13" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/config/Appconfig.java" />
@@ -297,49 +290,48 @@
       <jump line="47" column="4" filename="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Desktop/rawjava_complier/arraydemo/Stacksimulate.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/Room.java" />
+      <jump line="32" column="20" filename="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" />
+      <jump line="30" column="40" filename="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lc1sxXSA9ICJjYXQiOwo=</text>
+        <text encoding="base64">ICAgICAgICBsdC5uZXh0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>absdafasc</text>
+        <text>li</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaTwgMztpKyspewo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgiZHNhZnNhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lc1sxXSA9ICJjYXQiOwo=</text>
+        <text encoding="base64">ICAgICAgICBsdC5uZXh0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lc1sxXSA9ICJjYXQiOwo=</text>
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvciBpdCA9IG5ldyBJdGVyYXRvcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZXNbMV0pOyAvLyBz5pivIlhZWiLov5jmmK8iY2F0Ij8K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzPSJzYWRmc2EiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEludGVnZXIudmFsdWVPZigoSW50ZWdlcikgaSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lc1sxXSA9ICJzYWRmYSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBpIDogYSl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzPSIxMjMxMjMiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdC50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG5hbWVzWzFdID0gImNhdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IDE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gICJyb29tTm86IiArIHRoaXMucm9vbU5vICsgIiByb29tVHlwZToiCg==</text>
+        <text encoding="base64">ICAgICAgICBhLmludFZhbHVlKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;Room{&quot; +
-                &quot;roomNo='&quot; + roomNo + '\'' +
-                &quot;, roomType='&quot; + roomType + '\'' +
-                &quot;, roomStatus=&quot; + roomStatus +
-                '}';</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
