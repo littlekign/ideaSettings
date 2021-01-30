@@ -117,12 +117,6 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/classjava/src/com/baisc/java/Main.java" timestamp="1610113331206">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="34" />
-      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Pet.java" timestamp="1610978430505">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="43" />
@@ -191,6 +185,7 @@
       <file name="/fragment.java" timestamp="1611238937708">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/centos/codes/Compressed/SSM/src/main/java/com/liu/example/pojo/Customer.java" timestamp="1611936296591" />
     </filemarks>
     <jumps>
       <jump line="21" column="13" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/config/Appconfig.java" />
