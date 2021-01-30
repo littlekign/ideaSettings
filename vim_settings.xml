@@ -100,12 +100,6 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/variable.java" timestamp="1610724640938">
-        <mark key="'" line="31" column="17" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Master.java" timestamp="1610978861135">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="14" column="20" />
@@ -158,6 +152,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="68" />
       </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/algorithm/singleList/Node.java" timestamp="1611985503907">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" timestamp="1611239082922">
         <mark key="'" line="47" column="4" />
         <mark key="[" line="60" column="50" />
@@ -171,14 +171,14 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/ScannerTest.java" timestamp="1610723332279">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="52" />
-        <mark key="." line="13" column="51" />
-        <mark key="^" line="13" column="52" />
-      </file>
       <file name="/fragment.java" timestamp="1611975219729">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/algorithm/singleList/SingleList.java" timestamp="1611985528338">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -286,8 +286,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -296,37 +296,31 @@
         <text encoding="base64">ICAgICAgICBTdHVkZW50IGxrID0gbmV3IFN0dWRlbnQoImxrIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3Qgb2JqMSA9IG9iajsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZXF1YWxzKG9iaik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZChuZXcgU3R1ZGVudCgpKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e
-    public boolean equals(Object obj) {
-        if (null == obj || !(obj instanceof Integer)){ return }
-        if (this == obj){return true}
-        Object obj1 = obj;
-        if (this.name = obj1.name){return true}
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGludCBkYXRhOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3Qgb2JqMSA9IG9iajsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZXF1YWxzKG9iaik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoSW50ZWdlcikgb2JqMQo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmFkZChuZXcgU3R1ZGVudCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
