@@ -16,6 +16,7 @@
         <entry>action FindPrevious</entry>
         <entry>action FindNext</entry>
         <entry>action AceJumpAction</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -82,12 +83,6 @@
         <mark key="." line="18" column="63" />
         <mark key="^" line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/Scanner.java" timestamp="1610632865460">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="24" />
-      </file>
       <file name="/Dummy.txt" timestamp="1611237233495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,12 +93,12 @@
         <mark key="." line="19" column="47" />
         <mark key="^" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" timestamp="1611935853478">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="74" column="15" />
-        <mark key="]" line="74" column="20" />
-        <mark key="." line="74" column="19" />
-        <mark key="^" line="74" column="20" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" timestamp="1611975301168">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/variable.java" timestamp="1610724640938">
         <mark key="'" line="31" column="17" />
@@ -149,13 +144,13 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1611974987904" />
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Dog.java" timestamp="1610977526845">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="25" column="45" />
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1611930700294" />
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" timestamp="1611935863859">
         <mark key="'" line="92" column="9" />
         <mark key="[" line="13" column="0" />
@@ -182,10 +177,9 @@
         <mark key="." line="13" column="51" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1611238937708">
+      <file name="/fragment.java" timestamp="1611975219729">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/centos/codes/Compressed/SSM/src/main/java/com/liu/example/pojo/Customer.java" timestamp="1611936296591" />
     </filemarks>
     <jumps>
       <jump line="21" column="13" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/config/Appconfig.java" />
@@ -293,10 +287,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHVkZW50IGxrID0gbmV3IFN0dWRlbnQoImxrIik7Cg==</text>
@@ -335,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAoSW50ZWdlcikgb2JqMQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindNext</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
