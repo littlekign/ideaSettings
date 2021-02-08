@@ -15,8 +15,8 @@
         <entry>vsplit</entry>
         <entry>action FindPrevious</entry>
         <entry>action FindNext</entry>
-        <entry>action AceJumpAction</entry>
         <entry>action RecentFiles</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,12 +112,6 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Cat.java" timestamp="1610975979787">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="40" />
-      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/Room.java" timestamp="1611320685921">
         <mark key="e" line="49" column="76" />
         <mark key="'" line="51" column="0" />
@@ -182,7 +176,13 @@
         <mark key="." line="24" column="61" />
         <mark key="^" line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/Desktop/webapp/pom.xml" timestamp="1612785632926">
+      <file name="$USER_HOME$/Desktop/lambda/src/BlankObject.java" timestamp="1612789654931">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/webapp/pom.xml" timestamp="1612788139390">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="15" />
@@ -199,17 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="13" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/config/Appconfig.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DepartmentDao.java" />
-      <jump line="21" column="10" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DepartmentDao.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DaoInfo.java" />
-      <jump line="69" column="20" filename="$USER_HOME$/Desktop/project/halo/src/main/java/run/halo/app/model/entity/User.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/project/springmvc/src/main/com/gz/webapp/resources/spring-servlet.xml" />
-      <jump line="24" column="7" filename="$USER_HOME$/Desktop/project/springmvc/src/main/com/gz/webapp/resources/spring-servlet.xml" />
-      <jump line="24" column="1" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DaoInfo.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/Desktop/project/webapp/src/main/java/com/webapp/Dao/DaoInfo.java" />
-      <jump line="2" column="27" filename="$USER_HOME$/Desktop/project/todoapp/src/main/resources/application.properties" />
-      <jump line="32" column="0" filename="$USER_HOME$/Desktop/project/todoapp/src/test/java/com/todoapp/TodoappApplicationTests.java" />
       <jump line="24" column="8" filename="$USER_HOME$/Desktop/project/todoapp/src/test/java/com/todoapp/TodoappApplicationTests.java" />
       <jump line="4" column="16" filename="$USER_HOME$/Desktop/project/todoapp/src/main/resources/templates/demo/demo.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/project/todoapp/pom.xml" />
@@ -299,45 +288,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" />
       <jump line="74" column="0" filename="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" />
+      <jump line="22" column="9" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="34" column="4" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="13" column="41" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="68" column="29" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="14" column="27" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="69" column="30" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>war</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>war</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBmb28oKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQldNLmNsYXNzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odCAtPiB7cmV0dXJuICAic2RhZnNhZiJ9KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Q2xhc3MoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0ZXN0KCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Q2xhc3MoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0TW9kZWwoKSArIHN1cGVyLmdldEJyYW5kKCkrIHN1cGVyLmdldE5hbWUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5wcmludHBhcmFlbnQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3VwZXIuZ2V0QnJhbmQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIGxhbWJkYXRlc3QodGVzdCAtPiB7cmV0cnVuIH0pIHsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3VwZXIuYnJhbmQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
