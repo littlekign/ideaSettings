@@ -77,19 +77,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/Hotel.java" timestamp="1611320472280">
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="19" column="48" />
-        <mark key="m" line="18" column="29" />
-        <mark key="." line="19" column="47" />
-        <mark key="^" line="19" column="48" />
-      </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" timestamp="1611975301168">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="34" />
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/test/java/org/zdd/bookstore/BookstoreApplicationTests.java" timestamp="1616077207515">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="59" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="59" />
       </file>
       <file name="$USER_HOME$/Desktop/webapp/src/main/webapp/logical/Hello.java" timestamp="1612785748815">
         <mark key="[" line="13" column="0" />
@@ -102,54 +95,14 @@
         <mark key="]" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/BookstoreApplication.java" timestamp="1616073770005" />
-      <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/Room.java" timestamp="1611320685921">
-        <mark key="e" line="49" column="76" />
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="49" column="115" />
-        <mark key="]" line="49" column="121" />
-        <mark key="." line="49" column="120" />
-        <mark key="^" line="49" column="121" />
-      </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/arraydemo/ArrayDemo.java" timestamp="1611319830837">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="19" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/algorithm/BubbleSort.java" timestamp="1611407281200">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/lambda/src/LambdaTest.java" timestamp="1612704138986">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="46" />
-      </file>
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/pom.xml" timestamp="1616074784654" />
-      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" timestamp="1611935863859">
-        <mark key="'" line="92" column="9" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="68" />
-      </file>
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/config/BSConfig.java" timestamp="1616076255435" />
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/crawl/CrawlBookDataMain.java" timestamp="1616076246367" />
       <file name="$USER_HOME$/Desktop/rawjava_complier/algorithm/singleList/Node.java" timestamp="1611985503907">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/arraydemo/Stacksimulate.java" timestamp="1611244348106">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="49" />
-        <mark key="." line="22" column="48" />
-        <mark key="^" line="22" column="49" />
-      </file>
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/InitWebInfoCommandLineRunner.java" timestamp="1616074838721" />
       <file name="$USER_HOME$/Desktop/rawjava_complier/Tread/TreadTest.java" timestamp="1612448841084">
         <mark key="[" line="24" column="61" />
         <mark key="]" line="24" column="62" />
@@ -162,6 +115,25 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" timestamp="1611975301168">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="34" />
+      </file>
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/BookstoreApplication.java" timestamp="1616073770005" />
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/resources/mybatis/mapper/OrderShippingMapper.xml" timestamp="1616077526163" />
+      <file name="/Volumes/centos/mavenRepository/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE.jar!/org/springframework/boot/CommandLineRunner.class" timestamp="1616076593405" />
+      <file name="$USER_HOME$/Desktop/lambda/src/LambdaTest.java" timestamp="1612704138986">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="46" />
+      </file>
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/pom.xml" timestamp="1616074784654" />
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/InitWebInfoCommandLineRunner.java" timestamp="1616076708060" />
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/model/entity/GlobalParameter.java" timestamp="1616076488009" />
       <file name="$USER_HOME$/Desktop/webapp/pom.xml" timestamp="1612788139390">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="16" />
@@ -179,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="8" filename="$USER_HOME$/Desktop/project/todoapp/src/test/java/com/todoapp/TodoappApplicationTests.java" />
       <jump line="4" column="16" filename="$USER_HOME$/Desktop/project/todoapp/src/main/resources/templates/demo/demo.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/project/todoapp/pom.xml" />
       <jump line="23" column="24" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/pom.xml" />
@@ -279,45 +250,46 @@
       <jump line="14" column="27" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
       <jump line="69" column="30" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/3.18/书城/bookstore/src/test/java/org/zdd/bookstore/BookstoreApplicationTests.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bookstore</text>
+        <text>globalParameters</text>
       </register>
       <register name="-" type="4">
-        <text>bookstore</text>
+        <text>globalParameters</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLmFzTGlzdChnbG9iYWxQYXJhbWV0ZXJzKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQldNLmNsYXNzOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG5ldyBMaXN0W117Z2xvYmFsUGFyYW1ldGVyc30pKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Q2xhc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbml0V2ViSW5mb0NvbW1hbmRMaW5lUnVubmVyLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Q2xhc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0TW9kZWwoKSArIHN1cGVyLmdldEJyYW5kKCkrIHN1cGVyLmdldE5hbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQldNLmNsYXNzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Q2xhc3MoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5wcmludHBhcmFlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Q2xhc3MoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3VwZXIuZ2V0QnJhbmQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0TW9kZWwoKSArIHN1cGVyLmdldEJyYW5kKCkrIHN1cGVyLmdldE5hbWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3VwZXIuYnJhbmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
