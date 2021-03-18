@@ -77,9 +77,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611237233495">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/Hotel.java" timestamp="1611320472280">
         <mark key="[" line="19" column="47" />
         <mark key="]" line="19" column="48" />
@@ -94,25 +91,18 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="34" />
       </file>
-      <file name="/Volumes/centos/codes/work-space/forum/forum.sql" timestamp="1615982608937" />
-      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Master.java" timestamp="1610978861135">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="19" />
-      </file>
       <file name="$USER_HOME$/Desktop/webapp/src/main/webapp/logical/Hello.java" timestamp="1612785748815">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/Pet.java" timestamp="1610978430505">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="40" />
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/resources/application.properties" timestamp="1616075050708">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="52" />
+        <mark key="." line="12" column="52" />
       </file>
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/BookstoreApplication.java" timestamp="1616073770005" />
       <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/Room.java" timestamp="1611320685921">
         <mark key="e" line="49" column="76" />
         <mark key="'" line="51" column="0" />
@@ -139,6 +129,7 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/pom.xml" timestamp="1616074784654" />
       <file name="$USER_HOME$/Desktop/rawjava_complier/powernode/PloymorphismTest.java" timestamp="1611935863859">
         <mark key="'" line="92" column="9" />
         <mark key="[" line="13" column="0" />
@@ -152,19 +143,13 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/HotelSystem/RoomApplication.java" timestamp="1611239082922">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="60" column="50" />
-        <mark key="]" line="61" column="47" />
-        <mark key="." line="61" column="46" />
-        <mark key="^" line="61" column="47" />
-      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/arraydemo/Stacksimulate.java" timestamp="1611244348106">
         <mark key="[" line="22" column="38" />
         <mark key="]" line="22" column="49" />
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="49" />
       </file>
+      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/InitWebInfoCommandLineRunner.java" timestamp="1616074838721" />
       <file name="$USER_HOME$/Desktop/rawjava_complier/Tread/TreadTest.java" timestamp="1612448841084">
         <mark key="[" line="24" column="61" />
         <mark key="]" line="24" column="62" />
@@ -298,11 +283,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      <register name="&quot;" type="4">
+        <text>bookstore</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>bookstore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
