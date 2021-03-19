@@ -77,6 +77,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/2021/march/jinxiaocun/src/main/resources/application.properties" timestamp="1616159793590">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/test/java/org/zdd/bookstore/BookstoreApplicationTests.java" timestamp="1616077207515">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="27" />
@@ -95,8 +101,17 @@
         <mark key="]" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/config/BSConfig.java" timestamp="1616076255435" />
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/crawl/CrawlBookDataMain.java" timestamp="1616076246367" />
+      <file name="$USER_HOME$/Downloads/2021/march/jinxiaocun/.gitattributes" timestamp="1616159857963">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/lambda/src/LambdaTest.java" timestamp="1612704138986">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="46" />
+      </file>
       <file name="$USER_HOME$/Desktop/rawjava_complier/algorithm/singleList/Node.java" timestamp="1611985503907">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -115,25 +130,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/autoBoxing/AutoBoxingAndUnBoxing.java" timestamp="1611975301168">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="34" />
-      </file>
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/BookstoreApplication.java" timestamp="1616073770005" />
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/resources/mybatis/mapper/OrderShippingMapper.xml" timestamp="1616077526163" />
-      <file name="/Volumes/centos/mavenRepository/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE.jar!/org/springframework/boot/CommandLineRunner.class" timestamp="1616076593405" />
-      <file name="$USER_HOME$/Desktop/lambda/src/LambdaTest.java" timestamp="1612704138986">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="46" />
-      </file>
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/pom.xml" timestamp="1616074784654" />
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/InitWebInfoCommandLineRunner.java" timestamp="1616076708060" />
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/java/org/zdd/bookstore/model/entity/GlobalParameter.java" timestamp="1616076488009" />
       <file name="$USER_HOME$/Desktop/webapp/pom.xml" timestamp="1612788139390">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="16" />
@@ -256,40 +252,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>globalParameters</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>globalParameters</text>
+        <text>*</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLmFzTGlzdChnbG9iYWxQYXJhbWV0ZXJzKSk7Cg==</text>
+        <text encoding="base64">I++/ve+/ve+/vdKz1r7Dsu+/vXNxbO+/ve+/vc6777+977+9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG5ldyBMaXN0W117Z2xvYmFsUGFyYW1ldGVyc30pKTsK</text>
+        <text encoding="base64">I++/ve+/ve+/ve+/ve+/vc+077+9zbzGrO+/ve+/vdChCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0V2ViSW5mb0NvbW1hbmRMaW5lUnVubmVyLgo=</text>
+        <text encoding="base64">I++/ve+/ve+/vd2/77+9IO+/ve+/ve+/ve+/vWRydWlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">I++/ve+/vdKq77+977+977+977+9IO+/ve+/ve+/ve+/ve+/ve+/vdKq77+977+9zqrNo++/ve+/ve+/vdq777+977+977+977+977+977+977+977+977+977+91LHvv73vv73vv73vv73vv73vv73vv73vv70K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQldNLmNsYXNzOwo=</text>
+        <text encoding="base64">I3RoeW1lbGVhZiDvv73vv73vv73vv71MRUdBQ1lIVE1MNe+/ve+/vcq+77+977+977+977+9aHRtbDXEo8q977+977+977+977+977+977+977+977+977+977+9z7jvv73vv71odG1s77+977+977+91qPvv73Uqu+/ve+/ve+/vdm177+9yrLDtNKy77+977+977+91LHvv73vv73vv73NqO+/ve+/ve+/ve+/vSDvv73vv73vv73vv73Ivc+377+977+9z7Tvv73StcSx77+90LTPsO+/vd+j77+9zKvvv73vv73vv73PuO+/ve+/vWh0bWzvv73vv73QtO+/ve+/ve+/ve+/ve+/ve+/vQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Q2xhc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLmFzTGlzdChnbG9iYWxQYXJhbWV0ZXJzKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0Q2xhc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG5ldyBMaXN0W117Z2xvYmFsUGFyYW1ldGVyc30pKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0TW9kZWwoKSArIHN1cGVyLmdldEJyYW5kKCkrIHN1cGVyLmdldE5hbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbml0V2ViSW5mb0NvbW1hbmRMaW5lUnVubmVyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
