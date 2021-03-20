@@ -83,11 +83,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/webapp/WEB-INF/web.xml" timestamp="1616245554273">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/webapp/WEB-INF/web.xml" timestamp="1616246324597">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="47" />
       </file>
       <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/test/java/org/zdd/bookstore/BookstoreApplicationTests.java" timestamp="1616077207515">
         <mark key="'" line="0" column="0" />
@@ -245,8 +245,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSAgICBmZHNhLS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -255,31 +255,31 @@
         <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSAgICBmZHNhLS0+Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgbGFudWNoIGFmdGVyIHRvbWNhdCBzdGFydCAhISEtLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkZQo=</text>
+        <text encoding="base64">ICAgIDwvc2VydmxldD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I++/ve+/ve+/vdKz1r7Dsu+/vXNxbO+/ve+/vc6777+977+9Cg==</text>
+        <text encoding="base64">ICAgIDxzZXJ2bGV0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I++/ve+/ve+/ve+/ve+/vc+077+9zbzGrO+/ve+/vdChCg==</text>
+        <text encoding="base64">ICAgICAgICA8c2VydmxldC1uYW1lPjwvc2VydmxldC1uYW1lPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I++/ve+/ve+/vd2/77+9IO+/ve+/ve+/ve+/vWRydWlkCg==</text>
+        <text encoding="base64">PCEtLSAgICBmZHNhLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I++/ve+/vdKq77+977+977+977+9IO+/ve+/ve+/ve+/ve+/ve+/vdKq77+977+9zqrNo++/ve+/ve+/vdq777+977+977+977+977+977+977+977+977+977+91LHvv73vv73vv73vv73vv73vv73vv73vv70K</text>
+        <text encoding="base64">ICAgIDxkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3RoeW1lbGVhZiDvv73vv73vv73vv71MRUdBQ1lIVE1MNe+/ve+/vcq+77+977+977+977+9aHRtbDXEo8q977+977+977+977+977+977+977+977+977+977+9z7jvv73vv71odG1s77+977+977+91qPvv73Uqu+/ve+/ve+/vdm177+9yrLDtNKy77+977+977+91LHvv73vv73vv73NqO+/ve+/ve+/ve+/vSDvv73vv73vv73vv73Ivc+377+977+9z7Tvv73StcSx77+90LTPsO+/vd+j77+9zKvvv73vv73vv73PuO+/ve+/vWh0bWzvv73vv73QtO+/ve+/ve+/ve+/ve+/ve+/vQo=</text>
+        <text encoding="base64">I++/ve+/ve+/vdKz1r7Dsu+/vXNxbO+/ve+/vc6777+977+9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLmFzTGlzdChnbG9iYWxQYXJhbWV0ZXJzKSk7Cg==</text>
+        <text encoding="base64">I++/ve+/ve+/ve+/ve+/vc+077+9zbzGrO+/ve+/vdChCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG5ldyBMaXN0W117Z2xvYmFsUGFyYW1ldGVyc30pKTsK</text>
+        <text encoding="base64">I++/ve+/ve+/vd2/77+9IO+/ve+/ve+/ve+/vWRydWlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
