@@ -83,11 +83,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/webapp/WEB-INF/web.xml" timestamp="1616246324597">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="47" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="47" />
+      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/webapp/WEB-INF/web.xml" timestamp="1616247086673">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="21" column="8" />
       </file>
       <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/test/java/org/zdd/bookstore/BookstoreApplicationTests.java" timestamp="1616077207515">
         <mark key="'" line="0" column="0" />
@@ -96,17 +96,23 @@
         <mark key="." line="38" column="58" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="$USER_HOME$/Desktop/lambda/src/LambdaTest.java" timestamp="1612704138986">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="46" />
-      </file>
       <file name="$USER_HOME$/Desktop/webapp/src/main/webapp/logical/Hello.java" timestamp="1612785748815">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/java/controller/HelloController.java" timestamp="1616247397198">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/resources/springmvc.xml" timestamp="1616248792370">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/main/resources/application.properties" timestamp="1616075050708">
         <mark key="[" line="12" column="52" />
@@ -118,17 +124,35 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/webapp/index.jsp" timestamp="1616248459870">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/code/springMvc/pom.xml" timestamp="1616248975720">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/webapp/show.jsp" timestamp="1616248432946">
+        <mark key="'" line="13" column="3" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/lambda/src/LambdaTest.java" timestamp="1612704138986">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="46" />
+      </file>
       <file name="$USER_HOME$/Desktop/lambda/src/BlankObject.java" timestamp="1612789654931">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/code/springMvc/pom.xml" timestamp="1616245284721">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/webapp/pom.xml" timestamp="1612788139390">
         <mark key="[" line="9" column="13" />
@@ -136,12 +160,17 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/Desktop/code/springMvc/src/main/java/com/gz/controller/MyController.java" timestamp="1616248316812">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="65" />
+        <mark key="^" line="15" column="65" />
+        <mark key="." line="15" column="64" />
+      </file>
       <file name="/fragment.java" timestamp="1616160982295">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="16" filename="$USER_HOME$/Desktop/project/todoapp/src/main/resources/templates/demo/demo.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/project/todoapp/pom.xml" />
       <jump line="23" column="24" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/pom.xml" />
       <jump line="12" column="25" filename="$USER_HOME$/Desktop/project/shiro/spring-shiro/src/main/resources/templates/index.html" />
@@ -241,45 +270,46 @@
       <jump line="69" column="30" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Desktop/lambda/src/BlankObject.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/3.18/书城/bookstore/src/test/java/org/zdd/bookstore/BookstoreApplicationTests.java" />
+      <jump line="13" column="3" filename="$USER_HOME$/Desktop/code/springMvc/src/main/webapp/show.jsp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text />
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRNb2RlbCgibW9kZWwzIGZyb20gaW5uZXIgY2xhc3MiKTsK</text>
+        <text encoding="base64">ICAgIDxoMT5tc2cgZGF0YSA6ICR7bXNnfTwvaDE+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgbGFudWNoIGFmdGVyIHRvbWNhdCBzdGFydCAhISEtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvc2VydmxldD4K</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0IC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb250ZXh0PC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj41LjMuNTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzZXJ2bGV0Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmxldC1uYW1lPjwvc2VydmxldC1uYW1lPgo=</text>
+        <text encoding="base64">ICAgIDxkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSAgICBmZHNhLS0+Cg==</text>
+        <text encoding="base64">ICAgIDxjb21wb25ldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZQo=</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0OmNvbXBvbmV0LXNjYW4gPjwvY29udGV4dDpjb21wb25ldC1zY2FuPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I++/ve+/ve+/vdKz1r7Dsu+/vXNxbO+/ve+/vc6777+977+9Cg==</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0OmNvbXBvbmV0LXNjYW4+PC9jb250ZXh0OmNvbXBvbmV0LXNjYW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I++/ve+/ve+/ve+/ve+/vc+077+9zbzGrO+/ve+/vdChCg==</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I++/ve+/ve+/vd2/77+9IO+/ve+/ve+/ve+/vWRydWlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
