@@ -147,6 +147,18 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/Desktop/code/servlet/src/com/gz/Servlet/HelloServlet.java" timestamp="1616594179011">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/code/servlet/web/WEB-INF/web.xml" timestamp="1616594158902">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="35" />
+      </file>
       <file name="$USER_HOME$/Desktop/lambda/src/BlankObject.java" timestamp="1612789654931">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="72" column="0" />
@@ -274,41 +286,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxjb24K</text>
+      <register name="&quot;" type="4">
+        <text>servletConfig</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>servletConfig</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxoMT5tc2cgZGF0YSA6ICR7bXNnfTwvaDE+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxjb24K</text>
+        <text encoding="base64">ICAgICAgICA8aW5pPjwvaW5pPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG12Yzp4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
+        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0IC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb250ZXh0PC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj41LjMuNTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb1Bvc3QocmVxLCByZXNwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkZAo=</text>
+        <text encoding="base64">ICAgIDxjb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb21wb25ldAo=</text>
+        <text encoding="base64">ICAgIG12Yzp4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0OmNvbXBvbmV0LXNjYW4gPjwvY29udGV4dDpjb21wb25ldC1zY2FuPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0OmNvbXBvbmV0LXNjYW4+PC9jb250ZXh0OmNvbXBvbmV0LXNjYW4+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc3ByaW5nZnJhbWV3b3JrL3NwcmluZy1jb250ZXh0IC0tPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb250ZXh0PC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj41LjMuNTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
