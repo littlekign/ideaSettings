@@ -89,6 +89,9 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="21" column="8" />
       </file>
+      <file name="/Dummy.txt" timestamp="1616684787304">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/test/java/org/zdd/bookstore/BookstoreApplicationTests.java" timestamp="1616077207515">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="27" />
@@ -146,25 +149,17 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/music/projects/src/main/java/com/projects/core/aop/GlobalExceptionHandler.java" timestamp="1616678535742" />
-      <file name="$USER_HOME$/Downloads/music/projects/src/main/webapp/pages/login.html" timestamp="1616678755509" />
       <file name="$USER_HOME$/Desktop/code/servlet/web/WEB-INF/web.xml" timestamp="1616594158902">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="35" />
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/lambda/src/BlankObject.java" timestamp="1612789654931">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/webapp/pom.xml" timestamp="1612788139390">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/Downloads/bussi/后端完整/mengxuegu-blog/mengxuegu-blog-article/src/main/resources/application.yml" timestamp="1616684866500">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/code/springMvc/src/main/java/com/gz/controller/MyController.java" timestamp="1616248316812">
         <mark key="[" line="15" column="55" />
@@ -178,7 +173,7 @@
         <mark key="." line="62" column="37" />
         <mark key="^" line="62" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1616160982295">
+      <file name="/fragment.java" timestamp="1616684787062">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -288,10 +283,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY3h0KTsK</text>
