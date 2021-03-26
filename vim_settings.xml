@@ -105,6 +105,12 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/rawjava_complier/Proxy/ProxyDemo.java" timestamp="1616769350947">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/code/springMvc/src/main/resources/springmvc.xml" timestamp="1616249662155">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -282,8 +288,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>root</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="-" type="4">
         <text>root</text>
@@ -292,9 +298,21 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY3h0KTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
+      <register name="2" type="4">
+        <text>*
+ * FileName: ProxyDemo
+ * Author:   lk
+ * Date:     3/26/21 10:35 PM
+ * Description:
+ * History:
+ */</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXEuZ2V0U2VydmxldENvbnRleHQoKQo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text>/**
  * FileName: HelloServlet
  * Author:   lk
@@ -303,26 +321,20 @@
  * History:
  */</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8aW5pPjwvaW5pPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kb1Bvc3QocmVxLCByZXNwKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxjb24K</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
