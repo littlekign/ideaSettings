@@ -145,11 +145,11 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/rawjava_complier/String/StringDemo.java" timestamp="1616834892132">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="42" />
-        <mark key="^" line="16" column="43" />
+      <file name="$USER_HOME$/Desktop/rawjava_complier/String/StringDemo.java" timestamp="1616835508697">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="31" />
+        <mark key="^" line="24" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/code/servlet/src/com/gz/Servlet/HelloServlet.java" timestamp="1616595058238">
         <mark key="[" line="15" column="78" />
@@ -290,46 +290,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHgudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>x</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHgudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy5hc0xpc3QoeCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzc0xvYWRlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFyclt4XSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0ub2YoYXJyKS5mb3JFYWNoKHgtPnsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFyclt4XSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>**
- * FileName: StringDemo
- * Author:   lk
- * Date:     3/27/21 4:38 PM
- * Description:
- * History:
- */</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU3RyaW5nVGFibGUuU3RyaW5nVmlzaXRvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBVc2VyLmNsYXNzLm5ld0luc3RhbmNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVXNlcigpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzc0xvYWRlcigpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
