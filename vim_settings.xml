@@ -77,6 +77,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Downloads/2021/march/remoteWMS-master/src/main/java/com/signv/listener/SocketServiceLoader.java" timestamp="1617192637793">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/2021/march/jinxiaocun/src/main/resources/application.properties" timestamp="1616159793590">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -92,12 +97,10 @@
       <file name="/Dummy.txt" timestamp="1616833516628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/3.18/书城/bookstore/src/test/java/org/zdd/bookstore/BookstoreApplicationTests.java" timestamp="1616077207515">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="59" />
-        <mark key="." line="38" column="58" />
-        <mark key="^" line="38" column="59" />
+      <file name="$USER_HOME$/Downloads/2021/march/remoteWMS-master/src/main/java/com/signv/listener/SocketThread.java" timestamp="1617192619024">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/code/springMvc/src/main/java/controller/HelloController.java" timestamp="1616247397198">
         <mark key="[" line="15" column="22" />
@@ -290,7 +293,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHgudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -299,31 +302,38 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHgudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy5hc0xpc3QoeCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHgpOwo=</text>
+        <text>/**
+ * 将socket service随tomcat启动
+ * @author zhangzhongwen
+ *</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFyclt4XSk7Cg==</text>
+        <text>/**
+ * socket 线程类
+ * @author zhangzhongwen
+ *
+ */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW0ub2YoYXJyKS5mb3JFYWNoKHgtPnsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFyclt4XSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHgudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy5hc0xpc3QoeCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFyclt4XSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFDbGFzcy5nZXRDbGFzc0xvYWRlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0ub2YoYXJyKS5mb3JFYWNoKHgtPnsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFyclt4XSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
