@@ -82,12 +82,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/2021/march/jinxiaocun/src/main/resources/application.properties" timestamp="1616159793590">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="9" column="33" />
-      </file>
       <file name="$USER_HOME$/Desktop/code/springMvc/src/main/webapp/WEB-INF/web.xml" timestamp="1616247086673">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -154,6 +148,7 @@
         <mark key="." line="24" column="31" />
         <mark key="^" line="24" column="32" />
       </file>
+      <file name="$USER_HOME$/Downloads/2021/april/archive/webShopping/src/beans.xml" timestamp="1617888482670" />
       <file name="$USER_HOME$/Desktop/code/servlet/src/com/gz/Servlet/HelloServlet.java" timestamp="1616595058238">
         <mark key="[" line="15" column="78" />
         <mark key="]" line="17" column="0" />
